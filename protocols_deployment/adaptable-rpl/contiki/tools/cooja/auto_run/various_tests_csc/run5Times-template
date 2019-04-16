@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#delete old log files
+rm COOJA.testlog
+
+for i in {1..5} 
+	do 
+		java -mx1024m -jar ../../../../tools/cooja/dist/cooja.jar -nogui='1s-10m-100st-Imin12-RX40.csc' -contiki='../../../..'
+		cp COOJA.testlog '1s-10m-100st-Imin12-RX40-run'$i'.log' 
+	done

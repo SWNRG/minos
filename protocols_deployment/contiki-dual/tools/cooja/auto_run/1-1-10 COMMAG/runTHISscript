@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# execute all *csc files found.
+# they have to be cooja scenarios WITHOUT GUI
+#./runALLcsc
+
+# playing with Idouble only
+# ./fullScript-Idouble-Change
+
+# altering period of sent messages
+# ./fullScript-various-Periods
+
+# run this ONLY IF YOU WANT TO RECREATE GRAPHS
+./fullScript-various-Periods-ONLY-4-RECREATE
+
+# sort the already created mobile statistics
+./sortMobStats.py
+# the above file is calling with parameters the onlyMobNodesStats.py
+
+
+
+

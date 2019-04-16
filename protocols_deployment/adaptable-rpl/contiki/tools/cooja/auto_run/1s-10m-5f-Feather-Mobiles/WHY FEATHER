@@ -1,0 +1,1 @@
+A node in feather mode routes packets on behalf of other nodes but does not advertise their own route via DAO messages. Feather nodes can send data to other nodes inside or outside of the network and they can receive multicast messages and unicast messages from immediate neighbors, but they cannot be reached through the mesh.

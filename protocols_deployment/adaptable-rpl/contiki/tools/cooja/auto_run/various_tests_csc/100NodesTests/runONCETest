@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#delete old log files
+rm COOJA.testlog
+rm *.log
+
+#for i in {1..1} 
+	#do 
+		java -mx512m -jar ../../../../tools/cooja/dist/cooja.jar -nogui='100RandomNodes.csc' -contiki='../../../..'
+		#cp COOJA.testlog '100RandomNodes-run'$i'.log' 
+	#done

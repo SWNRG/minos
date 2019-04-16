@@ -1,0 +1,72 @@
+#!/bin/bash
+
+# PERIOD 60 means 60 packets per hour
+# PERIOD 6 means 600 packets per hour
+
+# iL = init Logs
+# oL = Output Logs
+# fp = fixed nodes Period
+# fId = fixed nodes Idouble
+
+mobPer=50 #mobile Period
+fixPer=30 # fixed station Period
+mobId=8 # mobile station Idouble - Usually unchanged
+fid=8 # fixed station Idouble - Can play with it
+
+#delete old log files if any
+rm COOJA.testlog
+rm COOJA.log
+
+echo
+#start running ALL avaliable csc files
+for mobPer in {55..55..10}
+   do
+      for fixPer in {45..45..10}
+         do 
+            initDir='iL-mP='"$mobPer"'-fP='"$fixPer"'-fId='"$fid"
+            logDir='oL-mP='"$mobPer"'-fP='"$fixPer"'-fId='"$fid"
+            echo "======= Scripts file on: " $initDir "====================" 
+            mkdir $initDir
+            mkdir $logDir    
+            for filename in *.csc ;
+            	do
+                  #echo "Passing Idouble in fixed parameter: " $fid
+                  (cd ../../../../examples/ipv6/coral-rpl-upd && exec python ./changeParams.py -mp $mobPer -fp $fixPer -fi $fid -mi $mobId) # be careful, we need the parentheses 
+                    
+                  echo "running scenario: " $filename
+				      java -Xmx4096m -jar ../../../../tools/cooja/dist/cooja.jar -nogui="$filename" -contiki='../../../..'
+				      
+				      # remane current cooja output to appropriate folder name
+				      cp COOJA.testlog "$initDir"'/'"$filename"'.log' 
+						#remove old cooja output. Not needed any more...
+				      rm COOJA.testlog
+				      rm COOJA.log
+			      done	
+               
+               #echo "1.Calling createAlllogs-new.py on " $filename
+				   ./createALLlogs-new.py -r $initDir -w $logDir
+
+               #echo "3.Creating Graphs inside scripts file"
+               
+               cp ./auto-PDR.plt "$logDir"
+               cp ./auto-OVERHEAD.plt "$logDir"
+               cp ./auto-PDR-mobs.plt "$logDir"
+               cp ./auto-Round-PDR.plt "$logDir"
+               # in case you want to re-create graphs, run this inside each folder
+               cp ./createGraphsAgain $logDir
+               #go into the folder ./logs and create the above graphs
+               cd $logDir
+               ./createGraphsAgain
+               cd ..
+               #echo "======== Round finished in scripts file ==========="
+               echo
+         done
+         echo "======= FINISHED Scripts file on: " $initDir "============="
+   done
+
+
+echo "============= script file finished ============================="
+echo   
+#copy all PDR graphs inside folder 1.allGraphsFolder
+./getAllGraphs.py
+

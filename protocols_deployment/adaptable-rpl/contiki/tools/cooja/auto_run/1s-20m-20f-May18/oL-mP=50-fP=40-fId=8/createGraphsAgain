@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gnuplot ./auto-PDR.plt
+gnuplot ./auto-OVERHEAD.plt

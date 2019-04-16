@@ -1,0 +1,5 @@
+#!/bin/bash
+
+gnuplot ./auto-PDR.plt
+gnuplot ./auto-OVERHEAD.plt
+gnuplot ./auto-PDR-mobs.plt

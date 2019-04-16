@@ -1,0 +1,5035 @@
+Random seed: 123456
+936287:8:Rime started with address 193.12.0.0.0.0.0.8
+944528:8:MAC c1:0c:00:00:00:00:00:08 Contiki-3.x-3341-g80dbe5c started. Node id is set to 8.
+950259:8:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+958060:8:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0008
+962131:8:Starting 'UDP client process' 'Printing metrics process'
+1054090:11:Rime started with address 193.12.0.0.0.0.0.11
+1062479:11:MAC c1:0c:00:00:00:00:00:0b Contiki-3.x-3341-g80dbe5c started. Node id is set to 11.
+1068216:11:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1076018:11:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000b
+1080088:11:Starting 'UDP client process' 'Printing metrics process'
+1099638:2:Rime started with address 193.12.0.0.0.0.0.2
+1107879:2:MAC c1:0c:00:00:00:00:00:02 Contiki-3.x-3341-g80dbe5c started. Node id is set to 2.
+1113610:2:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1114174:6:Rime started with address 193.12.0.0.0.0.0.6
+1121411:2:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0002
+1122415:6:MAC c1:0c:00:00:00:00:00:06 Contiki-3.x-3341-g80dbe5c started. Node id is set to 6.
+1125482:2:Starting 'UDP client process' 'Printing metrics process'
+1128146:6:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1135947:6:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0006
+1140018:6:Starting 'UDP client process' 'Printing metrics process'
+1211876:4:Rime started with address 193.12.0.0.0.0.0.4
+1220117:4:MAC c1:0c:00:00:00:00:00:04 Contiki-3.x-3341-g80dbe5c started. Node id is set to 4.
+1225848:4:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1233649:4:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0004
+1237720:4:Starting 'UDP client process' 'Printing metrics process'
+1244851:1:Rime started with address 193.12.0.0.0.0.0.1
+1253133:1:MAC c1:0c:00:00:00:00:00:01 Contiki-3.x-3341-g80dbe5c started. Node id is set to 1.
+1258874:1:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1265288:7:Rime started with address 193.12.0.0.0.0.0.7
+1266675:1:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+1271243:1:Starting 'UDP server process' 'Printing Server metrics process'
+1273529:7:MAC c1:0c:00:00:00:00:00:07 Contiki-3.x-3341-g80dbe5c started. Node id is set to 7.
+1279260:7:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1287061:7:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0007
+1291132:7:Starting 'UDP client process' 'Printing metrics process'
+1420110:10:Rime started with address 193.12.0.0.0.0.0.10
+1428499:10:MAC c1:0c:00:00:00:00:00:0a Contiki-3.x-3341-g80dbe5c started. Node id is set to 10.
+1434236:10:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1442038:10:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:000a
+1446108:10:Starting 'UDP client process' 'Printing metrics process'
+1571995:9:Rime started with address 193.12.0.0.0.0.0.9
+1578629:5:Rime started with address 193.12.0.0.0.0.0.5
+1580236:9:MAC c1:0c:00:00:00:00:00:09 Contiki-3.x-3341-g80dbe5c started. Node id is set to 9.
+1585967:9:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1586870:5:MAC c1:0c:00:00:00:00:00:05 Contiki-3.x-3341-g80dbe5c started. Node id is set to 5.
+1592601:5:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1593768:9:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0009
+1597839:9:Starting 'UDP client process' 'Printing metrics process'
+1600402:5:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0005
+1604473:5:Starting 'UDP client process' 'Printing metrics process'
+1762858:3:Rime started with address 193.12.0.0.0.0.0.3
+1771099:3:MAC c1:0c:00:00:00:00:00:03 Contiki-3.x-3341-g80dbe5c started. Node id is set to 3.
+1776830:3:nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+1784631:3:Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0003
+1788702:3:Starting 'UDP client process' 'Printing metrics process'
+60957698:8:R:0, DAG-VERSION:240
+60959664:8:R:0, Imin:12, Idoubling:8
+60960852:8:R:0, udp_sent:0
+60962040:8:R:0, udp_recv:0
+60963299:8:R:0, icmp_sent:9
+60964691:8:R:0, icmp_recv:30
+60966021:8:R:0, Leaf MODE: 0
+61075389:11:R:0, DAG-VERSION:240
+61077355:11:R:0, Imin:12, Idoubling:8
+61078543:11:R:0, udp_sent:0
+61079731:11:R:0, udp_recv:0
+61080990:11:R:0, icmp_sent:7
+61082382:11:R:0, icmp_recv:17
+61083712:11:R:0, Leaf MODE: 0
+61121481:2:R:0, DAG-VERSION:240
+61123447:2:R:0, Imin:12, Idoubling:8
+61124635:2:R:0, udp_sent:0
+61125823:2:R:0, udp_recv:0
+61127233:2:R:0, icmp_sent:22
+61128604:2:R:0, icmp_recv:28
+61129935:2:R:0, Leaf MODE: 2
+61136017:6:R:0, DAG-VERSION:240
+61137983:6:R:0, Imin:12, Idoubling:8
+61139171:6:R:0, udp_sent:0
+61140359:6:R:0, udp_recv:0
+61141657:6:R:0, icmp_sent:8
+61143028:6:R:0, icmp_recv:10
+61144359:6:R:0, Leaf MODE: 2
+61233718:4:R:0, DAG-VERSION:240
+61235685:4:R:0, Imin:12, Idoubling:8
+61236873:4:R:0, udp_sent:0
+61238061:4:R:0, udp_recv:0
+61239359:4:R:0, icmp_sent:7
+61240731:4:R:0, icmp_recv:30
+61242061:4:R:0, Leaf MODE: 2
+61266210:1:R:0, DAG-VERSION:240
+61268176:1:R:0, Imin:12, Idoubling:8
+61269364:1:R:0, udp_sent:0
+61270552:1:R:0, udp_recv:0
+61271811:1:R:0, icmp_sent:1
+61273184:1:R:0, icmp_recv:62
+61274515:1:R:0, Leaf MODE: 0
+61286699:7:R:0, DAG-VERSION:240
+61288665:7:R:0, Imin:12, Idoubling:8
+61289853:7:R:0, udp_sent:0
+61291041:7:R:0, udp_recv:0
+61292300:7:R:0, icmp_sent:8
+61293692:7:R:0, icmp_recv:15
+61295022:7:R:0, Leaf MODE: 0
+61441409:10:R:0, DAG-VERSION:240
+61443375:10:R:0, Imin:12, Idoubling:8
+61444563:10:R:0, udp_sent:0
+61445751:10:R:0, udp_recv:0
+61447122:10:R:0, icmp_sent:12
+61448532:10:R:0, icmp_recv:17
+61449862:10:R:0, Leaf MODE: 0
+61593406:9:R:0, DAG-VERSION:240
+61595372:9:R:0, Imin:12, Idoubling:8
+61596560:9:R:0, udp_sent:0
+61597748:9:R:0, udp_recv:0
+61599007:9:R:0, icmp_sent:8
+61600399:9:R:0, icmp_recv:12
+61600472:5:R:0, DAG-VERSION:240
+61601729:9:R:0, Leaf MODE: 0
+61602438:5:R:0, Imin:12, Idoubling:8
+61603626:5:R:0, udp_sent:0
+61604814:5:R:0, udp_recv:0
+61606224:5:R:0, icmp_sent:19
+61607596:5:R:0, icmp_recv:25
+61608926:5:R:0, Leaf MODE: 2
+61784701:3:R:0, DAG-VERSION:240
+61786667:3:R:0, Imin:12, Idoubling:8
+61787855:3:R:0, udp_sent:0
+61789043:3:R:0, udp_recv:0
+61790341:3:R:0, icmp_sent:8
+61791713:3:R:0, icmp_recv:25
+61793043:3:R:0, Leaf MODE: 2
+95237030:1:Msg from Node: 2
+96619672:1:Msg from Node: 3
+114396922:1:Msg from Node: 4
+120957680:8:R:1, DAG-VERSION:240
+120959647:8:R:1, Imin:12, Idoubling:8
+120960835:8:R:1, udp_sent:0
+120962024:8:R:1, udp_recv:0
+120963395:8:R:1, icmp_sent:12
+120964806:8:R:1, icmp_recv:46
+120966137:8:R:1, Leaf MODE: 0
+121075361:11:R:1, DAG-VERSION:240
+121077328:11:R:1, Imin:12, Idoubling:8
+121078516:11:R:1, udp_sent:0
+121079705:11:R:1, udp_recv:0
+121080965:11:R:1, icmp_sent:9
+121082336:11:R:1, icmp_recv:21
+121083667:11:R:1, Leaf MODE: 0
+121121090:2:R:1, DAG-VERSION:240
+121123057:2:R:1, Imin:12, Idoubling:8
+121124246:2:R:1, udp_sent:1
+121125434:2:R:1, udp_recv:0
+121126806:2:R:1, icmp_sent:26
+121128210:2:R:1, icmp_recv:39
+121129541:2:R:1, Leaf MODE: 2
+121143638:6:R:1, DAG-VERSION:240
+121145605:6:R:1, Imin:12, Idoubling:8
+121146794:6:R:1, udp_sent:1
+121147982:6:R:1, udp_recv:0
+121149354:6:R:1, icmp_sent:11
+121150726:6:R:1, icmp_recv:15
+121152057:6:R:1, Leaf MODE: 2
+121233348:4:R:1, DAG-VERSION:240
+121235314:4:R:1, Imin:12, Idoubling:8
+121236503:4:R:1, udp_sent:1
+121237692:4:R:1, udp_recv:0
+121239064:4:R:1, icmp_sent:10
+121240447:4:R:1, icmp_recv:43
+121241778:4:R:1, Leaf MODE: 2
+121266200:1:R:1, DAG-VERSION:240
+121268167:1:R:1, Imin:12, Idoubling:8
+121269356:1:R:1, udp_sent:0
+121270545:1:R:1, udp_recv:3
+121271805:1:R:1, icmp_sent:1
+121273185:1:R:1, icmp_recv:79
+121274516:1:R:1, Leaf MODE: 0
+121286671:7:R:1, DAG-VERSION:240
+121288638:7:R:1, Imin:12, Idoubling:8
+121289826:7:R:1, udp_sent:0
+121291015:7:R:1, udp_recv:0
+121292275:7:R:1, icmp_sent:9
+121293646:7:R:1, icmp_recv:21
+121294977:7:R:1, Leaf MODE: 0
+121441381:10:R:1, DAG-VERSION:240
+121443348:10:R:1, Imin:12, Idoubling:8
+121444537:10:R:1, udp_sent:0
+121445725:10:R:1, udp_recv:0
+121447097:10:R:1, icmp_sent:13
+121448507:10:R:1, icmp_recv:27
+121449838:10:R:1, Leaf MODE: 0
+121594017:9:R:1, DAG-VERSION:240
+121595984:9:R:1, Imin:12, Idoubling:8
+121597172:9:R:1, udp_sent:0
+121598361:9:R:1, udp_recv:0
+121599758:9:R:1, icmp_sent:10
+121600101:5:R:1, DAG-VERSION:240
+121601130:9:R:1, icmp_recv:16
+121602068:5:R:1, Imin:12, Idoubling:8
+121602461:9:R:1, Leaf MODE: 0
+121603257:5:R:1, udp_sent:1
+121604445:5:R:1, udp_recv:0
+121605817:5:R:1, icmp_sent:39
+121607200:5:R:1, icmp_recv:29
+121608531:5:R:1, Leaf MODE: 2
+121784310:3:R:1, DAG-VERSION:240
+121786277:3:R:1, Imin:12, Idoubling:8
+121787466:3:R:1, udp_sent:1
+121788654:3:R:1, udp_recv:0
+121789914:3:R:1, icmp_sent:8
+121791287:3:R:1, icmp_recv:38
+121792618:3:R:1, Leaf MODE: 2
+147736529:1:Msg from Node: 3
+150674844:1:Msg from Node: 2
+153248343:1:Msg from Node: 4
+176755823:1:Msg from Node: 5
+180957670:8:R:2, DAG-VERSION:240
+180959637:8:R:2, Imin:12, Idoubling:8
+180960825:8:R:2, udp_sent:0
+180962014:8:R:2, udp_recv:0
+180963386:8:R:2, icmp_sent:12
+180964797:8:R:2, icmp_recv:50
+180966127:8:R:2, Leaf MODE: 0
+181075371:11:R:2, DAG-VERSION:240
+181077338:11:R:2, Imin:12, Idoubling:8
+181078526:11:R:2, udp_sent:0
+181079715:11:R:2, udp_recv:0
+181081086:11:R:2, icmp_sent:10
+181082497:11:R:2, icmp_recv:24
+181083828:11:R:2, Leaf MODE: 0
+181121462:2:R:2, DAG-VERSION:240
+181123429:2:R:2, Imin:12, Idoubling:8
+181124617:2:R:2, udp_sent:2
+181125806:2:R:2, udp_recv:0
+181127216:2:R:2, icmp_sent:28
+181128588:2:R:2, icmp_recv:46
+181129919:2:R:2, Leaf MODE: 2
+181135998:6:R:2, DAG-VERSION:240
+181137964:6:R:2, Imin:12, Idoubling:8
+181139153:6:R:2, udp_sent:2
+181140342:6:R:2, udp_recv:0
+181141752:6:R:2, icmp_sent:19
+181143124:6:R:2, icmp_recv:19
+181144455:6:R:2, Leaf MODE: 2
+181233680:4:R:2, DAG-VERSION:240
+181235647:4:R:2, Imin:12, Idoubling:8
+181236836:4:R:2, udp_sent:2
+181238024:4:R:2, udp_recv:0
+181239435:4:R:2, icmp_sent:10
+181240807:4:R:2, icmp_recv:51
+181242138:4:R:2, Leaf MODE: 2
+181266210:1:R:2, DAG-VERSION:240
+181268177:1:R:2, Imin:12, Idoubling:8
+181269365:1:R:2, udp_sent:0
+181270554:1:R:2, udp_recv:7
+181271814:1:R:2, icmp_sent:1
+181273186:1:R:2, icmp_recv:88
+181274517:1:R:2, Leaf MODE: 0
+181286681:7:R:2, DAG-VERSION:240
+181288648:7:R:2, Imin:12, Idoubling:8
+181289836:7:R:2, udp_sent:0
+181291025:7:R:2, udp_recv:0
+181292396:7:R:2, icmp_sent:10
+181293807:7:R:2, icmp_recv:23
+181295138:7:R:2, Leaf MODE: 0
+181441391:10:R:2, DAG-VERSION:240
+181443358:10:R:2, Imin:12, Idoubling:8
+181444546:10:R:2, udp_sent:0
+181445735:10:R:2, udp_recv:0
+181447106:10:R:2, icmp_sent:15
+181448517:10:R:2, icmp_recv:29
+181449848:10:R:2, Leaf MODE: 0
+181593388:9:R:2, DAG-VERSION:240
+181595355:9:R:2, Imin:12, Idoubling:8
+181596543:9:R:2, udp_sent:0
+181597732:9:R:2, udp_recv:0
+181599103:9:R:2, icmp_sent:12
+181600433:5:R:2, DAG-VERSION:240
+181600514:9:R:2, icmp_recv:25
+181601845:9:R:2, Leaf MODE: 0
+181602400:5:R:2, Imin:12, Idoubling:8
+181603589:5:R:2, udp_sent:2
+181604777:5:R:2, udp_recv:0
+181606188:5:R:2, icmp_sent:41
+181607560:5:R:2, icmp_recv:33
+181608891:5:R:2, Leaf MODE: 2
+181784662:3:R:2, DAG-VERSION:240
+181786629:3:R:2, Imin:12, Idoubling:8
+181787818:3:R:2, udp_sent:2
+181789006:3:R:2, udp_recv:0
+181790305:3:R:2, icmp_sent:9
+181791677:3:R:2, icmp_recv:44
+181793008:3:R:2, Leaf MODE: 2
+194224778:1:Msg from Node: 4
+212001266:1:Msg from Node: 6
+238213238:1:Msg from Node: 3
+240957661:8:R:3, DAG-VERSION:240
+240959627:8:R:3, Imin:12, Idoubling:8
+240960816:8:R:3, udp_sent:0
+240962004:8:R:3, udp_recv:0
+240963376:8:R:3, icmp_sent:12
+240964787:8:R:3, icmp_recv:56
+240966118:8:R:3, Leaf MODE: 0
+241075361:11:R:3, DAG-VERSION:240
+241077328:11:R:3, Imin:12, Idoubling:8
+241078516:11:R:3, udp_sent:0
+241079705:11:R:3, udp_recv:0
+241081077:11:R:3, icmp_sent:11
+241082487:11:R:3, icmp_recv:29
+241083818:11:R:3, Leaf MODE: 0
+241121110:2:R:3, DAG-VERSION:240
+241123076:2:R:3, Imin:12, Idoubling:8
+241124265:2:R:3, udp_sent:3
+241125454:2:R:3, udp_recv:0
+241126826:2:R:3, icmp_sent:33
+241128209:2:R:3, icmp_recv:53
+241129541:2:R:3, Leaf MODE: 2
+241135626:6:R:3, DAG-VERSION:240
+241137593:6:R:3, Imin:12, Idoubling:8
+241138782:6:R:3, udp_sent:3
+241139970:6:R:3, udp_recv:0
+241141342:6:R:3, icmp_sent:21
+241142745:6:R:3, icmp_recv:24
+241144076:6:R:3, Leaf MODE: 2
+241233328:4:R:3, DAG-VERSION:240
+241235295:4:R:3, Imin:12, Idoubling:8
+241236484:4:R:3, udp_sent:3
+241237672:4:R:3, udp_recv:0
+241239044:4:R:3, icmp_sent:12
+241240448:4:R:3, icmp_recv:59
+241241779:4:R:3, Leaf MODE: 2
+241266200:1:R:3, DAG-VERSION:240
+241268167:1:R:3, Imin:12, Idoubling:8
+241269355:1:R:3, udp_sent:0
+241270656:1:R:3, udp_recv:10
+241271916:1:R:3, icmp_sent:1
+241273439:1:R:3, icmp_recv:100
+241274770:1:R:3, Leaf MODE: 0
+241286671:7:R:3, DAG-VERSION:240
+241288638:7:R:3, Imin:12, Idoubling:8
+241289826:7:R:3, udp_sent:0
+241291015:7:R:3, udp_recv:0
+241292387:7:R:3, icmp_sent:11
+241293797:7:R:3, icmp_recv:24
+241295128:7:R:3, Leaf MODE: 0
+241441372:10:R:3, DAG-VERSION:240
+241443338:10:R:3, Imin:12, Idoubling:8
+241444527:10:R:3, udp_sent:0
+241445715:10:R:3, udp_recv:0
+241447087:10:R:3, icmp_sent:15
+241448498:10:R:3, icmp_recv:34
+241449829:10:R:3, Leaf MODE: 0
+241593369:9:R:3, DAG-VERSION:240
+241595335:9:R:3, Imin:12, Idoubling:8
+241596524:9:R:3, udp_sent:0
+241597712:9:R:3, udp_recv:0
+241599084:9:R:3, icmp_sent:12
+241600101:5:R:3, DAG-VERSION:240
+241600495:9:R:3, icmp_recv:30
+241601826:9:R:3, Leaf MODE: 0
+241602067:5:R:3, Imin:12, Idoubling:8
+241603256:5:R:3, udp_sent:3
+241604445:5:R:3, udp_recv:0
+241605817:5:R:3, icmp_sent:48
+241607201:5:R:3, icmp_recv:38
+241608532:5:R:3, Leaf MODE: 2
+241784330:3:R:3, DAG-VERSION:240
+241786296:3:R:3, Imin:12, Idoubling:8
+241787485:3:R:3, udp_sent:3
+241788674:3:R:3, udp_recv:0
+241790046:3:R:3, icmp_sent:11
+241791430:3:R:3, icmp_recv:51
+241792761:3:R:3, Leaf MODE: 2
+253900522:1:Msg from Node: 3
+268526399:1:Msg from Node: 2
+300957680:8:R:4, DAG-VERSION:240
+300959647:8:R:4, Imin:12, Idoubling:8
+300960835:8:R:4, udp_sent:0
+300962024:8:R:4, udp_recv:0
+300963395:8:R:4, icmp_sent:14
+300964806:8:R:4, icmp_recv:61
+300966137:8:R:4, Leaf MODE: 0
+301075371:11:R:4, DAG-VERSION:240
+301077338:11:R:4, Imin:12, Idoubling:8
+301078526:11:R:4, udp_sent:0
+301079715:11:R:4, udp_recv:0
+301081086:11:R:4, icmp_sent:12
+301082497:11:R:4, icmp_recv:34
+301083828:11:R:4, Leaf MODE: 0
+301121442:2:R:4, DAG-VERSION:240
+301123409:2:R:4, Imin:12, Idoubling:8
+301124598:2:R:4, udp_sent:4
+301125786:2:R:4, udp_recv:0
+301127197:2:R:4, icmp_sent:36
+301128570:2:R:4, icmp_recv:57
+301129901:2:R:4, Leaf MODE: 2
+301135998:6:R:4, DAG-VERSION:240
+301137965:6:R:4, Imin:12, Idoubling:8
+301139154:6:R:4, udp_sent:4
+301140342:6:R:4, udp_recv:0
+301141753:6:R:4, icmp_sent:22
+301143124:6:R:4, icmp_recv:28
+301144456:6:R:4, Leaf MODE: 2
+301233700:4:R:4, DAG-VERSION:240
+301235667:4:R:4, Imin:12, Idoubling:8
+301236856:4:R:4, udp_sent:4
+301238044:4:R:4, udp_recv:0
+301239455:4:R:4, icmp_sent:13
+301240827:4:R:4, icmp_recv:61
+301242158:4:R:4, Leaf MODE: 2
+301266200:1:R:4, DAG-VERSION:240
+301268167:1:R:4, Imin:12, Idoubling:8
+301269355:1:R:4, udp_sent:0
+301270656:1:R:4, udp_recv:12
+301271916:1:R:4, icmp_sent:1
+301273439:1:R:4, icmp_recv:106
+301274770:1:R:4, Leaf MODE: 0
+301286681:7:R:4, DAG-VERSION:240
+301288648:7:R:4, Imin:12, Idoubling:8
+301289836:7:R:4, udp_sent:0
+301291025:7:R:4, udp_recv:0
+301292396:7:R:4, icmp_sent:12
+301293807:7:R:4, icmp_recv:26
+301295138:7:R:4, Leaf MODE: 0
+301441381:10:R:4, DAG-VERSION:240
+301443348:10:R:4, Imin:12, Idoubling:8
+301444536:10:R:4, udp_sent:0
+301445725:10:R:4, udp_recv:0
+301447097:10:R:4, icmp_sent:16
+301448508:10:R:4, icmp_recv:37
+301449838:10:R:4, Leaf MODE: 0
+301593388:9:R:4, DAG-VERSION:240
+301595355:9:R:4, Imin:12, Idoubling:8
+301596543:9:R:4, udp_sent:0
+301597732:9:R:4, udp_recv:0
+301599103:9:R:4, icmp_sent:14
+301600514:9:R:4, icmp_recv:32
+301601845:9:R:4, Leaf MODE: 0
+301626807:5:R:4, DAG-VERSION:240
+301628774:5:R:4, Imin:12, Idoubling:8
+301630002:5:R:4, udp_sent:4
+301631190:5:R:4, udp_recv:0
+301632562:5:R:4, icmp_sent:50
+301633934:5:R:4, icmp_recv:43
+301635265:5:R:4, Leaf MODE: 2
+301784682:3:R:4, DAG-VERSION:240
+301786648:3:R:4, Imin:12, Idoubling:8
+301787837:3:R:4, udp_sent:4
+301789026:3:R:4, udp_recv:0
+301790436:3:R:4, icmp_sent:12
+301791808:3:R:4, icmp_recv:57
+301793140:3:R:4, Leaf MODE: 2
+313861595:1:Msg from Node: 3
+324794006:1:Msg from Node: 5
+327201450:1:Msg from Node: 4
+330266693:1:Msg from Node: 6
+340987210:1:Msg from Node: 2
+360957670:8:R:5, DAG-VERSION:240
+360959637:8:R:5, Imin:12, Idoubling:8
+360960825:8:R:5, udp_sent:0
+360962014:8:R:5, udp_recv:0
+360963386:8:R:5, icmp_sent:15
+360964797:8:R:5, icmp_recv:65
+360966127:8:R:5, Leaf MODE: 0
+361075361:11:R:5, DAG-VERSION:240
+361077328:11:R:5, Imin:12, Idoubling:8
+361078516:11:R:5, udp_sent:0
+361079705:11:R:5, udp_recv:0
+361081077:11:R:5, icmp_sent:13
+361082488:11:R:5, icmp_recv:37
+361083818:11:R:5, Leaf MODE: 0
+361121110:2:R:5, DAG-VERSION:240
+361123076:2:R:5, Imin:12, Idoubling:8
+361124265:2:R:5, udp_sent:5
+361125454:2:R:5, udp_recv:0
+361126826:2:R:5, icmp_sent:38
+361128209:2:R:5, icmp_recv:60
+361129541:2:R:5, Leaf MODE: 2
+361144450:6:R:5, DAG-VERSION:240
+361146417:6:R:5, Imin:12, Idoubling:8
+361147606:6:R:5, udp_sent:5
+361148794:6:R:5, udp_recv:0
+361150177:6:R:5, icmp_sent:23
+361151549:6:R:5, icmp_recv:31
+361152880:6:R:5, Leaf MODE: 2
+361233328:4:R:5, DAG-VERSION:240
+361235295:4:R:5, Imin:12, Idoubling:8
+361236484:4:R:5, udp_sent:5
+361237672:4:R:5, udp_recv:0
+361239044:4:R:5, icmp_sent:15
+361240448:4:R:5, icmp_recv:67
+361241779:4:R:5, Leaf MODE: 2
+361266191:1:R:5, DAG-VERSION:240
+361268157:1:R:5, Imin:12, Idoubling:8
+361269346:1:R:5, udp_sent:0
+361270646:1:R:5, udp_recv:17
+361271906:1:R:5, icmp_sent:1
+361273391:1:R:5, icmp_recv:117
+361274723:1:R:5, Leaf MODE: 0
+361286671:7:R:5, DAG-VERSION:240
+361288638:7:R:5, Imin:12, Idoubling:8
+361289826:7:R:5, udp_sent:0
+361291015:7:R:5, udp_recv:0
+361292387:7:R:5, icmp_sent:13
+361293797:7:R:5, icmp_recv:26
+361295128:7:R:5, Leaf MODE: 0
+361441381:10:R:5, DAG-VERSION:240
+361443348:10:R:5, Imin:12, Idoubling:8
+361444536:10:R:5, udp_sent:0
+361445725:10:R:5, udp_recv:0
+361447097:10:R:5, icmp_sent:17
+361448507:10:R:5, icmp_recv:41
+361449838:10:R:5, Leaf MODE: 0
+361593369:9:R:5, DAG-VERSION:240
+361595335:9:R:5, Imin:12, Idoubling:8
+361596524:9:R:5, udp_sent:0
+361597712:9:R:5, udp_recv:0
+361599084:9:R:5, icmp_sent:14
+361600101:5:R:5, DAG-VERSION:240
+361600495:9:R:5, icmp_recv:33
+361601826:9:R:5, Leaf MODE: 0
+361602067:5:R:5, Imin:12, Idoubling:8
+361603256:5:R:5, udp_sent:5
+361604445:5:R:5, udp_recv:0
+361605817:5:R:5, icmp_sent:60
+361607200:5:R:5, icmp_recv:45
+361608531:5:R:5, Leaf MODE: 2
+361784310:3:R:5, DAG-VERSION:240
+361786277:3:R:5, Imin:12, Idoubling:8
+361787466:3:R:5, udp_sent:5
+361788654:3:R:5, udp_recv:0
+361790026:3:R:5, icmp_sent:14
+361791430:3:R:5, icmp_recv:67
+361792761:3:R:5, Leaf MODE: 2
+363118310:1:Msg from Node: 6
+372963766:1:Msg from Node: 2
+394166445:1:Msg from Node: 3
+396130890:1:Msg from Node: 4
+417997838:1:Msg from Node: 5
+420957670:8:R:6, DAG-VERSION:240
+420959637:8:R:6, Imin:12, Idoubling:8
+420960825:8:R:6, udp_sent:0
+420962014:8:R:6, udp_recv:0
+420963386:8:R:6, icmp_sent:17
+420964797:8:R:6, icmp_recv:68
+420966127:8:R:6, Leaf MODE: 0
+421075361:11:R:6, DAG-VERSION:240
+421077328:11:R:6, Imin:12, Idoubling:8
+421078516:11:R:6, udp_sent:0
+421079705:11:R:6, udp_recv:0
+421081077:11:R:6, icmp_sent:14
+421082488:11:R:6, icmp_recv:39
+421083818:11:R:6, Leaf MODE: 0
+421121423:2:R:6, DAG-VERSION:240
+421123390:2:R:6, Imin:12, Idoubling:8
+421124579:2:R:6, udp_sent:6
+421125767:2:R:6, udp_recv:0
+421127178:2:R:6, icmp_sent:38
+421128550:2:R:6, icmp_recv:61
+421129882:2:R:6, Leaf MODE: 2
+421135978:6:R:6, DAG-VERSION:240
+421137945:6:R:6, Imin:12, Idoubling:8
+421139134:6:R:6, udp_sent:6
+421140322:6:R:6, udp_recv:0
+421141733:6:R:6, icmp_sent:24
+421143105:6:R:6, icmp_recv:31
+421144436:6:R:6, Leaf MODE: 2
+421233680:4:R:6, DAG-VERSION:240
+421235647:4:R:6, Imin:12, Idoubling:8
+421236836:4:R:6, udp_sent:6
+421238024:4:R:6, udp_recv:0
+421239435:4:R:6, icmp_sent:17
+421240807:4:R:6, icmp_recv:68
+421242138:4:R:6, Leaf MODE: 2
+421266200:1:R:6, DAG-VERSION:240
+421268167:1:R:6, Imin:12, Idoubling:8
+421269355:1:R:6, udp_sent:0
+421270656:1:R:6, udp_recv:22
+421271916:1:R:6, icmp_sent:1
+421273439:1:R:6, icmp_recv:122
+421274770:1:R:6, Leaf MODE: 0
+421286662:7:R:6, DAG-VERSION:240
+421288628:7:R:6, Imin:12, Idoubling:8
+421289817:7:R:6, udp_sent:0
+421291005:7:R:6, udp_recv:0
+421292377:7:R:6, icmp_sent:13
+421293787:7:R:6, icmp_recv:26
+421295118:7:R:6, Leaf MODE: 0
+421441401:10:R:6, DAG-VERSION:240
+421443368:10:R:6, Imin:12, Idoubling:8
+421444556:10:R:6, udp_sent:0
+421445744:10:R:6, udp_recv:0
+421447116:10:R:6, icmp_sent:20
+421448527:10:R:6, icmp_recv:43
+421449857:10:R:6, Leaf MODE: 0
+421593378:9:R:6, DAG-VERSION:240
+421595345:9:R:6, Imin:12, Idoubling:8
+421596533:9:R:6, udp_sent:0
+421597722:9:R:6, udp_recv:0
+421599094:9:R:6, icmp_sent:15
+421600433:5:R:6, DAG-VERSION:240
+421600505:9:R:6, icmp_recv:33
+421601835:9:R:6, Leaf MODE: 0
+421602400:5:R:6, Imin:12, Idoubling:8
+421603589:5:R:6, udp_sent:6
+421604777:5:R:6, udp_recv:0
+421606188:5:R:6, icmp_sent:61
+421607560:5:R:6, icmp_recv:47
+421608891:5:R:6, Leaf MODE: 2
+421784662:3:R:6, DAG-VERSION:240
+421786629:3:R:6, Imin:12, Idoubling:8
+421787818:3:R:6, udp_sent:6
+421789006:3:R:6, udp_recv:0
+421790417:3:R:6, icmp_sent:15
+421791790:3:R:6, icmp_recv:71
+421793121:3:R:6, Leaf MODE: 2
+453995208:1:Msg from Node: 2
+463212069:1:Msg from Node: 6
+480957661:8:R:7, DAG-VERSION:240
+480959627:8:R:7, Imin:12, Idoubling:8
+480960816:8:R:7, udp_sent:0
+480962004:8:R:7, udp_recv:0
+480963376:8:R:7, icmp_sent:17
+480964787:8:R:7, icmp_recv:70
+480966118:8:R:7, Leaf MODE: 0
+481075361:11:R:7, DAG-VERSION:240
+481077328:11:R:7, Imin:12, Idoubling:8
+481078516:11:R:7, udp_sent:0
+481079705:11:R:7, udp_recv:0
+481081077:11:R:7, icmp_sent:15
+481082487:11:R:7, icmp_recv:40
+481083818:11:R:7, Leaf MODE: 0
+481121110:2:R:7, DAG-VERSION:240
+481123076:2:R:7, Imin:12, Idoubling:8
+481124265:2:R:7, udp_sent:7
+481125454:2:R:7, udp_recv:0
+481126826:2:R:7, icmp_sent:40
+481128210:2:R:7, icmp_recv:63
+481129541:2:R:7, Leaf MODE: 2
+481135607:6:R:7, DAG-VERSION:240
+481137573:6:R:7, Imin:12, Idoubling:8
+481138762:6:R:7, udp_sent:7
+481139951:6:R:7, udp_recv:0
+481141323:6:R:7, icmp_sent:24
+481142734:6:R:7, icmp_recv:35
+481144065:6:R:7, Leaf MODE: 2
+481233328:4:R:7, DAG-VERSION:240
+481235295:4:R:7, Imin:12, Idoubling:8
+481236484:4:R:7, udp_sent:7
+481237672:4:R:7, udp_recv:0
+481239044:4:R:7, icmp_sent:18
+481240448:4:R:7, icmp_recv:71
+481241779:4:R:7, Leaf MODE: 2
+481266191:1:R:7, DAG-VERSION:240
+481268157:1:R:7, Imin:12, Idoubling:8
+481269346:1:R:7, udp_sent:0
+481270646:1:R:7, udp_recv:24
+481271906:1:R:7, icmp_sent:1
+481273391:1:R:7, icmp_recv:127
+481274722:1:R:7, Leaf MODE: 0
+481286681:7:R:7, DAG-VERSION:240
+481288648:7:R:7, Imin:12, Idoubling:8
+481289836:7:R:7, udp_sent:0
+481291025:7:R:7, udp_recv:0
+481292396:7:R:7, icmp_sent:15
+481293807:7:R:7, icmp_recv:27
+481295138:7:R:7, Leaf MODE: 0
+481441372:10:R:7, DAG-VERSION:240
+481443338:10:R:7, Imin:12, Idoubling:8
+481444527:10:R:7, udp_sent:0
+481445715:10:R:7, udp_recv:0
+481447087:10:R:7, icmp_sent:20
+481448497:10:R:7, icmp_recv:43
+481449828:10:R:7, Leaf MODE: 0
+481593388:9:R:7, DAG-VERSION:240
+481595355:9:R:7, Imin:12, Idoubling:8
+481596543:9:R:7, udp_sent:0
+481597732:9:R:7, udp_recv:0
+481599103:9:R:7, icmp_sent:17
+481600081:5:R:7, DAG-VERSION:240
+481600514:9:R:7, icmp_recv:35
+481601845:9:R:7, Leaf MODE: 0
+481602048:5:R:7, Imin:12, Idoubling:8
+481603237:5:R:7, udp_sent:7
+481604425:5:R:7, udp_recv:0
+481605798:5:R:7, icmp_sent:62
+481607200:5:R:7, icmp_recv:50
+481608532:5:R:7, Leaf MODE: 2
+481784291:3:R:7, DAG-VERSION:240
+481786257:3:R:7, Imin:12, Idoubling:8
+481787446:3:R:7, udp_sent:7
+481788635:3:R:7, udp_recv:0
+481790007:3:R:7, icmp_sent:15
+481791418:3:R:7, icmp_recv:74
+481792749:3:R:7, Leaf MODE: 2
+486385203:1:Msg from Node: 3
+486414807:1:Msg from Node: 6
+496432666:1:Msg from Node: 2
+540957681:8:R:8, DAG-VERSION:240
+540959648:8:R:8, Imin:12, Idoubling:8
+540960836:8:R:8, udp_sent:0
+540962025:8:R:8, udp_recv:0
+540963396:8:R:8, icmp_sent:19
+540964808:8:R:8, icmp_recv:73
+540966139:8:R:8, Leaf MODE: 0
+541075362:11:R:8, DAG-VERSION:240
+541077329:11:R:8, Imin:12, Idoubling:8
+541078517:11:R:8, udp_sent:0
+541079706:11:R:8, udp_recv:0
+541081077:11:R:8, icmp_sent:15
+541082488:11:R:8, icmp_recv:43
+541083819:11:R:8, Leaf MODE: 0
+541121442:2:R:8, DAG-VERSION:240
+541123409:2:R:8, Imin:12, Idoubling:8
+541124598:2:R:8, udp_sent:8
+541125786:2:R:8, udp_recv:0
+541127197:2:R:8, icmp_sent:40
+541128569:2:R:8, icmp_recv:67
+541129900:2:R:8, Leaf MODE: 2
+541135998:6:R:8, DAG-VERSION:240
+541137964:6:R:8, Imin:12, Idoubling:8
+541139153:6:R:8, udp_sent:8
+541140342:6:R:8, udp_recv:0
+541141752:6:R:8, icmp_sent:26
+541143125:6:R:8, icmp_recv:36
+541144456:6:R:8, Leaf MODE: 2
+541233700:4:R:8, DAG-VERSION:240
+541235666:4:R:8, Imin:12, Idoubling:8
+541236855:4:R:8, udp_sent:8
+541238044:4:R:8, udp_recv:0
+541239454:4:R:8, icmp_sent:20
+541240827:4:R:8, icmp_recv:74
+541242158:4:R:8, Leaf MODE: 2
+541266210:1:R:8, DAG-VERSION:240
+541268177:1:R:8, Imin:12, Idoubling:8
+541269365:1:R:8, udp_sent:0
+541270666:1:R:8, udp_recv:27
+541271926:1:R:8, icmp_sent:1
+541273449:1:R:8, icmp_recv:131
+541274780:1:R:8, Leaf MODE: 0
+541286672:7:R:8, DAG-VERSION:240
+541288639:7:R:8, Imin:12, Idoubling:8
+541289827:7:R:8, udp_sent:0
+541291016:7:R:8, udp_recv:0
+541292387:7:R:8, icmp_sent:15
+541293798:7:R:8, icmp_recv:28
+541295129:7:R:8, Leaf MODE: 0
+541441392:10:R:8, DAG-VERSION:240
+541443359:10:R:8, Imin:12, Idoubling:8
+541444547:10:R:8, udp_sent:0
+541445736:10:R:8, udp_recv:0
+541447107:10:R:8, icmp_sent:21
+541448518:10:R:8, icmp_recv:47
+541449849:10:R:8, Leaf MODE: 0
+541594198:9:R:8, DAG-VERSION:240
+541596165:9:R:8, Imin:12, Idoubling:8
+541597353:9:R:8, udp_sent:0
+541598541:9:R:8, udp_recv:0
+541599913:9:R:8, icmp_sent:18
+541600453:5:R:8, DAG-VERSION:240
+541601285:9:R:8, icmp_recv:35
+541602420:5:R:8, Imin:12, Idoubling:8
+541602616:9:R:8, Leaf MODE: 0
+541603608:5:R:8, udp_sent:8
+541604797:5:R:8, udp_recv:0
+541606208:5:R:8, icmp_sent:68
+541607580:5:R:8, icmp_recv:52
+541608911:5:R:8, Leaf MODE: 2
+541784662:3:R:8, DAG-VERSION:240
+541786629:3:R:8, Imin:12, Idoubling:8
+541787818:3:R:8, udp_sent:8
+541789006:3:R:8, udp_recv:0
+541790417:3:R:8, icmp_sent:16
+541791790:3:R:8, icmp_recv:78
+541793121:3:R:8, Leaf MODE: 2
+548299146:1:Msg from Node: 3
+552560769:1:Msg from Node: 4
+591840791:1:Msg from Node: 5
+600957748:8:R:9, DAG-VERSION:240
+600959715:8:R:9, Imin:12, Idoubling:8
+600960903:8:R:9, udp_sent:0
+600962092:8:R:9, udp_recv:0
+600963463:8:R:9, icmp_sent:19
+600964859:8:R:9, icmp_recv:78
+600966190:8:R:9, Leaf MODE: 0
+601075449:11:R:9, DAG-VERSION:240
+601077416:11:R:9, Imin:12, Idoubling:8
+601078604:11:R:9, udp_sent:0
+601079792:11:R:9, udp_recv:0
+601081164:11:R:9, icmp_sent:16
+601082549:11:R:9, icmp_recv:48
+601083880:11:R:9, Leaf MODE: 0
+601121110:2:R:9, DAG-VERSION:240
+601123076:2:R:9, Imin:12, Idoubling:8
+601124265:2:R:9, udp_sent:9
+601125454:2:R:9, udp_recv:0
+601126826:2:R:9, icmp_sent:47
+601128210:2:R:9, icmp_recv:70
+601129541:2:R:9, Leaf MODE: 2
+601135626:6:R:9, DAG-VERSION:240
+601137593:6:R:9, Imin:12, Idoubling:8
+601138782:6:R:9, udp_sent:9
+601139970:6:R:9, udp_recv:0
+601141342:6:R:9, icmp_sent:27
+601142746:6:R:9, icmp_recv:36
+601144077:6:R:9, Leaf MODE: 2
+601233328:4:R:9, DAG-VERSION:240
+601235295:4:R:9, Imin:12, Idoubling:8
+601236484:4:R:9, udp_sent:9
+601237672:4:R:9, udp_recv:0
+601239044:4:R:9, icmp_sent:21
+601240448:4:R:9, icmp_recv:79
+601241779:4:R:9, Leaf MODE: 2
+601266200:1:R:9, DAG-VERSION:240
+601268167:1:R:9, Imin:12, Idoubling:8
+601269355:1:R:9, udp_sent:0
+601270657:1:R:9, udp_recv:30
+601271917:1:R:9, icmp_sent:1
+601273440:1:R:9, icmp_recv:135
+601274771:1:R:9, Leaf MODE: 0
+601286759:7:R:9, DAG-VERSION:240
+601288725:7:R:9, Imin:12, Idoubling:8
+601289914:7:R:9, udp_sent:0
+601291102:7:R:9, udp_recv:0
+601292474:7:R:9, icmp_sent:16
+601293859:7:R:9, icmp_recv:28
+601295190:7:R:9, Leaf MODE: 0
+601441459:10:R:9, DAG-VERSION:240
+601443426:10:R:9, Imin:12, Idoubling:8
+601444614:10:R:9, udp_sent:0
+601445803:10:R:9, udp_recv:0
+601447174:10:R:9, icmp_sent:21
+601448570:10:R:9, icmp_recv:51
+601449900:10:R:9, Leaf MODE: 0
+601593456:9:R:9, DAG-VERSION:240
+601595423:9:R:9, Imin:12, Idoubling:8
+601596611:9:R:9, udp_sent:0
+601597800:9:R:9, udp_recv:0
+601599171:9:R:9, icmp_sent:18
+601600101:5:R:9, DAG-VERSION:240
+601600567:9:R:9, icmp_recv:36
+601601897:9:R:9, Leaf MODE: 0
+601602067:5:R:9, Imin:12, Idoubling:8
+601603256:5:R:9, udp_sent:9
+601604445:5:R:9, udp_recv:0
+601605818:5:R:9, icmp_sent:70
+601607201:5:R:9, icmp_recv:55
+601608532:5:R:9, Leaf MODE: 2
+601784310:3:R:9, DAG-VERSION:240
+601786277:3:R:9, Imin:12, Idoubling:8
+601787466:3:R:9, udp_sent:9
+601788654:3:R:9, udp_recv:0
+601790026:3:R:9, icmp_sent:17
+601791429:3:R:9, icmp_recv:83
+601792760:3:R:9, Leaf MODE: 2
+603455413:1:Msg from Node: 3
+605817426:1:Msg from Node: 5
+609966905:1:Msg from Node: 4
+652385501:1:Msg from Node: 2
+652801159:1:Msg from Node: 11
+655407596:1:Msg from Node: 6
+660957817:8:R:10, DAG-VERSION:240
+660959895:8:R:10, Imin:12, Idoubling:8
+660961196:8:R:10, udp_sent:0
+660962496:8:R:10, udp_recv:0
+660963979:8:R:10, icmp_sent:20
+660965464:8:R:10, icmp_recv:78
+660966906:8:R:10, Leaf MODE: 0
+661075472:11:R:10, DAG-VERSION:240
+661077550:11:R:10, Imin:12, Idoubling:8
+661078851:11:R:10, udp_sent:1
+661080151:11:R:10, udp_recv:0
+661081670:11:R:10, icmp_sent:16
+661083154:11:R:10, icmp_recv:49
+661084596:11:R:10, Leaf MODE: 0
+661121573:2:R:10, DAG-VERSION:240
+661123652:2:R:10, Imin:12, Idoubling:8
+661125064:2:R:10, udp_sent:10
+661126365:2:R:10, udp_recv:0
+661127848:2:R:10, icmp_sent:49
+661129332:2:R:10, icmp_recv:73
+661130775:2:R:10, Leaf MODE: 2
+661136090:6:R:10, DAG-VERSION:240
+661138169:6:R:10, Imin:12, Idoubling:8
+661139581:6:R:10, udp_sent:10
+661140881:6:R:10, udp_recv:0
+661142365:6:R:10, icmp_sent:28
+661143849:6:R:10, icmp_recv:39
+661145292:6:R:10, Leaf MODE: 2
+661233772:4:R:10, DAG-VERSION:240
+661235851:4:R:10, Imin:12, Idoubling:8
+661237263:4:R:10, udp_sent:10
+661238564:4:R:10, udp_recv:0
+661240066:4:R:10, icmp_sent:21
+661241550:4:R:10, icmp_recv:81
+661242993:4:R:10, Leaf MODE: 2
+661266303:1:R:10, DAG-VERSION:240
+661268381:1:R:10, Imin:12, Idoubling:8
+661269681:1:R:10, udp_sent:0
+661271094:1:R:10, udp_recv:36
+661272502:1:R:10, icmp_sent:1
+661274099:1:R:10, icmp_recv:139
+661275542:1:R:10, Leaf MODE: 0
+661286808:7:R:10, DAG-VERSION:240
+661288887:7:R:10, Imin:12, Idoubling:8
+661290187:7:R:10, udp_sent:0
+661291487:7:R:10, udp_recv:0
+661292980:7:R:10, icmp_sent:17
+661294464:7:R:10, icmp_recv:28
+661295906:7:R:10, Leaf MODE: 0
+661441528:10:R:10, DAG-VERSION:240
+661443606:10:R:10, Imin:12, Idoubling:8
+661444907:10:R:10, udp_sent:0
+661446207:10:R:10, udp_recv:0
+661447690:10:R:10, icmp_sent:22
+661449174:10:R:10, icmp_recv:53
+661450617:10:R:10, Leaf MODE: 0
+661593525:9:R:10, DAG-VERSION:240
+661595604:9:R:10, Imin:12, Idoubling:8
+661596904:9:R:10, udp_sent:0
+661598204:9:R:10, udp_recv:0
+661599687:9:R:10, icmp_sent:19
+661600545:5:R:10, DAG-VERSION:240
+661601171:9:R:10, icmp_recv:38
+661602614:9:R:10, Leaf MODE: 0
+661602623:5:R:10, Imin:12, Idoubling:8
+661604036:5:R:10, udp_sent:10
+661605336:5:R:10, udp_recv:0
+661606820:5:R:10, icmp_sent:71
+661608304:5:R:10, icmp_recv:57
+661609747:5:R:10, Leaf MODE: 2
+661784754:3:R:10, DAG-VERSION:240
+661786833:3:R:10, Imin:12, Idoubling:8
+661788245:3:R:10, udp_sent:10
+661789546:3:R:10, udp_recv:0
+661791048:3:R:10, icmp_sent:17
+661792532:3:R:10, icmp_recv:83
+661793975:3:R:10, Leaf MODE: 2
+676029801:1:Msg from Node: 4
+684721569:1:Msg from Node: 2
+694383920:1:Msg from Node: 6
+702767804:1:Msg from Node: 3
+720957800:8:R:11, DAG-VERSION:240
+720959878:8:R:11, Imin:12, Idoubling:8
+720961178:8:R:11, udp_sent:0
+720962479:8:R:11, udp_recv:0
+720963979:8:R:11, icmp_sent:23
+720965464:8:R:11, icmp_recv:79
+720966906:8:R:11, Leaf MODE: 0
+721075484:11:R:11, DAG-VERSION:240
+721077562:11:R:11, Imin:12, Idoubling:8
+721078863:11:R:11, udp_sent:1
+721080163:11:R:11, udp_recv:0
+721081670:11:R:11, icmp_sent:18
+721083154:11:R:11, icmp_recv:49
+721084596:11:R:11, Leaf MODE: 0
+721121203:2:R:11, DAG-VERSION:240
+721123282:2:R:11, Imin:12, Idoubling:8
+721124694:2:R:11, udp_sent:11
+721125994:2:R:11, udp_recv:0
+721127478:2:R:11, icmp_sent:49
+721128962:2:R:11, icmp_recv:73
+721130405:2:R:11, Leaf MODE: 2
+721135739:6:R:11, DAG-VERSION:240
+721137818:6:R:11, Imin:12, Idoubling:8
+721139230:6:R:11, udp_sent:11
+721140530:6:R:11, udp_recv:0
+721142014:6:R:11, icmp_sent:29
+721143498:6:R:11, icmp_recv:39
+721144941:6:R:11, Leaf MODE: 2
+721233461:4:R:11, DAG-VERSION:240
+721235539:4:R:11, Imin:12, Idoubling:8
+721236952:4:R:11, udp_sent:11
+721238252:4:R:11, udp_recv:0
+721239735:4:R:11, icmp_sent:23
+721241219:4:R:11, icmp_recv:83
+721242662:4:R:11, Leaf MODE: 2
+721266313:1:R:11, DAG-VERSION:240
+721268391:1:R:11, Imin:12, Idoubling:8
+721269692:1:R:11, udp_sent:0
+721271104:1:R:11, udp_recv:40
+721272503:1:R:11, icmp_sent:1
+721274099:1:R:11, icmp_recv:143
+721275542:1:R:11, Leaf MODE: 0
+721286801:7:R:11, DAG-VERSION:240
+721288879:7:R:11, Imin:12, Idoubling:8
+721290179:7:R:11, udp_sent:0
+721291480:7:R:11, udp_recv:0
+721292980:7:R:11, icmp_sent:18
+721294464:7:R:11, icmp_recv:28
+721295906:7:R:11, Leaf MODE: 0
+721441520:10:R:11, DAG-VERSION:240
+721443599:10:R:11, Imin:12, Idoubling:8
+721444899:10:R:11, udp_sent:0
+721446199:10:R:11, udp_recv:0
+721447690:10:R:11, icmp_sent:24
+721449174:10:R:11, icmp_recv:54
+721450617:10:R:11, Leaf MODE: 0
+721593498:9:R:11, DAG-VERSION:240
+721595577:9:R:11, Imin:12, Idoubling:8
+721596877:9:R:11, udp_sent:0
+721598177:9:R:11, udp_recv:0
+721599687:9:R:11, icmp_sent:19
+721600194:5:R:11, DAG-VERSION:240
+721601171:9:R:11, icmp_recv:38
+721602273:5:R:11, Imin:12, Idoubling:8
+721602614:9:R:11, Leaf MODE: 0
+721603685:5:R:11, udp_sent:11
+721604985:5:R:11, udp_recv:0
+721606470:5:R:11, icmp_sent:72
+721607954:5:R:11, icmp_recv:58
+721609397:5:R:11, Leaf MODE: 2
+721784423:3:R:11, DAG-VERSION:240
+721786502:3:R:11, Imin:12, Idoubling:8
+721787914:3:R:11, udp_sent:11
+721789214:3:R:11, udp_recv:0
+721790698:3:R:11, icmp_sent:18
+721792181:3:R:11, icmp_recv:84
+721793624:3:R:11, Leaf MODE: 2
+727051014:1:Msg from Node: 8
+727463865:1:Msg from Node: 2
+739450565:1:Msg from Node: 5
+764321157:1:Msg from Node: 6
+765326904:1:Msg from Node: 3
+775006230:1:Msg from Node: 4
+780957773:8:R:12, DAG-VERSION:240
+780959852:8:R:12, Imin:12, Idoubling:8
+780961152:8:R:12, udp_sent:1
+780962453:8:R:12, udp_recv:0
+780963936:8:R:12, icmp_sent:23
+780965419:8:R:12, icmp_recv:80
+780966862:8:R:12, Leaf MODE: 0
+781075969:11:R:12, DAG-VERSION:240
+781078048:11:R:12, Imin:12, Idoubling:8
+781079348:11:R:12, udp_sent:1
+781080648:11:R:12, udp_recv:0
+781082168:11:R:12, icmp_sent:19
+781083652:11:R:12, icmp_recv:50
+781085094:11:R:12, Leaf MODE: 0
+781121556:2:R:12, DAG-VERSION:240
+781123634:2:R:12, Imin:12, Idoubling:8
+781125047:2:R:12, udp_sent:12
+781126347:2:R:12, udp_recv:0
+781127831:2:R:12, icmp_sent:50
+781129315:2:R:12, icmp_recv:75
+781130758:2:R:12, Leaf MODE: 2
+781136091:6:R:12, DAG-VERSION:240
+781138170:6:R:12, Imin:12, Idoubling:8
+781139582:6:R:12, udp_sent:12
+781140883:6:R:12, udp_recv:0
+781142366:6:R:12, icmp_sent:30
+781143850:6:R:12, icmp_recv:41
+781145293:6:R:12, Leaf MODE: 2
+781233794:4:R:12, DAG-VERSION:240
+781235873:4:R:12, Imin:12, Idoubling:8
+781237285:4:R:12, udp_sent:12
+781238585:4:R:12, udp_recv:0
+781240069:4:R:12, icmp_sent:24
+781241552:4:R:12, icmp_recv:85
+781242995:4:R:12, Leaf MODE: 2
+781266313:1:R:12, DAG-VERSION:240
+781268392:1:R:12, Imin:12, Idoubling:8
+781269692:1:R:12, udp_sent:0
+781271104:1:R:12, udp_recv:46
+781272503:1:R:12, icmp_sent:1
+781274099:1:R:12, icmp_recv:148
+781275542:1:R:12, Leaf MODE: 0
+781286801:7:R:12, DAG-VERSION:240
+781288879:7:R:12, Imin:12, Idoubling:8
+781290179:7:R:12, udp_sent:0
+781291480:7:R:12, udp_recv:0
+781292980:7:R:12, icmp_sent:19
+781294464:7:R:12, icmp_recv:28
+781295906:7:R:12, Leaf MODE: 0
+781441501:10:R:12, DAG-VERSION:240
+781443580:10:R:12, Imin:12, Idoubling:8
+781444880:10:R:12, udp_sent:0
+781446180:10:R:12, udp_recv:0
+781447690:10:R:12, icmp_sent:24
+781449174:10:R:12, icmp_recv:55
+781450617:10:R:12, Leaf MODE: 0
+781593518:9:R:12, DAG-VERSION:240
+781595596:9:R:12, Imin:12, Idoubling:8
+781596896:9:R:12, udp_sent:0
+781598196:9:R:12, udp_recv:0
+781599687:9:R:12, icmp_sent:22
+781600546:5:R:12, DAG-VERSION:240
+781601171:9:R:12, icmp_recv:39
+781602614:9:R:12, Leaf MODE: 0
+781602625:5:R:12, Imin:12, Idoubling:8
+781604037:5:R:12, udp_sent:12
+781605338:5:R:12, udp_recv:0
+781606822:5:R:12, icmp_sent:73
+781608306:5:R:12, icmp_recv:59
+781609749:5:R:12, Leaf MODE: 2
+781784776:3:R:12, DAG-VERSION:240
+781786854:3:R:12, Imin:12, Idoubling:8
+781788267:3:R:12, udp_sent:12
+781789567:3:R:12, udp_recv:0
+781791050:3:R:12, icmp_sent:19
+781792534:3:R:12, icmp_recv:87
+781793977:3:R:12, Leaf MODE: 2
+782551809:1:Msg from Node: 5
+805586983:1:Msg from Node: 6
+807338892:1:Msg from Node: 2
+831146866:1:Msg from Node: 4
+835275934:1:Msg from Node: 3
+840957793:8:R:13, DAG-VERSION:240
+840959871:8:R:13, Imin:12, Idoubling:8
+840961172:8:R:13, udp_sent:1
+840962472:8:R:13, udp_recv:0
+840963979:8:R:13, icmp_sent:25
+840965463:8:R:13, icmp_recv:82
+840966905:8:R:13, Leaf MODE: 0
+841075474:11:R:13, DAG-VERSION:240
+841077553:11:R:13, Imin:12, Idoubling:8
+841078853:11:R:13, udp_sent:1
+841080153:11:R:13, udp_recv:0
+841081670:11:R:13, icmp_sent:20
+841083154:11:R:13, icmp_recv:51
+841084597:11:R:13, Leaf MODE: 0
+841121223:2:R:13, DAG-VERSION:240
+841123301:2:R:13, Imin:12, Idoubling:8
+841124714:2:R:13, udp_sent:13
+841126014:2:R:13, udp_recv:0
+841127498:2:R:13, icmp_sent:51
+841128982:2:R:13, icmp_recv:76
+841130425:2:R:13, Leaf MODE: 2
+841135720:6:R:13, DAG-VERSION:240
+841137798:6:R:13, Imin:12, Idoubling:8
+841139211:6:R:13, udp_sent:13
+841140511:6:R:13, udp_recv:0
+841142009:6:R:13, icmp_sent:30
+841143492:6:R:13, icmp_recv:42
+841144935:6:R:13, Leaf MODE: 2
+841233441:4:R:13, DAG-VERSION:240
+841235520:4:R:13, Imin:12, Idoubling:8
+841236932:4:R:13, udp_sent:13
+841238232:4:R:13, udp_recv:0
+841239716:4:R:13, icmp_sent:25
+841241199:4:R:13, icmp_recv:86
+841242642:4:R:13, Leaf MODE: 2
+841266313:1:R:13, DAG-VERSION:240
+841268392:1:R:13, Imin:12, Idoubling:8
+841269692:1:R:13, udp_sent:0
+841271105:1:R:13, udp_recv:51
+841272502:1:R:13, icmp_sent:1
+841274099:1:R:13, icmp_recv:151
+841275542:1:R:13, Leaf MODE: 0
+841286801:7:R:13, DAG-VERSION:240
+841288879:7:R:13, Imin:12, Idoubling:8
+841290179:7:R:13, udp_sent:0
+841291480:7:R:13, udp_recv:0
+841292980:7:R:13, icmp_sent:20
+841294464:7:R:13, icmp_recv:28
+841295906:7:R:13, Leaf MODE: 0
+841441501:10:R:13, DAG-VERSION:240
+841443580:10:R:13, Imin:12, Idoubling:8
+841444880:10:R:13, udp_sent:0
+841446180:10:R:13, udp_recv:0
+841447690:10:R:13, icmp_sent:24
+841449174:10:R:13, icmp_recv:57
+841450617:10:R:13, Leaf MODE: 0
+841593518:9:R:13, DAG-VERSION:240
+841595596:9:R:13, Imin:12, Idoubling:8
+841596896:9:R:13, udp_sent:0
+841598196:9:R:13, udp_recv:0
+841599687:9:R:13, icmp_sent:24
+841600214:5:R:13, DAG-VERSION:240
+841601171:9:R:13, icmp_recv:39
+841602292:5:R:13, Imin:12, Idoubling:8
+841602614:9:R:13, Leaf MODE: 0
+841603705:5:R:13, udp_sent:13
+841605005:5:R:13, udp_recv:0
+841606489:5:R:13, icmp_sent:75
+841607973:5:R:13, icmp_recv:60
+841609416:5:R:13, Leaf MODE: 2
+841784423:3:R:13, DAG-VERSION:240
+841786502:3:R:13, Imin:12, Idoubling:8
+841787914:3:R:13, udp_sent:13
+841789214:3:R:13, udp_recv:0
+841790698:3:R:13, icmp_sent:20
+841792181:3:R:13, icmp_recv:89
+841793624:3:R:13, Leaf MODE: 2
+844041221:1:Msg from Node: 3
+845474851:1:Msg from Node: 4
+865768872:1:Msg from Node: 10
+881903404:1:Msg from Node: 5
+885489114:1:Msg from Node: 7
+893289904:1:Msg from Node: 6
+897065491:1:Msg from Node: 2
+900957773:8:R:14, DAG-VERSION:240
+900959852:8:R:14, Imin:12, Idoubling:8
+900961152:8:R:14, udp_sent:1
+900962453:8:R:14, udp_recv:0
+900963936:8:R:14, icmp_sent:25
+900965419:8:R:14, icmp_recv:83
+900966862:8:R:14, Leaf MODE: 0
+901075474:11:R:14, DAG-VERSION:240
+901077552:11:R:14, Imin:12, Idoubling:8
+901078853:11:R:14, udp_sent:1
+901080153:11:R:14, udp_recv:0
+901081670:11:R:14, icmp_sent:21
+901083154:11:R:14, icmp_recv:51
+901084597:11:R:14, Leaf MODE: 0
+901121537:2:R:14, DAG-VERSION:240
+901123615:2:R:14, Imin:12, Idoubling:8
+901125028:2:R:14, udp_sent:14
+901126328:2:R:14, udp_recv:0
+901127828:2:R:14, icmp_sent:51
+901129313:2:R:14, icmp_recv:76
+901130756:2:R:14, Leaf MODE: 2
+901136092:6:R:14, DAG-VERSION:240
+901138171:6:R:14, Imin:12, Idoubling:8
+901139583:6:R:14, udp_sent:14
+901140883:6:R:14, udp_recv:0
+901142367:6:R:14, icmp_sent:31
+901143851:6:R:14, icmp_recv:42
+901145294:6:R:14, Leaf MODE: 2
+901233794:4:R:14, DAG-VERSION:240
+901235872:4:R:14, Imin:12, Idoubling:8
+901237285:4:R:14, udp_sent:14
+901238585:4:R:14, udp_recv:0
+901240068:4:R:14, icmp_sent:26
+901241552:4:R:14, icmp_recv:87
+901242995:4:R:14, Leaf MODE: 2
+901266303:1:R:14, DAG-VERSION:240
+901268382:1:R:14, Imin:12, Idoubling:8
+901269682:1:R:14, udp_sent:0
+901271095:1:R:14, udp_recv:58
+901272502:1:R:14, icmp_sent:1
+901274099:1:R:14, icmp_recv:152
+901275542:1:R:14, Leaf MODE: 0
+901286774:7:R:14, DAG-VERSION:240
+901288853:7:R:14, Imin:12, Idoubling:8
+901290153:7:R:14, udp_sent:1
+901291454:7:R:14, udp_recv:0
+901292937:7:R:14, icmp_sent:20
+901294420:7:R:14, icmp_recv:28
+901295863:7:R:14, Leaf MODE: 0
+901441494:10:R:14, DAG-VERSION:240
+901443572:10:R:14, Imin:12, Idoubling:8
+901444873:10:R:14, udp_sent:1
+901446173:10:R:14, udp_recv:0
+901447690:10:R:14, icmp_sent:25
+901449174:10:R:14, icmp_recv:57
+901450617:10:R:14, Leaf MODE: 0
+901593498:9:R:14, DAG-VERSION:240
+901595577:9:R:14, Imin:12, Idoubling:8
+901596877:9:R:14, udp_sent:0
+901598177:9:R:14, udp_recv:0
+901599687:9:R:14, icmp_sent:25
+901600528:5:R:14, DAG-VERSION:240
+901601171:9:R:14, icmp_recv:40
+901602606:5:R:14, Imin:12, Idoubling:8
+901602613:9:R:14, Leaf MODE: 0
+901604019:5:R:14, udp_sent:14
+901605319:5:R:14, udp_recv:0
+901606820:5:R:14, icmp_sent:75
+901608304:5:R:14, icmp_recv:61
+901609747:5:R:14, Leaf MODE: 2
+901784757:3:R:14, DAG-VERSION:240
+901786835:3:R:14, Imin:12, Idoubling:8
+901788248:3:R:14, udp_sent:14
+901789548:3:R:14, udp_recv:0
+901791048:3:R:14, icmp_sent:20
+901792532:3:R:14, icmp_recv:89
+901793975:3:R:14, Leaf MODE: 2
+938634875:1:Msg from Node: 3
+941908934:1:Msg from Node: 2
+945990608:1:Msg from Node: 4
+952079165:1:Msg from Node: 6
+960957783:8:R:15, DAG-VERSION:240
+960959862:8:R:15, Imin:12, Idoubling:8
+960961162:8:R:15, udp_sent:1
+960962462:8:R:15, udp_recv:0
+960963979:8:R:15, icmp_sent:26
+960965463:8:R:15, icmp_recv:86
+960966905:8:R:15, Leaf MODE: 0
+961075464:11:R:15, DAG-VERSION:240
+961077543:11:R:15, Imin:12, Idoubling:8
+961078843:11:R:15, udp_sent:1
+961080144:11:R:15, udp_recv:0
+961081627:11:R:15, icmp_sent:21
+961083111:11:R:15, icmp_recv:52
+961084553:11:R:15, Leaf MODE: 0
+961121203:2:R:15, DAG-VERSION:240
+961123282:2:R:15, Imin:12, Idoubling:8
+961124694:2:R:15, udp_sent:15
+961125994:2:R:15, udp_recv:0
+961127478:2:R:15, icmp_sent:52
+961128963:2:R:15, icmp_recv:78
+961130406:2:R:15, Leaf MODE: 2
+961135739:6:R:15, DAG-VERSION:240
+961137818:6:R:15, Imin:12, Idoubling:8
+961139230:6:R:15, udp_sent:15
+961140530:6:R:15, udp_recv:0
+961142014:6:R:15, icmp_sent:32
+961143498:6:R:15, icmp_recv:43
+961144941:6:R:15, Leaf MODE: 2
+961233422:4:R:15, DAG-VERSION:240
+961235500:4:R:15, Imin:12, Idoubling:8
+961236913:4:R:15, udp_sent:15
+961238213:4:R:15, udp_recv:0
+961239710:4:R:15, icmp_sent:26
+961241194:4:R:15, icmp_recv:89
+961242637:4:R:15, Leaf MODE: 2
+961266323:1:R:15, DAG-VERSION:240
+961268401:1:R:15, Imin:12, Idoubling:8
+961269701:1:R:15, udp_sent:0
+961271114:1:R:15, udp_recv:62
+961272502:1:R:15, icmp_sent:1
+961274099:1:R:15, icmp_recv:154
+961275542:1:R:15, Leaf MODE: 0
+961286784:7:R:15, DAG-VERSION:240
+961288862:7:R:15, Imin:12, Idoubling:8
+961290163:7:R:15, udp_sent:1
+961291463:7:R:15, udp_recv:0
+961292980:7:R:15, icmp_sent:21
+961294464:7:R:15, icmp_recv:29
+961295906:7:R:15, Leaf MODE: 0
+961441494:10:R:15, DAG-VERSION:240
+961443572:10:R:15, Imin:12, Idoubling:8
+961444873:10:R:15, udp_sent:1
+961446173:10:R:15, udp_recv:0
+961447690:10:R:15, icmp_sent:26
+961449174:10:R:15, icmp_recv:58
+961450617:10:R:15, Leaf MODE: 0
+961593508:9:R:15, DAG-VERSION:240
+961595586:9:R:15, Imin:12, Idoubling:8
+961596886:9:R:15, udp_sent:0
+961598187:9:R:15, udp_recv:0
+961599687:9:R:15, icmp_sent:26
+961600194:5:R:15, DAG-VERSION:240
+961601171:9:R:15, icmp_recv:40
+961602273:5:R:15, Imin:12, Idoubling:8
+961602613:9:R:15, Leaf MODE: 0
+961603685:5:R:15, udp_sent:15
+961604985:5:R:15, udp_recv:0
+961606470:5:R:15, icmp_sent:76
+961607954:5:R:15, icmp_recv:63
+961609397:5:R:15, Leaf MODE: 2
+961784423:3:R:15, DAG-VERSION:240
+961786502:3:R:15, Imin:12, Idoubling:8
+961787914:3:R:15, udp_sent:15
+961789214:3:R:15, udp_recv:0
+961790698:3:R:15, icmp_sent:22
+961792182:3:R:15, icmp_recv:90
+961793625:3:R:15, Leaf MODE: 2
+971443659:1:Msg from Node: 4
+975172837:1:Msg from Node: 6
+978747282:1:Msg from Node: 5
+986737319:1:Msg from Node: 2
+997725054:1:Msg from Node: 9
+1002261048:1:Msg from Node: 3
+1020957783:8:R:16, DAG-VERSION:240
+1020959862:8:R:16, Imin:12, Idoubling:8
+1020961162:8:R:16, udp_sent:1
+1020962462:8:R:16, udp_recv:0
+1020963979:8:R:16, icmp_sent:27
+1020965463:8:R:16, icmp_recv:89
+1020966905:8:R:16, Leaf MODE: 0
+1021075474:11:R:16, DAG-VERSION:240
+1021077552:11:R:16, Imin:12, Idoubling:8
+1021078853:11:R:16, udp_sent:1
+1021080153:11:R:16, udp_recv:0
+1021081670:11:R:16, icmp_sent:22
+1021083154:11:R:16, icmp_recv:52
+1021084597:11:R:16, Leaf MODE: 0
+1021121575:2:R:16, DAG-VERSION:240
+1021123654:2:R:16, Imin:12, Idoubling:8
+1021125066:2:R:16, udp_sent:16
+1021126367:2:R:16, udp_recv:0
+1021127850:2:R:16, icmp_sent:54
+1021129335:2:R:16, icmp_recv:79
+1021130778:2:R:16, Leaf MODE: 2
+1021136111:6:R:16, DAG-VERSION:240
+1021138190:6:R:16, Imin:12, Idoubling:8
+1021139602:6:R:16, udp_sent:16
+1021140902:6:R:16, udp_recv:0
+1021142386:6:R:16, icmp_sent:34
+1021143870:6:R:16, icmp_recv:43
+1021145313:6:R:16, Leaf MODE: 2
+1021233813:4:R:16, DAG-VERSION:240
+1021235892:4:R:16, Imin:12, Idoubling:8
+1021237304:4:R:16, udp_sent:16
+1021238605:4:R:16, udp_recv:0
+1021240088:4:R:16, icmp_sent:28
+1021241572:4:R:16, icmp_recv:90
+1021243015:4:R:16, Leaf MODE: 2
+1021266303:1:R:16, DAG-VERSION:240
+1021268382:1:R:16, Imin:12, Idoubling:8
+1021269682:1:R:16, udp_sent:0
+1021271095:1:R:16, udp_recv:68
+1021272502:1:R:16, icmp_sent:1
+1021274098:1:R:16, icmp_recv:160
+1021275540:1:R:16, Leaf MODE: 0
+1021286794:7:R:16, DAG-VERSION:240
+1021288872:7:R:16, Imin:12, Idoubling:8
+1021290173:7:R:16, udp_sent:1
+1021291473:7:R:16, udp_recv:0
+1021292980:7:R:16, icmp_sent:23
+1021294464:7:R:16, icmp_recv:31
+1021295907:7:R:16, Leaf MODE: 0
+1021441484:10:R:16, DAG-VERSION:240
+1021443563:10:R:16, Imin:12, Idoubling:8
+1021444863:10:R:16, udp_sent:1
+1021446164:10:R:16, udp_recv:0
+1021447647:10:R:16, icmp_sent:26
+1021449131:10:R:16, icmp_recv:60
+1021450573:10:R:16, Leaf MODE: 0
+1021593481:9:R:16, DAG-VERSION:240
+1021595560:9:R:16, Imin:12, Idoubling:8
+1021596860:9:R:16, udp_sent:1
+1021598161:9:R:16, udp_recv:0
+1021599644:9:R:16, icmp_sent:26
+1021601127:9:R:16, icmp_recv:41
+1021602570:9:R:16, Leaf MODE: 0
+1021611089:5:R:16, DAG-VERSION:240
+1021613167:5:R:16, Imin:12, Idoubling:8
+1021614579:5:R:16, udp_sent:16
+1021615880:5:R:16, udp_recv:0
+1021617364:5:R:16, icmp_sent:77
+1021618848:5:R:16, icmp_recv:65
+1021620291:5:R:16, Leaf MODE: 2
+1021784757:3:R:16, DAG-VERSION:240
+1021786835:3:R:16, Imin:12, Idoubling:8
+1021788248:3:R:16, udp_sent:16
+1021789548:3:R:16, udp_recv:0
+1021791048:3:R:16, icmp_sent:22
+1021792532:3:R:16, icmp_recv:94
+1021793975:3:R:16, Leaf MODE: 2
+1048478699:1:Msg from Node: 3
+1076904618:1:Msg from Node: 4
+1080957781:8:R:17, DAG-VERSION:240
+1080959860:8:R:17, Imin:12, Idoubling:8
+1080961161:8:R:17, udp_sent:1
+1080962461:8:R:17, udp_recv:0
+1080963979:8:R:17, icmp_sent:28
+1080965463:8:R:17, icmp_recv:90
+1080966906:8:R:17, Leaf MODE: 0
+1081075482:11:R:17, DAG-VERSION:240
+1081077561:11:R:17, Imin:12, Idoubling:8
+1081078861:11:R:17, udp_sent:1
+1081080162:11:R:17, udp_recv:0
+1081081670:11:R:17, icmp_sent:23
+1081083154:11:R:17, icmp_recv:52
+1081084597:11:R:17, Leaf MODE: 0
+1081121223:2:R:17, DAG-VERSION:240
+1081123302:2:R:17, Imin:12, Idoubling:8
+1081124714:2:R:17, udp_sent:17
+1081126015:2:R:17, udp_recv:0
+1081127498:2:R:17, icmp_sent:55
+1081128983:2:R:17, icmp_recv:79
+1081130426:2:R:17, Leaf MODE: 2
+1081135720:6:R:17, DAG-VERSION:240
+1081137799:6:R:17, Imin:12, Idoubling:8
+1081139211:6:R:17, udp_sent:17
+1081140512:6:R:17, udp_recv:0
+1081142009:6:R:17, icmp_sent:34
+1081143492:6:R:17, icmp_recv:43
+1081144935:6:R:17, Leaf MODE: 2
+1081233458:4:R:17, DAG-VERSION:240
+1081235537:4:R:17, Imin:12, Idoubling:8
+1081236949:4:R:17, udp_sent:17
+1081238249:4:R:17, udp_recv:0
+1081239733:4:R:17, icmp_sent:29
+1081241217:4:R:17, icmp_recv:91
+1081242659:4:R:17, Leaf MODE: 2
+1081266321:1:R:17, DAG-VERSION:240
+1081268400:1:R:17, Imin:12, Idoubling:8
+1081269700:1:R:17, udp_sent:0
+1081271113:1:R:17, udp_recv:70
+1081272503:1:R:17, icmp_sent:1
+1081274098:1:R:17, icmp_recv:162
+1081275541:1:R:17, Leaf MODE: 0
+1081286782:7:R:17, DAG-VERSION:240
+1081288861:7:R:17, Imin:12, Idoubling:8
+1081290162:7:R:17, udp_sent:1
+1081291462:7:R:17, udp_recv:0
+1081292980:7:R:17, icmp_sent:23
+1081294464:7:R:17, icmp_recv:31
+1081295907:7:R:17, Leaf MODE: 0
+1081441512:10:R:17, DAG-VERSION:240
+1081443590:10:R:17, Imin:12, Idoubling:8
+1081444891:10:R:17, udp_sent:1
+1081446191:10:R:17, udp_recv:0
+1081447690:10:R:17, icmp_sent:28
+1081449174:10:R:17, icmp_recv:61
+1081450617:10:R:17, Leaf MODE: 0
+1081594514:9:R:17, DAG-VERSION:240
+1081596592:9:R:17, Imin:12, Idoubling:8
+1081597893:9:R:17, udp_sent:1
+1081599193:9:R:17, udp_recv:0
+1081600175:5:R:17, DAG-VERSION:240
+1081600678:9:R:17, icmp_sent:27
+1081602161:9:R:17, icmp_recv:41
+1081602254:5:R:17, Imin:12, Idoubling:8
+1081603604:9:R:17, Leaf MODE: 0
+1081603666:5:R:17, udp_sent:17
+1081604967:5:R:17, udp_recv:0
+1081606464:5:R:17, icmp_sent:77
+1081607948:5:R:17, icmp_recv:65
+1081609391:5:R:17, Leaf MODE: 2
+1081784460:3:R:17, DAG-VERSION:240
+1081786538:3:R:17, Imin:12, Idoubling:8
+1081787950:3:R:17, udp_sent:17
+1081789251:3:R:17, udp_recv:0
+1081790763:3:R:17, icmp_sent:24
+1081792247:3:R:17, icmp_recv:95
+1081793690:3:R:17, Leaf MODE: 2
+1096989435:1:Msg from Node: 5
+1127650608:1:Msg from Node: 3
+1131767136:1:Msg from Node: 6
+1137881107:1:Msg from Node: 4
+1140957783:8:R:18, DAG-VERSION:240
+1140959861:8:R:18, Imin:12, Idoubling:8
+1140961162:8:R:18, udp_sent:1
+1140962462:8:R:18, udp_recv:0
+1140963979:8:R:18, icmp_sent:29
+1140965463:8:R:18, icmp_recv:95
+1140966906:8:R:18, Leaf MODE: 0
+1141075464:11:R:18, DAG-VERSION:240
+1141077543:11:R:18, Imin:12, Idoubling:8
+1141078843:11:R:18, udp_sent:1
+1141080144:11:R:18, udp_recv:0
+1141081627:11:R:18, icmp_sent:23
+1141083111:11:R:18, icmp_recv:53
+1141084553:11:R:18, Leaf MODE: 0
+1141121577:2:R:18, DAG-VERSION:240
+1141123655:2:R:18, Imin:12, Idoubling:8
+1141125068:2:R:18, udp_sent:18
+1141126368:2:R:18, udp_recv:0
+1141127852:2:R:18, icmp_sent:63
+1141129336:2:R:18, icmp_recv:79
+1141130779:2:R:18, Leaf MODE: 2
+1141136093:6:R:18, DAG-VERSION:240
+1141138172:6:R:18, Imin:12, Idoubling:8
+1141139584:6:R:18, udp_sent:18
+1141140884:6:R:18, udp_recv:0
+1141142368:6:R:18, icmp_sent:35
+1141143852:6:R:18, icmp_recv:44
+1141145295:6:R:18, Leaf MODE: 2
+1141233772:4:R:18, DAG-VERSION:240
+1141235851:4:R:18, Imin:12, Idoubling:8
+1141237263:4:R:18, udp_sent:18
+1141238563:4:R:18, udp_recv:0
+1141240067:4:R:18, icmp_sent:30
+1141241551:4:R:18, icmp_recv:94
+1141242994:4:R:18, Leaf MODE: 2
+1141266302:1:R:18, DAG-VERSION:240
+1141268381:1:R:18, Imin:12, Idoubling:8
+1141269681:1:R:18, udp_sent:0
+1141271095:1:R:18, udp_recv:74
+1141272503:1:R:18, icmp_sent:1
+1141274098:1:R:18, icmp_recv:166
+1141275541:1:R:18, Leaf MODE: 0
+1141286784:7:R:18, DAG-VERSION:240
+1141288862:7:R:18, Imin:12, Idoubling:8
+1141290163:7:R:18, udp_sent:1
+1141291463:7:R:18, udp_recv:0
+1141292980:7:R:18, icmp_sent:24
+1141294464:7:R:18, icmp_recv:32
+1141295907:7:R:18, Leaf MODE: 0
+1141441484:10:R:18, DAG-VERSION:240
+1141443563:10:R:18, Imin:12, Idoubling:8
+1141444863:10:R:18, udp_sent:1
+1141446164:10:R:18, udp_recv:0
+1141447647:10:R:18, icmp_sent:28
+1141449131:10:R:18, icmp_recv:64
+1141450573:10:R:18, Leaf MODE: 0
+1141593481:9:R:18, DAG-VERSION:240
+1141595560:9:R:18, Imin:12, Idoubling:8
+1141596860:9:R:18, udp_sent:1
+1141598161:9:R:18, udp_recv:0
+1141599644:9:R:18, icmp_sent:27
+1141600548:5:R:18, DAG-VERSION:240
+1141601127:9:R:18, icmp_recv:42
+1141602570:9:R:18, Leaf MODE: 0
+1141602627:5:R:18, Imin:12, Idoubling:8
+1141604039:5:R:18, udp_sent:18
+1141605340:5:R:18, udp_recv:0
+1141606824:5:R:18, icmp_sent:78
+1141608308:5:R:18, icmp_recv:68
+1141609751:5:R:18, Leaf MODE: 2
+1141784754:3:R:18, DAG-VERSION:240
+1141786833:3:R:18, Imin:12, Idoubling:8
+1141788245:3:R:18, udp_sent:18
+1141789546:3:R:18, udp_recv:0
+1141791048:3:R:18, icmp_sent:24
+1141792532:3:R:18, icmp_recv:98
+1141793975:3:R:18, Leaf MODE: 2
+1150662182:1:Msg from Node: 4
+1152056932:1:Msg from Node: 3
+1158817493:1:Msg from Node: 5
+1169188322:1:Msg from Node: 6
+1169580969:1:Msg from Node: 2
+1200957894:8:R:19, DAG-VERSION:240
+1200959973:8:R:19, Imin:12, Idoubling:8
+1200961274:8:R:19, udp_sent:1
+1200962574:8:R:19, udp_recv:0
+1200964058:8:R:19, icmp_sent:31
+1200965542:8:R:19, icmp_recv:96
+1200966984:8:R:19, Leaf MODE: 0
+1201075576:11:R:19, DAG-VERSION:240
+1201077654:11:R:19, Imin:12, Idoubling:8
+1201078955:11:R:19, udp_sent:1
+1201080255:11:R:19, udp_recv:0
+1201081741:11:R:19, icmp_sent:24
+1201083225:11:R:19, icmp_recv:54
+1201084668:11:R:19, Leaf MODE: 0
+1201121220:2:R:19, DAG-VERSION:240
+1201123298:2:R:19, Imin:12, Idoubling:8
+1201124711:2:R:19, udp_sent:19
+1201126011:2:R:19, udp_recv:0
+1201127495:2:R:19, icmp_sent:64
+1201128979:2:R:19, icmp_recv:79
+1201130422:2:R:19, Leaf MODE: 2
+1201135752:6:R:19, DAG-VERSION:240
+1201137831:6:R:19, Imin:12, Idoubling:8
+1201139243:6:R:19, udp_sent:19
+1201140544:6:R:19, udp_recv:0
+1201142027:6:R:19, icmp_sent:35
+1201143511:6:R:19, icmp_recv:44
+1201144954:6:R:19, Leaf MODE: 2
+1201233456:4:R:19, DAG-VERSION:240
+1201235534:4:R:19, Imin:12, Idoubling:8
+1201236947:4:R:19, udp_sent:19
+1201238247:4:R:19, udp_recv:0
+1201239731:4:R:19, icmp_sent:31
+1201241215:4:R:19, icmp_recv:95
+1201242658:4:R:19, Leaf MODE: 2
+1201266320:1:R:19, DAG-VERSION:240
+1201268399:1:R:19, Imin:12, Idoubling:8
+1201269699:1:R:19, udp_sent:0
+1201271112:1:R:19, udp_recv:79
+1201272503:1:R:19, icmp_sent:1
+1201274098:1:R:19, icmp_recv:170
+1201275541:1:R:19, Leaf MODE: 0
+1201286886:7:R:19, DAG-VERSION:240
+1201288964:7:R:19, Imin:12, Idoubling:8
+1201290265:7:R:19, udp_sent:1
+1201291565:7:R:19, udp_recv:0
+1201293051:7:R:19, icmp_sent:25
+1201294535:7:R:19, icmp_recv:33
+1201295978:7:R:19, Leaf MODE: 0
+1201441596:10:R:19, DAG-VERSION:240
+1201443674:10:R:19, Imin:12, Idoubling:8
+1201444975:10:R:19, udp_sent:1
+1201446275:10:R:19, udp_recv:0
+1201447761:10:R:19, icmp_sent:29
+1201449245:10:R:19, icmp_recv:65
+1201450688:10:R:19, Leaf MODE: 0
+1201593602:9:R:19, DAG-VERSION:240
+1201595681:9:R:19, Imin:12, Idoubling:8
+1201596982:9:R:19, udp_sent:1
+1201598282:9:R:19, udp_recv:0
+1201599765:9:R:19, icmp_sent:29
+1201600211:5:R:19, DAG-VERSION:240
+1201601249:9:R:19, icmp_recv:42
+1201602289:5:R:19, Imin:12, Idoubling:8
+1201602691:9:R:19, Leaf MODE: 0
+1201603702:5:R:19, udp_sent:19
+1201605002:5:R:19, udp_recv:0
+1201606486:5:R:19, icmp_sent:79
+1201607971:5:R:19, icmp_recv:70
+1201609414:5:R:19, Leaf MODE: 2
+1201784438:3:R:19, DAG-VERSION:240
+1201786516:3:R:19, Imin:12, Idoubling:8
+1201787929:3:R:19, udp_sent:19
+1201789229:3:R:19, udp_recv:0
+1201790712:3:R:19, icmp_sent:25
+1201792308:3:R:19, icmp_recv:101
+1201793751:3:R:19, Leaf MODE: 2
+1214349787:1:Msg from Node: 4
+1226846858:1:Msg from Node: 10
+1231619548:1:Msg from Node: 3
+1244934666:1:Msg from Node: 5
+1260957806:8:R:20, DAG-VERSION:240
+1260959884:8:R:20, Imin:12, Idoubling:8
+1260961185:8:R:20, udp_sent:1
+1260962485:8:R:20, udp_recv:0
+1260963979:8:R:20, icmp_sent:31
+1260965463:8:R:20, icmp_recv:97
+1260966906:8:R:20, Leaf MODE: 0
+1261075506:11:R:20, DAG-VERSION:240
+1261077585:11:R:20, Imin:12, Idoubling:8
+1261078886:11:R:20, udp_sent:1
+1261080186:11:R:20, udp_recv:0
+1261081670:11:R:20, icmp_sent:25
+1261083154:11:R:20, icmp_recv:55
+1261084596:11:R:20, Leaf MODE: 0
+1261136086:6:R:20, DAG-VERSION:240
+1261138165:6:R:20, Imin:12, Idoubling:8
+1261139577:6:R:20, udp_sent:20
+1261140878:6:R:20, udp_recv:0
+1261142364:6:R:20, icmp_sent:36
+1261143848:6:R:20, icmp_recv:44
+1261145291:6:R:20, Leaf MODE: 2
+1261150071:2:R:20, DAG-VERSION:240
+1261152149:2:R:20, Imin:12, Idoubling:8
+1261153562:2:R:20, udp_sent:20
+1261154862:2:R:20, udp_recv:0
+1261156346:2:R:20, icmp_sent:65
+1261157831:2:R:20, icmp_recv:79
+1261159274:2:R:20, Leaf MODE: 2
+1261233788:4:R:20, DAG-VERSION:240
+1261235867:4:R:20, Imin:12, Idoubling:8
+1261237279:4:R:20, udp_sent:20
+1261238580:4:R:20, udp_recv:0
+1261240066:4:R:20, icmp_sent:32
+1261241550:4:R:20, icmp_recv:95
+1261242993:4:R:20, Leaf MODE: 2
+1261266302:1:R:20, DAG-VERSION:240
+1261268380:1:R:20, Imin:12, Idoubling:8
+1261269680:1:R:20, udp_sent:0
+1261271093:1:R:20, udp_recv:83
+1261272503:1:R:20, icmp_sent:1
+1261274098:1:R:20, icmp_recv:170
+1261275541:1:R:20, Leaf MODE: 0
+1261286807:7:R:20, DAG-VERSION:240
+1261288886:7:R:20, Imin:12, Idoubling:8
+1261290187:7:R:20, udp_sent:1
+1261291487:7:R:20, udp_recv:0
+1261292980:7:R:20, icmp_sent:25
+1261294464:7:R:20, icmp_recv:33
+1261295906:7:R:20, Leaf MODE: 0
+1261441490:10:R:20, DAG-VERSION:240
+1261443569:10:R:20, Imin:12, Idoubling:8
+1261444869:10:R:20, udp_sent:2
+1261446170:10:R:20, udp_recv:0
+1261447690:10:R:20, icmp_sent:29
+1261449174:10:R:20, icmp_recv:65
+1261450617:10:R:20, Leaf MODE: 0
+1261593514:9:R:20, DAG-VERSION:240
+1261595592:9:R:20, Imin:12, Idoubling:8
+1261596893:9:R:20, udp_sent:1
+1261598193:9:R:20, udp_recv:0
+1261599687:9:R:20, icmp_sent:29
+1261600545:5:R:20, DAG-VERSION:240
+1261601170:9:R:20, icmp_recv:42
+1261602613:9:R:20, Leaf MODE: 0
+1261602624:5:R:20, Imin:12, Idoubling:8
+1261604036:5:R:20, udp_sent:20
+1261605337:5:R:20, udp_recv:0
+1261606820:5:R:20, icmp_sent:80
+1261608304:5:R:20, icmp_recv:71
+1261609747:5:R:20, Leaf MODE: 2
+1261784770:3:R:20, DAG-VERSION:240
+1261786849:3:R:20, Imin:12, Idoubling:8
+1261788261:3:R:20, udp_sent:20
+1261789561:3:R:20, udp_recv:0
+1261791048:3:R:20, icmp_sent:26
+1261792643:3:R:20, icmp_recv:101
+1261794086:3:R:20, Leaf MODE: 2
+1269446530:1:Msg from Node: 6
+1271010045:1:Msg from Node: 3
+1276041379:1:Msg from Node: 2
+1300365550:1:Msg from Node: 4
+1320957797:8:R:21, DAG-VERSION:240
+1320959876:8:R:21, Imin:12, Idoubling:8
+1320961177:8:R:21, udp_sent:1
+1320962477:8:R:21, udp_recv:0
+1320963979:8:R:21, icmp_sent:32
+1320965575:8:R:21, icmp_recv:100
+1320967018:8:R:21, Leaf MODE: 0
+1321075479:11:R:21, DAG-VERSION:240
+1321077557:11:R:21, Imin:12, Idoubling:8
+1321078858:11:R:21, udp_sent:1
+1321080158:11:R:21, udp_recv:0
+1321081670:11:R:21, icmp_sent:25
+1321083154:11:R:21, icmp_recv:58
+1321084596:11:R:21, Leaf MODE: 0
+1321121222:2:R:21, DAG-VERSION:240
+1321123300:2:R:21, Imin:12, Idoubling:8
+1321124712:2:R:21, udp_sent:21
+1321126013:2:R:21, udp_recv:0
+1321127497:2:R:21, icmp_sent:71
+1321128982:2:R:21, icmp_recv:79
+1321130424:2:R:21, Leaf MODE: 2
+1321135777:6:R:21, DAG-VERSION:240
+1321137856:6:R:21, Imin:12, Idoubling:8
+1321139268:6:R:21, udp_sent:21
+1321140568:6:R:21, udp_recv:0
+1321142079:6:R:21, icmp_sent:42
+1321143563:6:R:21, icmp_recv:46
+1321145006:6:R:21, Leaf MODE: 2
+1321233419:4:R:21, DAG-VERSION:240
+1321235497:4:R:21, Imin:12, Idoubling:8
+1321236910:4:R:21, udp_sent:21
+1321238210:4:R:21, udp_recv:0
+1321239711:4:R:21, icmp_sent:32
+1321241195:4:R:21, icmp_recv:97
+1321242638:4:R:21, Leaf MODE: 2
+1321266302:1:R:21, DAG-VERSION:240
+1321268380:1:R:21, Imin:12, Idoubling:8
+1321269680:1:R:21, udp_sent:0
+1321271093:1:R:21, udp_recv:87
+1321272503:1:R:21, icmp_sent:1
+1321274098:1:R:21, icmp_recv:177
+1321275541:1:R:21, Leaf MODE: 0
+1321286799:7:R:21, DAG-VERSION:240
+1321288878:7:R:21, Imin:12, Idoubling:8
+1321290178:7:R:21, udp_sent:1
+1321291479:7:R:21, udp_recv:0
+1321292980:7:R:21, icmp_sent:26
+1321294464:7:R:21, icmp_recv:35
+1321295906:7:R:21, Leaf MODE: 0
+1321441492:10:R:21, DAG-VERSION:240
+1321443570:10:R:21, Imin:12, Idoubling:8
+1321444871:10:R:21, udp_sent:2
+1321446171:10:R:21, udp_recv:0
+1321447691:10:R:21, icmp_sent:30
+1321449175:10:R:21, icmp_recv:67
+1321450617:10:R:21, Leaf MODE: 0
+1321593505:9:R:21, DAG-VERSION:240
+1321595584:9:R:21, Imin:12, Idoubling:8
+1321596885:9:R:21, udp_sent:1
+1321598185:9:R:21, udp_recv:0
+1321599687:9:R:21, icmp_sent:30
+1321600174:5:R:21, DAG-VERSION:240
+1321601171:9:R:21, icmp_recv:47
+1321602252:5:R:21, Imin:12, Idoubling:8
+1321602613:9:R:21, Leaf MODE: 0
+1321603664:5:R:21, udp_sent:21
+1321604965:5:R:21, udp_recv:0
+1321606463:5:R:21, icmp_sent:80
+1321607948:5:R:21, icmp_recv:75
+1321609390:5:R:21, Leaf MODE: 2
+1321784401:3:R:21, DAG-VERSION:240
+1321786479:3:R:21, Imin:12, Idoubling:8
+1321787892:3:R:21, udp_sent:21
+1321789192:3:R:21, udp_recv:0
+1321790692:3:R:21, icmp_sent:27
+1321792288:3:R:21, icmp_recv:108
+1321793731:3:R:21, Leaf MODE: 2
+1330318603:1:Msg from Node: 4
+1334909190:1:Msg from Node: 2
+1335628924:1:Msg from Node: 11
+1363600164:1:Msg from Node: 9
+1367899921:1:Msg from Node: 6
+1371088349:1:Msg from Node: 3
+1380965734:8:R:22, DAG-VERSION:240
+1380967813:8:R:22, Imin:12, Idoubling:8
+1380969113:8:R:22, udp_sent:1
+1380970414:8:R:22, udp_recv:0
+1380971934:8:R:22, icmp_sent:32
+1380973530:8:R:22, icmp_recv:103
+1380974972:8:R:22, Leaf MODE: 0
+1381075472:11:R:22, DAG-VERSION:240
+1381077550:11:R:22, Imin:12, Idoubling:8
+1381078851:11:R:22, udp_sent:2
+1381080151:11:R:22, udp_recv:0
+1381081670:11:R:22, icmp_sent:26
+1381083154:11:R:22, icmp_recv:60
+1381084597:11:R:22, Leaf MODE: 0
+1381121574:2:R:22, DAG-VERSION:240
+1381123652:2:R:22, Imin:12, Idoubling:8
+1381125065:2:R:22, udp_sent:22
+1381126365:2:R:22, udp_recv:0
+1381127849:2:R:22, icmp_sent:73
+1381129333:2:R:22, icmp_recv:81
+1381130776:2:R:22, Leaf MODE: 2
+1381136090:6:R:22, DAG-VERSION:240
+1381138169:6:R:22, Imin:12, Idoubling:8
+1381139581:6:R:22, udp_sent:22
+1381140881:6:R:22, udp_recv:0
+1381142365:6:R:22, icmp_sent:44
+1381143848:6:R:22, icmp_recv:48
+1381145291:6:R:22, Leaf MODE: 2
+1381233771:4:R:22, DAG-VERSION:240
+1381235849:4:R:22, Imin:12, Idoubling:8
+1381237262:4:R:22, udp_sent:22
+1381238562:4:R:22, udp_recv:0
+1381240067:4:R:22, icmp_sent:32
+1381241551:4:R:22, icmp_recv:99
+1381242994:4:R:22, Leaf MODE: 2
+1381266311:1:R:22, DAG-VERSION:240
+1381268390:1:R:22, Imin:12, Idoubling:8
+1381269690:1:R:22, udp_sent:0
+1381271103:1:R:22, udp_recv:93
+1381272502:1:R:22, icmp_sent:1
+1381274098:1:R:22, icmp_recv:182
+1381275541:1:R:22, Leaf MODE: 0
+1381286789:7:R:22, DAG-VERSION:240
+1381288868:7:R:22, Imin:12, Idoubling:8
+1381290169:7:R:22, udp_sent:1
+1381291469:7:R:22, udp_recv:0
+1381292980:7:R:22, icmp_sent:26
+1381294464:7:R:22, icmp_recv:36
+1381295906:7:R:22, Leaf MODE: 0
+1381441482:10:R:22, DAG-VERSION:240
+1381443560:10:R:22, Imin:12, Idoubling:8
+1381444861:10:R:22, udp_sent:2
+1381446161:10:R:22, udp_recv:0
+1381447645:10:R:22, icmp_sent:30
+1381449130:10:R:22, icmp_recv:70
+1381450572:10:R:22, Leaf MODE: 0
+1381593489:9:R:22, DAG-VERSION:240
+1381595567:9:R:22, Imin:12, Idoubling:8
+1381596868:9:R:22, udp_sent:2
+1381598168:9:R:22, udp_recv:0
+1381599688:9:R:22, icmp_sent:31
+1381600564:5:R:22, DAG-VERSION:240
+1381601171:9:R:22, icmp_recv:48
+1381602614:9:R:22, Leaf MODE: 0
+1381602643:5:R:22, Imin:12, Idoubling:8
+1381604055:5:R:22, udp_sent:22
+1381605356:5:R:22, udp_recv:0
+1381606839:5:R:22, icmp_sent:82
+1381608323:5:R:22, icmp_recv:78
+1381609766:5:R:22, Leaf MODE: 2
+1381784753:3:R:22, DAG-VERSION:240
+1381786831:3:R:22, Imin:12, Idoubling:8
+1381788244:3:R:22, udp_sent:22
+1381789544:3:R:22, udp_recv:0
+1381791048:3:R:22, icmp_sent:27
+1381792645:3:R:22, icmp_recv:110
+1381794088:3:R:22, Leaf MODE: 2
+1382744348:1:Msg from Node: 3
+1390350126:1:Msg from Node: 4
+1399755065:1:Msg from Node: 7
+1404137867:1:Msg from Node: 5
+1427494687:1:Msg from Node: 2
+1440957797:8:R:23, DAG-VERSION:240
+1440959876:8:R:23, Imin:12, Idoubling:8
+1440961177:8:R:23, udp_sent:1
+1440962477:8:R:23, udp_recv:0
+1440963979:8:R:23, icmp_sent:33
+1440965575:8:R:23, icmp_recv:105
+1440967018:8:R:23, Leaf MODE: 0
+1441075472:11:R:23, DAG-VERSION:240
+1441077550:11:R:23, Imin:12, Idoubling:8
+1441078851:11:R:23, udp_sent:2
+1441080151:11:R:23, udp_recv:0
+1441081670:11:R:23, icmp_sent:27
+1441083154:11:R:23, icmp_recv:60
+1441084597:11:R:23, Leaf MODE: 0
+1441121202:2:R:23, DAG-VERSION:240
+1441123281:2:R:23, Imin:12, Idoubling:8
+1441124693:2:R:23, udp_sent:23
+1441125993:2:R:23, udp_recv:0
+1441127478:2:R:23, icmp_sent:73
+1441128961:2:R:23, icmp_recv:81
+1441130404:2:R:23, Leaf MODE: 2
+1441135758:6:R:23, DAG-VERSION:240
+1441137836:6:R:23, Imin:12, Idoubling:8
+1441139248:6:R:23, udp_sent:23
+1441140549:6:R:23, udp_recv:0
+1441142032:6:R:23, icmp_sent:46
+1441143516:6:R:23, icmp_recv:49
+1441144958:6:R:23, Leaf MODE: 2
+1441233459:4:R:23, DAG-VERSION:240
+1441235537:4:R:23, Imin:12, Idoubling:8
+1441236950:4:R:23, udp_sent:23
+1441238250:4:R:23, udp_recv:0
+1441239734:4:R:23, icmp_sent:34
+1441241218:4:R:23, icmp_recv:99
+1441242661:4:R:23, Leaf MODE: 2
+1441266302:1:R:23, DAG-VERSION:240
+1441268380:1:R:23, Imin:12, Idoubling:8
+1441269680:1:R:23, udp_sent:0
+1441271093:1:R:23, udp_recv:98
+1441272502:1:R:23, icmp_sent:1
+1441274098:1:R:23, icmp_recv:184
+1441275541:1:R:23, Leaf MODE: 0
+1441286773:7:R:23, DAG-VERSION:240
+1441288851:7:R:23, Imin:12, Idoubling:8
+1441290152:7:R:23, udp_sent:2
+1441291452:7:R:23, udp_recv:0
+1441292935:7:R:23, icmp_sent:26
+1441294419:7:R:23, icmp_recv:37
+1441295862:7:R:23, Leaf MODE: 0
+1441441492:10:R:23, DAG-VERSION:240
+1441443570:10:R:23, Imin:12, Idoubling:8
+1441444871:10:R:23, udp_sent:2
+1441446171:10:R:23, udp_recv:0
+1441447691:10:R:23, icmp_sent:31
+1441449175:10:R:23, icmp_recv:70
+1441450618:10:R:23, Leaf MODE: 0
+1441593479:9:R:23, DAG-VERSION:240
+1441595557:9:R:23, Imin:12, Idoubling:8
+1441596858:9:R:23, udp_sent:2
+1441598158:9:R:23, udp_recv:0
+1441599642:9:R:23, icmp_sent:31
+1441600193:5:R:23, DAG-VERSION:240
+1441601126:9:R:23, icmp_recv:48
+1441602272:5:R:23, Imin:12, Idoubling:8
+1441602568:9:R:23, Leaf MODE: 0
+1441603684:5:R:23, udp_sent:23
+1441604984:5:R:23, udp_recv:0
+1441606468:5:R:23, icmp_sent:83
+1441607952:5:R:23, icmp_recv:79
+1441609395:5:R:23, Leaf MODE: 2
+1441784441:3:R:23, DAG-VERSION:240
+1441786519:3:R:23, Imin:12, Idoubling:8
+1441787932:3:R:23, udp_sent:23
+1441789232:3:R:23, udp_recv:0
+1441790715:3:R:23, icmp_sent:29
+1441792312:3:R:23, icmp_recv:111
+1441793755:3:R:23, Leaf MODE: 2
+1454425690:1:Msg from Node: 8
+1462106500:1:Msg from Node: 5
+1485861795:1:Msg from Node: 2
+1488451288:1:Msg from Node: 4
+1500957781:8:R:24, DAG-VERSION:240
+1500959859:8:R:24, Imin:12, Idoubling:8
+1500961160:8:R:24, udp_sent:2
+1500962460:8:R:24, udp_recv:0
+1500963980:8:R:24, icmp_sent:35
+1500965576:8:R:24, icmp_recv:106
+1500967018:8:R:24, Leaf MODE: 0
+1501075472:11:R:24, DAG-VERSION:240
+1501077551:11:R:24, Imin:12, Idoubling:8
+1501078852:11:R:24, udp_sent:2
+1501080152:11:R:24, udp_recv:0
+1501081670:11:R:24, icmp_sent:28
+1501083154:11:R:24, icmp_recv:60
+1501084597:11:R:24, Leaf MODE: 0
+1501121535:2:R:24, DAG-VERSION:240
+1501123613:2:R:24, Imin:12, Idoubling:8
+1501125026:2:R:24, udp_sent:24
+1501126326:2:R:24, udp_recv:0
+1501127829:2:R:24, icmp_sent:73
+1501129312:2:R:24, icmp_recv:81
+1501130755:2:R:24, Leaf MODE: 2
+1501136148:6:R:24, DAG-VERSION:240
+1501138227:6:R:24, Imin:12, Idoubling:8
+1501139639:6:R:24, udp_sent:24
+1501140939:6:R:24, udp_recv:0
+1501142435:6:R:24, icmp_sent:48
+1501143919:6:R:24, icmp_recv:49
+1501145362:6:R:24, Leaf MODE: 2
+1501233771:4:R:24, DAG-VERSION:240
+1501235850:4:R:24, Imin:12, Idoubling:8
+1501237262:4:R:24, udp_sent:24
+1501238562:4:R:24, udp_recv:0
+1501240066:4:R:24, icmp_sent:34
+1501241550:4:R:24, icmp_recv:99
+1501242993:4:R:24, Leaf MODE: 2
+1501266302:1:R:24, DAG-VERSION:240
+1501268380:1:R:24, Imin:12, Idoubling:8
+1501269680:1:R:24, udp_sent:0
+1501271205:1:R:24, udp_recv:102
+1501272577:1:R:24, icmp_sent:1
+1501274172:1:R:24, icmp_recv:186
+1501275615:1:R:24, Leaf MODE: 0
+1501286782:7:R:24, DAG-VERSION:240
+1501288861:7:R:24, Imin:12, Idoubling:8
+1501290162:7:R:24, udp_sent:2
+1501291462:7:R:24, udp_recv:0
+1501292980:7:R:24, icmp_sent:27
+1501294464:7:R:24, icmp_recv:37
+1501295907:7:R:24, Leaf MODE: 0
+1501445515:10:R:24, DAG-VERSION:240
+1501447593:10:R:24, Imin:12, Idoubling:8
+1501448894:10:R:24, udp_sent:2
+1501450194:10:R:24, udp_recv:0
+1501451678:10:R:24, icmp_sent:33
+1501453162:10:R:24, icmp_recv:70
+1501454605:10:R:24, Leaf MODE: 0
+1501593489:9:R:24, DAG-VERSION:240
+1501595567:9:R:24, Imin:12, Idoubling:8
+1501596868:9:R:24, udp_sent:2
+1501598168:9:R:24, udp_recv:0
+1501599688:9:R:24, icmp_sent:33
+1501600525:5:R:24, DAG-VERSION:240
+1501601171:9:R:24, icmp_recv:48
+1501602604:5:R:24, Imin:12, Idoubling:8
+1501602614:9:R:24, Leaf MODE: 0
+1501604016:5:R:24, udp_sent:24
+1501605316:5:R:24, udp_recv:0
+1501606819:5:R:24, icmp_sent:83
+1501608304:5:R:24, icmp_recv:79
+1501609747:5:R:24, Leaf MODE: 2
+1501784753:3:R:24, DAG-VERSION:240
+1501786831:3:R:24, Imin:12, Idoubling:8
+1501788244:3:R:24, udp_sent:24
+1501789544:3:R:24, udp_recv:0
+1501791048:3:R:24, icmp_sent:29
+1501792644:3:R:24, icmp_recv:111
+1501794087:3:R:24, Leaf MODE: 2
+1515924457:1:Msg from Node: 2
+1529846053:1:Msg from Node: 3
+1542857132:1:Msg from Node: 5
+1550826542:1:Msg from Node: 4
+1560957772:8:R:25, DAG-VERSION:240
+1560959850:8:R:25, Imin:12, Idoubling:8
+1560961151:8:R:25, udp_sent:2
+1560962451:8:R:25, udp_recv:0
+1560963935:8:R:25, icmp_sent:35
+1560965531:8:R:25, icmp_recv:110
+1560966974:8:R:25, Leaf MODE: 0
+1561075463:11:R:25, DAG-VERSION:240
+1561077541:11:R:25, Imin:12, Idoubling:8
+1561078842:11:R:25, udp_sent:2
+1561080142:11:R:25, udp_recv:0
+1561081625:11:R:25, icmp_sent:28
+1561083109:11:R:25, icmp_recv:61
+1561084552:11:R:25, Leaf MODE: 0
+1561121222:2:R:25, DAG-VERSION:240
+1561123300:2:R:25, Imin:12, Idoubling:8
+1561124712:2:R:25, udp_sent:25
+1561126013:2:R:25, udp_recv:0
+1561127497:2:R:25, icmp_sent:75
+1561128981:2:R:25, icmp_recv:82
+1561130423:2:R:25, Leaf MODE: 2
+1561135758:6:R:25, DAG-VERSION:240
+1561137836:6:R:25, Imin:12, Idoubling:8
+1561139248:6:R:25, udp_sent:25
+1561140549:6:R:25, udp_recv:0
+1561142033:6:R:25, icmp_sent:60
+1561143517:6:R:25, icmp_recv:50
+1561144959:6:R:25, Leaf MODE: 2
+1561233439:4:R:25, DAG-VERSION:240
+1561235518:4:R:25, Imin:12, Idoubling:8
+1561236930:4:R:25, udp_sent:25
+1561238230:4:R:25, udp_recv:0
+1561239714:4:R:25, icmp_sent:36
+1561241310:4:R:25, icmp_recv:103
+1561242753:4:R:25, Leaf MODE: 2
+1561266312:1:R:25, DAG-VERSION:240
+1561268391:1:R:25, Imin:12, Idoubling:8
+1561269691:1:R:25, udp_sent:0
+1561271216:1:R:25, udp_recv:106
+1561272587:1:R:25, icmp_sent:1
+1561274183:1:R:25, icmp_recv:197
+1561275626:1:R:25, Leaf MODE: 0
+1561286792:7:R:25, DAG-VERSION:240
+1561288871:7:R:25, Imin:12, Idoubling:8
+1561290171:7:R:25, udp_sent:2
+1561291472:7:R:25, udp_recv:0
+1561292980:7:R:25, icmp_sent:29
+1561294464:7:R:25, icmp_recv:41
+1561295906:7:R:25, Leaf MODE: 0
+1561441483:10:R:25, DAG-VERSION:240
+1561443561:10:R:25, Imin:12, Idoubling:8
+1561444862:10:R:25, udp_sent:2
+1561446162:10:R:25, udp_recv:0
+1561447646:10:R:25, icmp_sent:33
+1561449130:10:R:25, icmp_recv:72
+1561450573:10:R:25, Leaf MODE: 0
+1561593489:9:R:25, DAG-VERSION:240
+1561595567:9:R:25, Imin:12, Idoubling:8
+1561596868:9:R:25, udp_sent:2
+1561598168:9:R:25, udp_recv:0
+1561599688:9:R:25, icmp_sent:35
+1561600229:5:R:25, DAG-VERSION:240
+1561601172:9:R:25, icmp_recv:53
+1561602307:5:R:25, Imin:12, Idoubling:8
+1561602614:9:R:25, Leaf MODE: 0
+1561603720:5:R:25, udp_sent:25
+1561605020:5:R:25, udp_recv:0
+1561606535:5:R:25, icmp_sent:85
+1561608018:5:R:25, icmp_recv:82
+1561609461:5:R:25, Leaf MODE: 2
+1561784422:3:R:25, DAG-VERSION:240
+1561786501:3:R:25, Imin:12, Idoubling:8
+1561787913:3:R:25, udp_sent:25
+1561789213:3:R:25, udp_recv:0
+1561790697:3:R:25, icmp_sent:30
+1561792293:3:R:25, icmp_recv:116
+1561793736:3:R:25, Leaf MODE: 2
+1576045279:1:Msg from Node: 4
+1610901016:1:Msg from Node: 2
+1611439606:1:Msg from Node: 3
+1615309779:1:Msg from Node: 5
+1620957792:8:R:26, DAG-VERSION:240
+1620959870:8:R:26, Imin:12, Idoubling:8
+1620961171:8:R:26, udp_sent:2
+1620962471:8:R:26, udp_recv:0
+1620963980:8:R:26, icmp_sent:37
+1620965576:8:R:26, icmp_recv:111
+1620967019:8:R:26, Leaf MODE: 0
+1621075473:11:R:26, DAG-VERSION:240
+1621077552:11:R:26, Imin:12, Idoubling:8
+1621078852:11:R:26, udp_sent:2
+1621080153:11:R:26, udp_recv:0
+1621081670:11:R:26, icmp_sent:29
+1621083154:11:R:26, icmp_recv:61
+1621084597:11:R:26, Leaf MODE: 0
+1621121554:2:R:26, DAG-VERSION:240
+1621123632:2:R:26, Imin:12, Idoubling:8
+1621125045:2:R:26, udp_sent:26
+1621126345:2:R:26, udp_recv:0
+1621127829:2:R:26, icmp_sent:76
+1621129313:2:R:26, icmp_recv:82
+1621130756:2:R:26, Leaf MODE: 2
+1621136090:6:R:26, DAG-VERSION:240
+1621138168:6:R:26, Imin:12, Idoubling:8
+1621139581:6:R:26, udp_sent:26
+1621140881:6:R:26, udp_recv:0
+1621142365:6:R:26, icmp_sent:62
+1621143849:6:R:26, icmp_recv:50
+1621145292:6:R:26, Leaf MODE: 2
+1621233773:4:R:26, DAG-VERSION:240
+1621235851:4:R:26, Imin:12, Idoubling:8
+1621237264:4:R:26, udp_sent:26
+1621238564:4:R:26, udp_recv:0
+1621240066:4:R:26, icmp_sent:36
+1621241662:4:R:26, icmp_recv:104
+1621243105:4:R:26, Leaf MODE: 2
+1621266312:1:R:26, DAG-VERSION:240
+1621268391:1:R:26, Imin:12, Idoubling:8
+1621269691:1:R:26, udp_sent:0
+1621271216:1:R:26, udp_recv:110
+1621272588:1:R:26, icmp_sent:1
+1621274184:1:R:26, icmp_recv:199
+1621275627:1:R:26, Leaf MODE: 0
+1621286773:7:R:26, DAG-VERSION:240
+1621288852:7:R:26, Imin:12, Idoubling:8
+1621290153:7:R:26, udp_sent:2
+1621291453:7:R:26, udp_recv:0
+1621292936:7:R:26, icmp_sent:29
+1621294420:7:R:26, icmp_recv:43
+1621295862:7:R:26, Leaf MODE: 0
+1621441493:10:R:26, DAG-VERSION:240
+1621443572:10:R:26, Imin:12, Idoubling:8
+1621444872:10:R:26, udp_sent:2
+1621446173:10:R:26, udp_recv:0
+1621447691:10:R:26, icmp_sent:34
+1621449175:10:R:26, icmp_recv:73
+1621450618:10:R:26, Leaf MODE: 0
+1621593489:9:R:26, DAG-VERSION:240
+1621595568:9:R:26, Imin:12, Idoubling:8
+1621596869:9:R:26, udp_sent:2
+1621598169:9:R:26, udp_recv:0
+1621599688:9:R:26, icmp_sent:36
+1621600522:5:R:26, DAG-VERSION:240
+1621601172:9:R:26, icmp_recv:54
+1621602600:5:R:26, Imin:12, Idoubling:8
+1621602614:9:R:26, Leaf MODE: 0
+1621604013:5:R:26, udp_sent:26
+1621605313:5:R:26, udp_recv:0
+1621606819:5:R:26, icmp_sent:85
+1621608302:5:R:26, icmp_recv:82
+1621609745:5:R:26, Leaf MODE: 2
+1621784774:3:R:26, DAG-VERSION:240
+1621786852:3:R:26, Imin:12, Idoubling:8
+1621788265:3:R:26, udp_sent:26
+1621789565:3:R:26, udp_recv:0
+1621791049:3:R:26, icmp_sent:32
+1621792645:3:R:26, icmp_recv:118
+1621794088:3:R:26, Leaf MODE: 2
+1627883886:1:Msg from Node: 6
+1630486608:1:Msg from Node: 3
+1646689802:1:Msg from Node: 2
+1654545166:1:Msg from Node: 4
+1665997163:1:Msg from Node: 5
+1680957782:8:R:27, DAG-VERSION:240
+1680959861:8:R:27, Imin:12, Idoubling:8
+1680961161:8:R:27, udp_sent:2
+1680962462:8:R:27, udp_recv:0
+1680963980:8:R:27, icmp_sent:38
+1680965576:8:R:27, icmp_recv:113
+1680967019:8:R:27, Leaf MODE: 0
+1681075473:11:R:27, DAG-VERSION:240
+1681077552:11:R:27, Imin:12, Idoubling:8
+1681078852:11:R:27, udp_sent:2
+1681080153:11:R:27, udp_recv:0
+1681081671:11:R:27, icmp_sent:30
+1681083155:11:R:27, icmp_recv:61
+1681084597:11:R:27, Leaf MODE: 0
+1681121183:2:R:27, DAG-VERSION:240
+1681123261:2:R:27, Imin:12, Idoubling:8
+1681124673:2:R:27, udp_sent:27
+1681125974:2:R:27, udp_recv:0
+1681127473:2:R:27, icmp_sent:76
+1681128957:2:R:27, icmp_recv:83
+1681130399:2:R:27, Leaf MODE: 2
+1681135738:6:R:27, DAG-VERSION:240
+1681137817:6:R:27, Imin:12, Idoubling:8
+1681139229:6:R:27, udp_sent:27
+1681140529:6:R:27, udp_recv:0
+1681142013:6:R:27, icmp_sent:63
+1681143497:6:R:27, icmp_recv:50
+1681144940:6:R:27, Leaf MODE: 2
+1681233440:4:R:27, DAG-VERSION:240
+1681235519:4:R:27, Imin:12, Idoubling:8
+1681236931:4:R:27, udp_sent:27
+1681238231:4:R:27, udp_recv:0
+1681239715:4:R:27, icmp_sent:37
+1681241311:4:R:27, icmp_recv:105
+1681242754:4:R:27, Leaf MODE: 2
+1681266302:1:R:27, DAG-VERSION:240
+1681268381:1:R:27, Imin:12, Idoubling:8
+1681269681:1:R:27, udp_sent:0
+1681271206:1:R:27, udp_recv:115
+1681272578:1:R:27, icmp_sent:1
+1681274174:1:R:27, icmp_recv:201
+1681275616:1:R:27, Leaf MODE: 0
+1681286783:7:R:27, DAG-VERSION:240
+1681288862:7:R:27, Imin:12, Idoubling:8
+1681290162:7:R:27, udp_sent:2
+1681291463:7:R:27, udp_recv:0
+1681292981:7:R:27, icmp_sent:30
+1681294464:7:R:27, icmp_recv:44
+1681295907:7:R:27, Leaf MODE: 0
+1681441483:10:R:27, DAG-VERSION:240
+1681443562:10:R:27, Imin:12, Idoubling:8
+1681444863:10:R:27, udp_sent:2
+1681446163:10:R:27, udp_recv:0
+1681447647:10:R:27, icmp_sent:34
+1681449131:10:R:27, icmp_recv:74
+1681450574:10:R:27, Leaf MODE: 0
+1681593489:9:R:27, DAG-VERSION:240
+1681595568:9:R:27, Imin:12, Idoubling:8
+1681596869:9:R:27, udp_sent:2
+1681598169:9:R:27, udp_recv:0
+1681599688:9:R:27, icmp_sent:37
+1681600172:5:R:27, DAG-VERSION:240
+1681601172:9:R:27, icmp_recv:54
+1681602250:5:R:27, Imin:12, Idoubling:8
+1681602614:9:R:27, Leaf MODE: 0
+1681603663:5:R:27, udp_sent:27
+1681604963:5:R:27, udp_recv:0
+1681606463:5:R:27, icmp_sent:85
+1681607947:5:R:27, icmp_recv:83
+1681609390:5:R:27, Leaf MODE: 2
+1681784403:3:R:27, DAG-VERSION:240
+1681786481:3:R:27, Imin:12, Idoubling:8
+1681787893:3:R:27, udp_sent:27
+1681789194:3:R:27, udp_recv:0
+1681790693:3:R:27, icmp_sent:32
+1681792288:3:R:27, icmp_recv:120
+1681793731:3:R:27, Leaf MODE: 2
+1735794203:1:Msg from Node: 5
+1738033847:1:Msg from Node: 3
+1740957773:8:R:28, DAG-VERSION:240
+1740959852:8:R:28, Imin:12, Idoubling:8
+1740961152:8:R:28, udp_sent:2
+1740962453:8:R:28, udp_recv:0
+1740963936:8:R:28, icmp_sent:38
+1740965533:8:R:28, icmp_recv:114
+1740966975:8:R:28, Leaf MODE: 0
+1741075474:11:R:28, DAG-VERSION:240
+1741077552:11:R:28, Imin:12, Idoubling:8
+1741078853:11:R:28, udp_sent:2
+1741080153:11:R:28, udp_recv:0
+1741081671:11:R:28, icmp_sent:31
+1741083155:11:R:28, icmp_recv:63
+1741084597:11:R:28, Leaf MODE: 0
+1741121574:2:R:28, DAG-VERSION:240
+1741123652:2:R:28, Imin:12, Idoubling:8
+1741125065:2:R:28, udp_sent:28
+1741126365:2:R:28, udp_recv:0
+1741127849:2:R:28, icmp_sent:78
+1741129333:2:R:28, icmp_recv:84
+1741130776:2:R:28, Leaf MODE: 2
+1741136090:6:R:28, DAG-VERSION:240
+1741138168:6:R:28, Imin:12, Idoubling:8
+1741139581:6:R:28, udp_sent:28
+1741140881:6:R:28, udp_recv:0
+1741142365:6:R:28, icmp_sent:64
+1741143849:6:R:28, icmp_recv:50
+1741145292:6:R:28, Leaf MODE: 2
+1741233792:4:R:28, DAG-VERSION:240
+1741235870:4:R:28, Imin:12, Idoubling:8
+1741237283:4:R:28, udp_sent:28
+1741238583:4:R:28, udp_recv:0
+1741240067:4:R:28, icmp_sent:38
+1741241663:4:R:28, icmp_recv:105
+1741243106:4:R:28, Leaf MODE: 2
+1741266312:1:R:28, DAG-VERSION:240
+1741268391:1:R:28, Imin:12, Idoubling:8
+1741269691:1:R:28, udp_sent:0
+1741271216:1:R:28, udp_recv:117
+1741272588:1:R:28, icmp_sent:1
+1741274183:1:R:28, icmp_recv:203
+1741275626:1:R:28, Leaf MODE: 0
+1741286774:7:R:28, DAG-VERSION:240
+1741288853:7:R:28, Imin:12, Idoubling:8
+1741290153:7:R:28, udp_sent:2
+1741291454:7:R:28, udp_recv:0
+1741292937:7:R:28, icmp_sent:30
+1741294421:7:R:28, icmp_recv:45
+1741295863:7:R:28, Leaf MODE: 0
+1741441484:10:R:28, DAG-VERSION:240
+1741443563:10:R:28, Imin:12, Idoubling:8
+1741444863:10:R:28, udp_sent:2
+1741446164:10:R:28, udp_recv:0
+1741447647:10:R:28, icmp_sent:34
+1741449132:10:R:28, icmp_recv:75
+1741450574:10:R:28, Leaf MODE: 0
+1741593480:9:R:28, DAG-VERSION:240
+1741595559:9:R:28, Imin:12, Idoubling:8
+1741596860:9:R:28, udp_sent:2
+1741598160:9:R:28, udp_recv:0
+1741599644:9:R:28, icmp_sent:37
+1741600542:5:R:28, DAG-VERSION:240
+1741601128:9:R:28, icmp_recv:54
+1741602570:9:R:28, Leaf MODE: 0
+1741602620:5:R:28, Imin:12, Idoubling:8
+1741604033:5:R:28, udp_sent:28
+1741605333:5:R:28, udp_recv:0
+1741606819:5:R:28, icmp_sent:86
+1741608302:5:R:28, icmp_recv:85
+1741609745:5:R:28, Leaf MODE: 2
+1741784755:3:R:28, DAG-VERSION:240
+1741786833:3:R:28, Imin:12, Idoubling:8
+1741788246:3:R:28, udp_sent:28
+1741789546:3:R:28, udp_recv:0
+1741791048:3:R:28, icmp_sent:32
+1741792644:3:R:28, icmp_recv:121
+1741794087:3:R:28, Leaf MODE: 2
+1745860579:1:Msg from Node: 6
+1747784715:1:Msg from Node: 3
+1774466143:1:Msg from Node: 5
+1785908762:1:Msg from Node: 2
+1800957860:8:R:29, DAG-VERSION:240
+1800959938:8:R:29, Imin:12, Idoubling:8
+1800961239:8:R:29, udp_sent:2
+1800962539:8:R:29, udp_recv:0
+1800964051:8:R:29, icmp_sent:39
+1800965647:8:R:29, icmp_recv:116
+1800967089:8:R:29, Leaf MODE: 0
+1801075541:11:R:29, DAG-VERSION:240
+1801077620:11:R:29, Imin:12, Idoubling:8
+1801078920:11:R:29, udp_sent:2
+1801080220:11:R:29, udp_recv:0
+1801081742:11:R:29, icmp_sent:31
+1801083226:11:R:29, icmp_recv:63
+1801084668:11:R:29, Leaf MODE: 0
+1801121222:2:R:29, DAG-VERSION:240
+1801123300:2:R:29, Imin:12, Idoubling:8
+1801124712:2:R:29, udp_sent:29
+1801126013:2:R:29, udp_recv:0
+1801127497:2:R:29, icmp_sent:79
+1801128981:2:R:29, icmp_recv:86
+1801130423:2:R:29, Leaf MODE: 2
+1801135758:6:R:29, DAG-VERSION:240
+1801137836:6:R:29, Imin:12, Idoubling:8
+1801139248:6:R:29, udp_sent:29
+1801140549:6:R:29, udp_recv:0
+1801142033:6:R:29, icmp_sent:66
+1801143517:6:R:29, icmp_recv:50
+1801144959:6:R:29, Leaf MODE: 2
+1801233440:4:R:29, DAG-VERSION:240
+1801235519:4:R:29, Imin:12, Idoubling:8
+1801236931:4:R:29, udp_sent:29
+1801238231:4:R:29, udp_recv:0
+1801239715:4:R:29, icmp_sent:40
+1801241310:4:R:29, icmp_recv:105
+1801242753:4:R:29, Leaf MODE: 2
+1801266312:1:R:29, DAG-VERSION:240
+1801268391:1:R:29, Imin:12, Idoubling:8
+1801269691:1:R:29, udp_sent:0
+1801271216:1:R:29, udp_recv:121
+1801272587:1:R:29, icmp_sent:1
+1801274183:1:R:29, icmp_recv:206
+1801275626:1:R:29, Leaf MODE: 0
+1801286880:7:R:29, DAG-VERSION:240
+1801288959:7:R:29, Imin:12, Idoubling:8
+1801290259:7:R:29, udp_sent:2
+1801291560:7:R:29, udp_recv:0
+1801293052:7:R:29, icmp_sent:32
+1801294535:7:R:29, icmp_recv:46
+1801295978:7:R:29, Leaf MODE: 0
+1801441571:10:R:29, DAG-VERSION:240
+1801443649:10:R:29, Imin:12, Idoubling:8
+1801444950:10:R:29, udp_sent:2
+1801446250:10:R:29, udp_recv:0
+1801447762:10:R:29, icmp_sent:35
+1801449246:10:R:29, icmp_recv:75
+1801450689:10:R:29, Leaf MODE: 0
+1801593567:9:R:29, DAG-VERSION:240
+1801595646:9:R:29, Imin:12, Idoubling:8
+1801596946:9:R:29, udp_sent:2
+1801598246:9:R:29, udp_recv:0
+1801599759:9:R:29, icmp_sent:38
+1801600191:5:R:29, DAG-VERSION:240
+1801601243:9:R:29, icmp_recv:55
+1801602270:5:R:29, Imin:12, Idoubling:8
+1801602685:9:R:29, Leaf MODE: 0
+1801603682:5:R:29, udp_sent:29
+1801604982:5:R:29, udp_recv:0
+1801606466:5:R:29, icmp_sent:87
+1801607949:5:R:29, icmp_recv:89
+1801609392:5:R:29, Leaf MODE: 2
+1801784442:3:R:29, DAG-VERSION:240
+1801786520:3:R:29, Imin:12, Idoubling:8
+1801787932:3:R:29, udp_sent:29
+1801789233:3:R:29, udp_recv:0
+1801790717:3:R:29, icmp_sent:34
+1801792312:3:R:29, icmp_recv:123
+1801793755:3:R:29, Leaf MODE: 2
+1831497222:1:Msg from Node: 5
+1834010037:1:Msg from Node: 3
+1844635282:1:Msg from Node: 2
+1860958482:8:R:30, Changing Imin from 12 to 8
+1860961064:8:R:30, Changing Idouble from 8 to 8
+1860962803:8:R:30, DAG-VERSION:240
+1860964770:8:R:30, Imin:8, Idoubling:8
+1860966072:8:R:30, udp_sent:2
+1860967372:8:R:30, udp_recv:0
+1860968856:8:R:30, icmp_sent:40
+1860970453:8:R:30, icmp_recv:119
+1860971896:8:R:30, Leaf MODE: 0
+1861076183:11:R:30, Changing Imin from 12 to 8
+1861078765:11:R:30, Changing Idouble from 8 to 8
+1861080504:11:R:30, DAG-VERSION:240
+1861082509:11:R:30, Imin:8, Idoubling:8
+1861083810:11:R:30, udp_sent:2
+1861085111:11:R:30, udp_recv:0
+1861086595:11:R:30, icmp_sent:32
+1861088080:11:R:30, icmp_recv:63
+1861089522:11:R:30, Leaf MODE: 0
+1861121535:2:R:30, DAG-VERSION:240
+1861123614:2:R:30, Imin:12, Idoubling:8
+1861125027:2:R:30, udp_sent:30
+1861126328:2:R:30, udp_recv:0
+1861127829:2:R:30, icmp_sent:79
+1861129313:2:R:30, icmp_recv:88
+1861130757:2:R:30, Leaf MODE: 2
+1861136071:6:R:30, DAG-VERSION:240
+1861138150:6:R:30, Imin:12, Idoubling:8
+1861139564:6:R:30, udp_sent:30
+1861140865:6:R:30, udp_recv:0
+1861142365:6:R:30, icmp_sent:66
+1861143849:6:R:30, icmp_recv:52
+1861145293:6:R:30, Leaf MODE: 2
+1861233812:4:R:30, DAG-VERSION:240
+1861235891:4:R:30, Imin:12, Idoubling:8
+1861237304:4:R:30, udp_sent:30
+1861238605:4:R:30, udp_recv:0
+1861240089:4:R:30, icmp_sent:46
+1861241685:4:R:30, icmp_recv:105
+1861243129:4:R:30, Leaf MODE: 2
+1861266978:1:R:30, Changing Imin from 12 to 8
+1861269560:1:R:30, Changing Idouble from 8 to 8
+1861271299:1:R:30, DAG-VERSION:240
+1861273305:1:R:30, Imin:8, Idoubling:8
+1861274605:1:R:30, udp_sent:0
+1861276131:1:R:30, udp_recv:124
+1861277503:1:R:30, icmp_sent:1
+1861279100:1:R:30, icmp_recv:211
+1861280543:1:R:30, Leaf MODE: 0
+1861287483:7:R:30, Changing Imin from 12 to 8
+1861290065:7:R:30, Changing Idouble from 8 to 8
+1861291804:7:R:30, DAG-VERSION:240
+1861293771:7:R:30, Imin:8, Idoubling:8
+1861295073:7:R:30, udp_sent:2
+1861296373:7:R:30, udp_recv:0
+1861297858:7:R:30, icmp_sent:32
+1861299342:7:R:30, icmp_recv:46
+1861300822:7:R:30, Leaf MODE: 0
+1861442213:10:R:30, Changing Imin from 12 to 8
+1861444795:10:R:30, Changing Idouble from 8 to 8
+1861446534:10:R:30, DAG-VERSION:240
+1861448529:10:R:30, Imin:8, Idoubling:8
+1861449830:10:R:30, udp_sent:2
+1861451131:10:R:30, udp_recv:0
+1861452615:10:R:30, icmp_sent:37
+1861454100:10:R:30, icmp_recv:77
+1861455543:10:R:30, Leaf MODE: 0
+1861594199:9:R:30, Changing Imin from 12 to 8
+1861596781:9:R:30, Changing Idouble from 8 to 8
+1861598520:9:R:30, DAG-VERSION:240
+1861600524:5:R:30, DAG-VERSION:240
+1861600526:9:R:30, Imin:8, Idoubling:8
+1861601827:9:R:30, udp_sent:2
+1861602603:5:R:30, Imin:12, Idoubling:8
+1861603128:9:R:30, udp_recv:0
+1861604017:5:R:30, udp_sent:30
+1861604612:9:R:30, icmp_sent:39
+1861605318:5:R:30, udp_recv:0
+1861606097:9:R:30, icmp_recv:55
+1861606819:5:R:30, icmp_sent:87
+1861607539:9:R:30, Leaf MODE: 0
+1861608303:5:R:30, icmp_recv:89
+1861609747:5:R:30, Leaf MODE: 2
+1861784755:3:R:30, DAG-VERSION:240
+1861786834:3:R:30, Imin:12, Idoubling:8
+1861788248:3:R:30, udp_sent:30
+1861789549:3:R:30, udp_recv:0
+1861791049:3:R:30, icmp_sent:35
+1861792645:3:R:30, icmp_recv:128
+1861794088:3:R:30, Leaf MODE: 2
+1863066500:1:Msg from Node: 8
+1882229124:1:Msg from Node: 2
+1920957774:8:R:31, DAG-VERSION:240
+1920959741:8:R:31, Imin:8, Idoubling:8
+1920961042:8:R:31, udp_sent:3
+1920962343:8:R:31, udp_recv:0
+1920963866:8:R:31, icmp_sent:40
+1920965462:8:R:31, icmp_recv:124
+1920966905:8:R:31, Leaf MODE: 0
+1921075481:11:R:31, DAG-VERSION:240
+1921077449:11:R:31, Imin:8, Idoubling:8
+1921078750:11:R:31, udp_sent:2
+1921080050:11:R:31, udp_recv:0
+1921081574:11:R:31, icmp_sent:32
+1921083058:11:R:31, icmp_recv:66
+1921084501:11:R:31, Leaf MODE: 0
+1921121204:2:R:31, DAG-VERSION:240
+1921123283:2:R:31, Imin:12, Idoubling:8
+1921124696:2:R:31, udp_sent:31
+1921125997:2:R:31, udp_recv:0
+1921127481:2:R:31, icmp_sent:80
+1921128965:2:R:31, icmp_recv:93
+1921130409:2:R:31, Leaf MODE: 2
+1921135759:6:R:31, DAG-VERSION:240
+1921137838:6:R:31, Imin:12, Idoubling:8
+1921139252:6:R:31, udp_sent:31
+1921140552:6:R:31, udp_recv:0
+1921142037:6:R:31, icmp_sent:72
+1921143522:6:R:31, icmp_recv:53
+1921144965:6:R:31, Leaf MODE: 2
+1921233442:4:R:31, DAG-VERSION:240
+1921235521:4:R:31, Imin:12, Idoubling:8
+1921236934:4:R:31, udp_sent:31
+1921238235:4:R:31, udp_recv:0
+1921239719:4:R:31, icmp_sent:49
+1921241315:4:R:31, icmp_recv:107
+1921242758:4:R:31, Leaf MODE: 2
+1921266304:1:R:31, DAG-VERSION:240
+1921268271:1:R:31, Imin:8, Idoubling:8
+1921269572:1:R:31, udp_sent:0
+1921271097:1:R:31, udp_recv:126
+1921272503:1:R:31, icmp_sent:1
+1921274099:1:R:31, icmp_recv:220
+1921275543:1:R:31, Leaf MODE: 0
+1921289713:7:R:31, DAG-VERSION:240
+1921291681:7:R:31, Imin:8, Idoubling:8
+1921293011:7:R:31, udp_sent:2
+1921294312:7:R:31, udp_recv:0
+1921295796:7:R:31, icmp_sent:34
+1921297280:7:R:31, icmp_recv:48
+1921298723:7:R:31, Leaf MODE: 0
+1921444956:10:R:31, DAG-VERSION:240
+1921446924:10:R:31, Imin:8, Idoubling:8
+1921448225:10:R:31, udp_sent:2
+1921449526:10:R:31, udp_recv:0
+1921451011:10:R:31, icmp_sent:38
+1921452495:10:R:31, icmp_recv:80
+1921453938:10:R:31, Leaf MODE: 0
+1921593507:9:R:31, DAG-VERSION:240
+1921595475:9:R:31, Imin:8, Idoubling:8
+1921596776:9:R:31, udp_sent:2
+1921598076:9:R:31, udp_recv:0
+1921599599:9:R:31, icmp_sent:40
+1921601084:9:R:31, icmp_recv:58
+1921602527:9:R:31, Leaf MODE: 0
+1921609887:5:R:31, DAG-VERSION:240
+1921611966:5:R:31, Imin:12, Idoubling:8
+1921613379:5:R:31, udp_sent:31
+1921614681:5:R:31, udp_recv:0
+1921616165:5:R:31, icmp_sent:93
+1921617650:5:R:31, icmp_recv:94
+1921619093:5:R:31, Leaf MODE: 2
+1921784443:3:R:31, DAG-VERSION:240
+1921786522:3:R:31, Imin:12, Idoubling:8
+1921787936:3:R:31, udp_sent:31
+1921789236:3:R:31, udp_recv:0
+1921790721:3:R:31, icmp_sent:38
+1921792317:3:R:31, icmp_recv:131
+1921793761:3:R:31, Leaf MODE: 2
+1938854363:1:Msg from Node: 2
+1951728955:1:Msg from Node: 3
+1980957793:8:R:32, DAG-VERSION:240
+1980959760:8:R:32, Imin:8, Idoubling:8
+1980961062:8:R:32, udp_sent:3
+1980962362:8:R:32, udp_recv:0
+1980963885:8:R:32, icmp_sent:42
+1980965482:8:R:32, icmp_recv:131
+1980966925:8:R:32, Leaf MODE: 0
+1981075491:11:R:32, DAG-VERSION:240
+1981077458:11:R:32, Imin:8, Idoubling:8
+1981078760:11:R:32, udp_sent:2
+1981080060:11:R:32, udp_recv:0
+1981081584:11:R:32, icmp_sent:33
+1981083069:11:R:32, icmp_recv:73
+1981084512:11:R:32, Leaf MODE: 0
+1981121537:2:R:32, DAG-VERSION:240
+1981123616:2:R:32, Imin:12, Idoubling:8
+1981125029:2:R:32, udp_sent:32
+1981126330:2:R:32, udp_recv:0
+1981127828:2:R:32, icmp_sent:80
+1981129424:2:R:32, icmp_recv:104
+1981130868:2:R:32, Leaf MODE: 2
+1981136092:6:R:32, DAG-VERSION:240
+1981138171:6:R:32, Imin:12, Idoubling:8
+1981139585:6:R:32, udp_sent:32
+1981140886:6:R:32, udp_recv:0
+1981142370:6:R:32, icmp_sent:77
+1981143855:6:R:32, icmp_recv:57
+1981145298:6:R:32, Leaf MODE: 2
+1981233814:4:R:32, DAG-VERSION:240
+1981235893:4:R:32, Imin:12, Idoubling:8
+1981237306:4:R:32, udp_sent:32
+1981238607:4:R:32, udp_recv:0
+1981240091:4:R:32, icmp_sent:55
+1981241688:4:R:32, icmp_recv:114
+1981243131:4:R:32, Leaf MODE: 2
+1981266313:1:R:32, DAG-VERSION:240
+1981268281:1:R:32, Imin:8, Idoubling:8
+1981269581:1:R:32, udp_sent:0
+1981271107:1:R:32, udp_recv:128
+1981272503:1:R:32, icmp_sent:1
+1981274100:1:R:32, icmp_recv:235
+1981275543:1:R:32, Leaf MODE: 0
+1981286791:7:R:32, DAG-VERSION:240
+1981288759:7:R:32, Imin:8, Idoubling:8
+1981290060:7:R:32, udp_sent:2
+1981291360:7:R:32, udp_recv:0
+1981292884:7:R:32, icmp_sent:35
+1981294368:7:R:32, icmp_recv:52
+1981295811:7:R:32, Leaf MODE: 0
+1981441501:10:R:32, DAG-VERSION:240
+1981443469:10:R:32, Imin:8, Idoubling:8
+1981444770:10:R:32, udp_sent:2
+1981446070:10:R:32, udp_recv:0
+1981447594:10:R:32, icmp_sent:38
+1981449078:10:R:32, icmp_recv:85
+1981450521:10:R:32, Leaf MODE: 0
+1981593498:9:R:32, DAG-VERSION:240
+1981595465:9:R:32, Imin:8, Idoubling:8
+1981596766:9:R:32, udp_sent:2
+1981598067:9:R:32, udp_recv:0
+1981599590:9:R:32, icmp_sent:40
+1981600567:5:R:32, DAG-VERSION:240
+1981601074:9:R:32, icmp_recv:64
+1981602517:9:R:32, Leaf MODE: 0
+1981602646:5:R:32, Imin:12, Idoubling:8
+1981604059:5:R:32, udp_sent:32
+1981605360:5:R:32, udp_recv:0
+1981606956:5:R:32, icmp_sent:105
+1981608441:5:R:32, icmp_recv:99
+1981609884:5:R:32, Leaf MODE: 2
+1981784757:3:R:32, DAG-VERSION:240
+1981786836:3:R:32, Imin:12, Idoubling:8
+1981788250:3:R:32, udp_sent:32
+1981789550:3:R:32, udp_recv:0
+1981791048:3:R:32, icmp_sent:39
+1981792645:3:R:32, icmp_recv:139
+1981794088:3:R:32, Leaf MODE: 2
+1989178299:1:Msg from Node: 9
+1998752873:1:Msg from Node: 10
+2002805502:1:Msg from Node: 6
+2018787552:1:Msg from Node: 4
+2026544927:1:Msg from Node: 5
+2040072993:1:Msg from Node: 2
+2040957783:8:R:33, DAG-VERSION:240
+2040959751:8:R:33, Imin:8, Idoubling:8
+2040961052:8:R:33, udp_sent:3
+2040962352:8:R:33, udp_recv:0
+2040963875:8:R:33, icmp_sent:42
+2040965472:8:R:33, icmp_recv:137
+2040966915:8:R:33, Leaf MODE: 0
+2041075491:11:R:33, DAG-VERSION:240
+2041077458:11:R:33, Imin:8, Idoubling:8
+2041078760:11:R:33, udp_sent:2
+2041080060:11:R:33, udp_recv:0
+2041081584:11:R:33, icmp_sent:34
+2041083069:11:R:33, icmp_recv:76
+2041084512:11:R:33, Leaf MODE: 0
+2041121223:2:R:33, DAG-VERSION:240
+2041123302:2:R:33, Imin:12, Idoubling:8
+2041124716:2:R:33, udp_sent:33
+2041126016:2:R:33, udp_recv:0
+2041127500:2:R:33, icmp_sent:82
+2041129096:2:R:33, icmp_recv:108
+2041130540:2:R:33, Leaf MODE: 2
+2041135759:6:R:33, DAG-VERSION:240
+2041137838:6:R:33, Imin:12, Idoubling:8
+2041139252:6:R:33, udp_sent:33
+2041140552:6:R:33, udp_recv:0
+2041142037:6:R:33, icmp_sent:79
+2041143522:6:R:33, icmp_recv:57
+2041144965:6:R:33, Leaf MODE: 2
+2041233442:4:R:33, DAG-VERSION:240
+2041235521:4:R:33, Imin:12, Idoubling:8
+2041236934:4:R:33, udp_sent:33
+2041238235:4:R:33, udp_recv:0
+2041239719:4:R:33, icmp_sent:57
+2041241316:4:R:33, icmp_recv:117
+2041242759:4:R:33, Leaf MODE: 2
+2041266304:1:R:33, DAG-VERSION:240
+2041268271:1:R:33, Imin:8, Idoubling:8
+2041269572:1:R:33, udp_sent:0
+2041271097:1:R:33, udp_recv:134
+2041272502:1:R:33, icmp_sent:1
+2041274099:1:R:33, icmp_recv:240
+2041275542:1:R:33, Leaf MODE: 0
+2041286801:7:R:33, DAG-VERSION:240
+2041288768:7:R:33, Imin:8, Idoubling:8
+2041290070:7:R:33, udp_sent:2
+2041291370:7:R:33, udp_recv:0
+2041292894:7:R:33, icmp_sent:36
+2041294378:7:R:33, icmp_recv:53
+2041295821:7:R:33, Leaf MODE: 0
+2041441504:10:R:33, DAG-VERSION:240
+2041443471:10:R:33, Imin:8, Idoubling:8
+2041444773:10:R:33, udp_sent:3
+2041446073:10:R:33, udp_recv:0
+2041447596:10:R:33, icmp_sent:40
+2041449080:10:R:33, icmp_recv:88
+2041450523:10:R:33, Leaf MODE: 0
+2041593491:9:R:33, DAG-VERSION:240
+2041595458:9:R:33, Imin:8, Idoubling:8
+2041596759:9:R:33, udp_sent:3
+2041598060:9:R:33, udp_recv:0
+2041599583:9:R:33, icmp_sent:41
+2041600214:5:R:33, DAG-VERSION:240
+2041601067:9:R:33, icmp_recv:64
+2041602293:5:R:33, Imin:12, Idoubling:8
+2041602510:9:R:33, Leaf MODE: 0
+2041603707:5:R:33, udp_sent:33
+2041605007:5:R:33, udp_recv:0
+2041606603:5:R:33, icmp_sent:107
+2041608200:5:R:33, icmp_recv:102
+2041609643:5:R:33, Leaf MODE: 2
+2041784424:3:R:33, DAG-VERSION:240
+2041786503:3:R:33, Imin:12, Idoubling:8
+2041787916:3:R:33, udp_sent:33
+2041789217:3:R:33, udp_recv:0
+2041790701:3:R:33, icmp_sent:41
+2041792297:3:R:33, icmp_recv:144
+2041793741:3:R:33, Leaf MODE: 2
+2049574304:1:Msg from Node: 11
+2049656911:1:Msg from Node: 6
+2051771464:1:Msg from Node: 5
+2052947514:1:Msg from Node: 3
+2084654667:1:Msg from Node: 4
+2100957791:8:R:34, DAG-VERSION:240
+2100959758:8:R:34, Imin:8, Idoubling:8
+2100961059:8:R:34, udp_sent:3
+2100962360:8:R:34, udp_recv:0
+2100963883:8:R:34, icmp_sent:43
+2100965480:8:R:34, icmp_recv:138
+2100966923:8:R:34, Leaf MODE: 0
+2101075492:11:R:34, DAG-VERSION:240
+2101077459:11:R:34, Imin:8, Idoubling:8
+2101078760:11:R:34, udp_sent:3
+2101080061:11:R:34, udp_recv:0
+2101081584:11:R:34, icmp_sent:36
+2101083069:11:R:34, icmp_recv:76
+2101084512:11:R:34, Leaf MODE: 0
+2101121537:2:R:34, DAG-VERSION:240
+2101123616:2:R:34, Imin:12, Idoubling:8
+2101125029:2:R:34, udp_sent:34
+2101126330:2:R:34, udp_recv:0
+2101127828:2:R:34, icmp_sent:82
+2101129424:2:R:34, icmp_recv:108
+2101130868:2:R:34, Leaf MODE: 2
+2101136093:6:R:34, DAG-VERSION:240
+2101138172:6:R:34, Imin:12, Idoubling:8
+2101139585:6:R:34, udp_sent:34
+2101140886:6:R:34, udp_recv:0
+2101142370:6:R:34, icmp_sent:80
+2101143854:6:R:34, icmp_recv:58
+2101145298:6:R:34, Leaf MODE: 2
+2101233794:4:R:34, DAG-VERSION:240
+2101235873:4:R:34, Imin:12, Idoubling:8
+2101237287:4:R:34, udp_sent:34
+2101238588:4:R:34, udp_recv:0
+2101240072:4:R:34, icmp_sent:57
+2101241669:4:R:34, icmp_recv:118
+2101243112:4:R:34, Leaf MODE: 2
+2101266321:1:R:34, DAG-VERSION:240
+2101268288:1:R:34, Imin:8, Idoubling:8
+2101269589:1:R:34, udp_sent:0
+2101271115:1:R:34, udp_recv:139
+2101272502:1:R:34, icmp_sent:1
+2101274099:1:R:34, icmp_recv:242
+2101275542:1:R:34, Leaf MODE: 0
+2101286799:7:R:34, DAG-VERSION:240
+2101288766:7:R:34, Imin:8, Idoubling:8
+2101290067:7:R:34, udp_sent:2
+2101291368:7:R:34, udp_recv:0
+2101292891:7:R:34, icmp_sent:36
+2101294376:7:R:34, icmp_recv:54
+2101295819:7:R:34, Leaf MODE: 0
+2101441485:10:R:34, DAG-VERSION:240
+2101443452:10:R:34, Imin:8, Idoubling:8
+2101444753:10:R:34, udp_sent:3
+2101446054:10:R:34, udp_recv:0
+2101447577:10:R:34, icmp_sent:40
+2101449061:10:R:34, icmp_recv:88
+2101450504:10:R:34, Leaf MODE: 0
+2101593489:9:R:34, DAG-VERSION:240
+2101595456:9:R:34, Imin:8, Idoubling:8
+2101596758:9:R:34, udp_sent:3
+2101598058:9:R:34, udp_recv:0
+2101599581:9:R:34, icmp_sent:42
+2101600567:5:R:34, DAG-VERSION:240
+2101601066:9:R:34, icmp_recv:64
+2101602509:9:R:34, Leaf MODE: 0
+2101602646:5:R:34, Imin:12, Idoubling:8
+2101604060:5:R:34, udp_sent:34
+2101605361:5:R:34, udp_recv:0
+2101606957:5:R:34, icmp_sent:108
+2101608553:5:R:34, icmp_recv:102
+2101609996:5:R:34, Leaf MODE: 2
+2101784771:3:R:34, DAG-VERSION:240
+2101786850:3:R:34, Imin:12, Idoubling:8
+2101788264:3:R:34, udp_sent:34
+2101789565:3:R:34, udp_recv:0
+2101791048:3:R:34, icmp_sent:41
+2101792645:3:R:34, icmp_recv:146
+2101794089:3:R:34, Leaf MODE: 2
+2108482473:1:Msg from Node: 5
+2122236993:1:Msg from Node: 2
+2127035943:1:Msg from Node: 7
+2134633215:1:Msg from Node: 6
+2149361844:1:Msg from Node: 3
+2155881247:1:Msg from Node: 4
+2160957772:8:R:35, DAG-VERSION:240
+2160959739:8:R:35, Imin:8, Idoubling:8
+2160961041:8:R:35, udp_sent:3
+2160962341:8:R:35, udp_recv:0
+2160963864:8:R:35, icmp_sent:43
+2160965461:8:R:35, icmp_recv:140
+2160966904:8:R:35, Leaf MODE: 0
+2161075473:11:R:35, DAG-VERSION:240
+2161077440:11:R:35, Imin:8, Idoubling:8
+2161078741:11:R:35, udp_sent:3
+2161080042:11:R:35, udp_recv:0
+2161081565:11:R:35, icmp_sent:37
+2161083050:11:R:35, icmp_recv:79
+2161084493:11:R:35, Leaf MODE: 0
+2161121204:2:R:35, DAG-VERSION:240
+2161123283:2:R:35, Imin:12, Idoubling:8
+2161124696:2:R:35, udp_sent:35
+2161125997:2:R:35, udp_recv:0
+2161127481:2:R:35, icmp_sent:83
+2161129078:2:R:35, icmp_recv:111
+2161130521:2:R:35, Leaf MODE: 2
+2161135740:6:R:35, DAG-VERSION:240
+2161137819:6:R:35, Imin:12, Idoubling:8
+2161139232:6:R:35, udp_sent:35
+2161140533:6:R:35, udp_recv:0
+2161142017:6:R:35, icmp_sent:81
+2161143501:6:R:35, icmp_recv:60
+2161144945:6:R:35, Leaf MODE: 2
+2161233461:4:R:35, DAG-VERSION:240
+2161235540:4:R:35, Imin:12, Idoubling:8
+2161236954:4:R:35, udp_sent:35
+2161238254:4:R:35, udp_recv:0
+2161239739:4:R:35, icmp_sent:59
+2161241336:4:R:35, icmp_recv:119
+2161242779:4:R:35, Leaf MODE: 2
+2161266302:1:R:35, DAG-VERSION:240
+2161268269:1:R:35, Imin:8, Idoubling:8
+2161269570:1:R:35, udp_sent:0
+2161271096:1:R:35, udp_recv:145
+2161272502:1:R:35, icmp_sent:1
+2161274099:1:R:35, icmp_recv:246
+2161275542:1:R:35, Leaf MODE: 0
+2161286773:7:R:35, DAG-VERSION:240
+2161288740:7:R:35, Imin:8, Idoubling:8
+2161290042:7:R:35, udp_sent:3
+2161291342:7:R:35, udp_recv:0
+2161292866:7:R:35, icmp_sent:36
+2161294350:7:R:35, icmp_recv:54
+2161295793:7:R:35, Leaf MODE: 0
+2161441502:10:R:35, DAG-VERSION:240
+2161443469:10:R:35, Imin:8, Idoubling:8
+2161444770:10:R:35, udp_sent:3
+2161446071:10:R:35, udp_recv:0
+2161447594:10:R:35, icmp_sent:41
+2161449078:10:R:35, icmp_recv:89
+2161450521:10:R:35, Leaf MODE: 0
+2161593480:9:R:35, DAG-VERSION:240
+2161595447:9:R:35, Imin:8, Idoubling:8
+2161596749:9:R:35, udp_sent:3
+2161598049:9:R:35, udp_recv:0
+2161599572:9:R:35, icmp_sent:43
+2161600195:5:R:35, DAG-VERSION:240
+2161601057:9:R:35, icmp_recv:65
+2161602274:5:R:35, Imin:12, Idoubling:8
+2161602500:9:R:35, Leaf MODE: 0
+2161603687:5:R:35, udp_sent:35
+2161604988:5:R:35, udp_recv:0
+2161606584:5:R:35, icmp_sent:109
+2161608180:5:R:35, icmp_recv:103
+2161609624:5:R:35, Leaf MODE: 2
+2161784441:3:R:35, DAG-VERSION:240
+2161786520:3:R:35, Imin:12, Idoubling:8
+2161787934:3:R:35, udp_sent:35
+2161789235:3:R:35, udp_recv:0
+2161790718:3:R:35, icmp_sent:43
+2161792315:3:R:35, icmp_recv:148
+2161793759:3:R:35, Leaf MODE: 2
+2180838262:1:Msg from Node: 3
+2194591766:1:Msg from Node: 5
+2194943732:1:Msg from Node: 4
+2205571024:1:Msg from Node: 6
+2220957782:8:R:36, DAG-VERSION:240
+2220959749:8:R:36, Imin:8, Idoubling:8
+2220961050:8:R:36, udp_sent:3
+2220962351:8:R:36, udp_recv:0
+2220963874:8:R:36, icmp_sent:45
+2220965471:8:R:36, icmp_recv:141
+2220966914:8:R:36, Leaf MODE: 0
+2221075473:11:R:36, DAG-VERSION:240
+2221077440:11:R:36, Imin:8, Idoubling:8
+2221078741:11:R:36, udp_sent:3
+2221080042:11:R:36, udp_recv:0
+2221081565:11:R:36, icmp_sent:38
+2221083050:11:R:36, icmp_recv:79
+2221084493:11:R:36, Leaf MODE: 0
+2221121537:2:R:36, DAG-VERSION:240
+2221123616:2:R:36, Imin:12, Idoubling:8
+2221125030:2:R:36, udp_sent:36
+2221126330:2:R:36, udp_recv:0
+2221127828:2:R:36, icmp_sent:83
+2221129425:2:R:36, icmp_recv:112
+2221130869:2:R:36, Leaf MODE: 2
+2221136093:6:R:36, DAG-VERSION:240
+2221138172:6:R:36, Imin:12, Idoubling:8
+2221139585:6:R:36, udp_sent:36
+2221140886:6:R:36, udp_recv:0
+2221142370:6:R:36, icmp_sent:82
+2221143854:6:R:36, icmp_recv:60
+2221145298:6:R:36, Leaf MODE: 2
+2221233795:4:R:36, DAG-VERSION:240
+2221235874:4:R:36, Imin:12, Idoubling:8
+2221237287:4:R:36, udp_sent:36
+2221238588:4:R:36, udp_recv:0
+2221240072:4:R:36, icmp_sent:59
+2221241668:4:R:36, icmp_recv:120
+2221243112:4:R:36, Leaf MODE: 2
+2221266302:1:R:36, DAG-VERSION:240
+2221268269:1:R:36, Imin:8, Idoubling:8
+2221269570:1:R:36, udp_sent:0
+2221271096:1:R:36, udp_recv:149
+2221272502:1:R:36, icmp_sent:1
+2221274099:1:R:36, icmp_recv:249
+2221275542:1:R:36, Leaf MODE: 0
+2221286783:7:R:36, DAG-VERSION:240
+2221288750:7:R:36, Imin:8, Idoubling:8
+2221290051:7:R:36, udp_sent:3
+2221291352:7:R:36, udp_recv:0
+2221292875:7:R:36, icmp_sent:37
+2221294360:7:R:36, icmp_recv:55
+2221295803:7:R:36, Leaf MODE: 0
+2221441493:10:R:36, DAG-VERSION:240
+2221443460:10:R:36, Imin:8, Idoubling:8
+2221444761:10:R:36, udp_sent:3
+2221446062:10:R:36, udp_recv:0
+2221447585:10:R:36, icmp_sent:42
+2221449069:10:R:36, icmp_recv:89
+2221450512:10:R:36, Leaf MODE: 0
+2221593500:9:R:36, DAG-VERSION:240
+2221595467:9:R:36, Imin:8, Idoubling:8
+2221596768:9:R:36, udp_sent:3
+2221598069:9:R:36, udp_recv:0
+2221599592:9:R:36, icmp_sent:45
+2221600567:5:R:36, DAG-VERSION:240
+2221601076:9:R:36, icmp_recv:66
+2221602519:9:R:36, Leaf MODE: 0
+2221602646:5:R:36, Imin:12, Idoubling:8
+2221604060:5:R:36, udp_sent:36
+2221605360:5:R:36, udp_recv:0
+2221606957:5:R:36, icmp_sent:110
+2221608553:5:R:36, icmp_recv:104
+2221609997:5:R:36, Leaf MODE: 2
+2221784753:3:R:36, DAG-VERSION:240
+2221786832:3:R:36, Imin:12, Idoubling:8
+2221788246:3:R:36, udp_sent:36
+2221789546:3:R:36, udp_recv:0
+2221791048:3:R:36, icmp_sent:43
+2221792645:3:R:36, icmp_recv:149
+2221794088:3:R:36, Leaf MODE: 2
+2234205813:1:Msg from Node: 2
+2248233959:1:Msg from Node: 4
+2262427607:1:Msg from Node: 5
+2265494406:1:Msg from Node: 3
+2265609973:1:Msg from Node: 6
+2280957783:8:R:37, DAG-VERSION:240
+2280959750:8:R:37, Imin:8, Idoubling:8
+2280961051:8:R:37, udp_sent:3
+2280962352:8:R:37, udp_recv:0
+2280963875:8:R:37, icmp_sent:46
+2280965471:8:R:37, icmp_recv:142
+2280966914:8:R:37, Leaf MODE: 0
+2281075464:11:R:37, DAG-VERSION:240
+2281077431:11:R:37, Imin:8, Idoubling:8
+2281078732:11:R:37, udp_sent:3
+2281080033:11:R:37, udp_recv:0
+2281081556:11:R:37, icmp_sent:38
+2281083041:11:R:37, icmp_recv:79
+2281084484:11:R:37, Leaf MODE: 0
+2281121205:2:R:37, DAG-VERSION:240
+2281123284:2:R:37, Imin:12, Idoubling:8
+2281124697:2:R:37, udp_sent:37
+2281125998:2:R:37, udp_recv:0
+2281127482:2:R:37, icmp_sent:84
+2281129078:2:R:37, icmp_recv:113
+2281130522:2:R:37, Leaf MODE: 2
+2281135741:6:R:37, DAG-VERSION:240
+2281137820:6:R:37, Imin:12, Idoubling:8
+2281139233:6:R:37, udp_sent:37
+2281140534:6:R:37, udp_recv:0
+2281142018:6:R:37, icmp_sent:83
+2281143502:6:R:37, icmp_recv:60
+2281144945:6:R:37, Leaf MODE: 2
+2281233462:4:R:37, DAG-VERSION:240
+2281235541:4:R:37, Imin:12, Idoubling:8
+2281236954:4:R:37, udp_sent:37
+2281238255:4:R:37, udp_recv:0
+2281239740:4:R:37, icmp_sent:61
+2281241336:4:R:37, icmp_recv:120
+2281242779:4:R:37, Leaf MODE: 2
+2281266313:1:R:37, DAG-VERSION:240
+2281268280:1:R:37, Imin:8, Idoubling:8
+2281269581:1:R:37, udp_sent:0
+2281271107:1:R:37, udp_recv:154
+2281272503:1:R:37, icmp_sent:1
+2281274100:1:R:37, icmp_recv:252
+2281275543:1:R:37, Leaf MODE: 0
+2281286784:7:R:37, DAG-VERSION:240
+2281288751:7:R:37, Imin:8, Idoubling:8
+2281290052:7:R:37, udp_sent:3
+2281291353:7:R:37, udp_recv:0
+2281292876:7:R:37, icmp_sent:38
+2281294361:7:R:37, icmp_recv:55
+2281295804:7:R:37, Leaf MODE: 0
+2281441495:10:R:37, DAG-VERSION:240
+2281443462:10:R:37, Imin:8, Idoubling:8
+2281444763:10:R:37, udp_sent:3
+2281446064:10:R:37, udp_recv:0
+2281447586:10:R:37, icmp_sent:43
+2281449070:10:R:37, icmp_recv:89
+2281450513:10:R:37, Leaf MODE: 0
+2281593491:9:R:37, DAG-VERSION:240
+2281595458:9:R:37, Imin:8, Idoubling:8
+2281596759:9:R:37, udp_sent:3
+2281598060:9:R:37, udp_recv:0
+2281599583:9:R:37, icmp_sent:46
+2281600196:5:R:37, DAG-VERSION:240
+2281601067:9:R:37, icmp_recv:67
+2281602275:5:R:37, Imin:12, Idoubling:8
+2281602510:9:R:37, Leaf MODE: 0
+2281603688:5:R:37, udp_sent:37
+2281604989:5:R:37, udp_recv:0
+2281606585:5:R:37, icmp_sent:111
+2281608182:5:R:37, icmp_recv:104
+2281609625:5:R:37, Leaf MODE: 2
+2281784424:3:R:37, DAG-VERSION:240
+2281786503:3:R:37, Imin:12, Idoubling:8
+2281787916:3:R:37, udp_sent:37
+2281789217:3:R:37, udp_recv:0
+2281790701:3:R:37, icmp_sent:45
+2281792298:3:R:37, icmp_recv:151
+2281793742:3:R:37, Leaf MODE: 2
+2294459349:1:Msg from Node: 4
+2319920038:1:Msg from Node: 5
+2328328835:1:Msg from Node: 6
+2340957794:8:R:38, DAG-VERSION:240
+2340959761:8:R:38, Imin:8, Idoubling:8
+2340961062:8:R:38, udp_sent:3
+2340962363:8:R:38, udp_recv:0
+2340963886:8:R:38, icmp_sent:49
+2340965483:8:R:38, icmp_recv:146
+2340966926:8:R:38, Leaf MODE: 0
+2341075465:11:R:38, DAG-VERSION:240
+2341077432:11:R:38, Imin:8, Idoubling:8
+2341078733:11:R:38, udp_sent:3
+2341080034:11:R:38, udp_recv:0
+2341081557:11:R:38, icmp_sent:38
+2341083041:11:R:38, icmp_recv:81
+2341084484:11:R:38, Leaf MODE: 0
+2341121578:2:R:38, DAG-VERSION:240
+2341123657:2:R:38, Imin:12, Idoubling:8
+2341125070:2:R:38, udp_sent:38
+2341126371:2:R:38, udp_recv:0
+2341127855:2:R:38, icmp_sent:91
+2341129452:2:R:38, icmp_recv:113
+2341130895:2:R:38, Leaf MODE: 2
+2341136075:6:R:38, DAG-VERSION:240
+2341138154:6:R:38, Imin:12, Idoubling:8
+2341139567:6:R:38, udp_sent:38
+2341140868:6:R:38, udp_recv:0
+2341142364:6:R:38, icmp_sent:83
+2341143849:6:R:38, icmp_recv:62
+2341145292:6:R:38, Leaf MODE: 2
+2341233777:4:R:38, DAG-VERSION:240
+2341235856:4:R:38, Imin:12, Idoubling:8
+2341237269:4:R:38, udp_sent:38
+2341238570:4:R:38, udp_recv:0
+2341240067:4:R:38, icmp_sent:61
+2341241663:4:R:38, icmp_recv:124
+2341243107:4:R:38, Leaf MODE: 2
+2341266303:1:R:38, DAG-VERSION:240
+2341268270:1:R:38, Imin:8, Idoubling:8
+2341269571:1:R:38, udp_sent:0
+2341271097:1:R:38, udp_recv:157
+2341272503:1:R:38, icmp_sent:1
+2341274100:1:R:38, icmp_recv:259
+2341275543:1:R:38, Leaf MODE: 0
+2341286785:7:R:38, DAG-VERSION:240
+2341288752:7:R:38, Imin:8, Idoubling:8
+2341290053:7:R:38, udp_sent:3
+2341291354:7:R:38, udp_recv:0
+2341292877:7:R:38, icmp_sent:39
+2341294361:7:R:38, icmp_recv:56
+2341295804:7:R:38, Leaf MODE: 0
+2341441486:10:R:38, DAG-VERSION:240
+2341443453:10:R:38, Imin:8, Idoubling:8
+2341444754:10:R:38, udp_sent:3
+2341446055:10:R:38, udp_recv:0
+2341447577:10:R:38, icmp_sent:43
+2341449062:10:R:38, icmp_recv:92
+2341450505:10:R:38, Leaf MODE: 0
+2341593482:9:R:38, DAG-VERSION:240
+2341595449:9:R:38, Imin:8, Idoubling:8
+2341596750:9:R:38, udp_sent:3
+2341598051:9:R:38, udp_recv:0
+2341599574:9:R:38, icmp_sent:46
+2341600549:5:R:38, DAG-VERSION:240
+2341601058:9:R:38, icmp_recv:69
+2341602501:9:R:38, Leaf MODE: 0
+2341602628:5:R:38, Imin:12, Idoubling:8
+2341604042:5:R:38, udp_sent:38
+2341605342:5:R:38, udp_recv:0
+2341606939:5:R:38, icmp_sent:112
+2341608535:5:R:38, icmp_recv:106
+2341609979:5:R:38, Leaf MODE: 2
+2341784757:3:R:38, DAG-VERSION:240
+2341786836:3:R:38, Imin:12, Idoubling:8
+2341788250:3:R:38, udp_sent:38
+2341789550:3:R:38, udp_recv:0
+2341791048:3:R:38, icmp_sent:45
+2341792646:3:R:38, icmp_recv:154
+2341794089:3:R:38, Leaf MODE: 2
+2345088277:1:Msg from Node: 3
+2346441115:1:Msg from Node: 2
+2389091909:1:Msg from Node: 5
+2400957877:8:R:39, DAG-VERSION:240
+2400959844:8:R:39, Imin:8, Idoubling:8
+2400961145:8:R:39, udp_sent:3
+2400962446:8:R:39, udp_recv:0
+2400963930:8:R:39, icmp_sent:49
+2400965526:8:R:39, icmp_recv:149
+2400966970:8:R:39, Leaf MODE: 0
+2401075576:11:R:39, DAG-VERSION:240
+2401077544:11:R:39, Imin:8, Idoubling:8
+2401078845:11:R:39, udp_sent:3
+2401080145:11:R:39, udp_recv:0
+2401081630:11:R:39, icmp_sent:39
+2401083114:11:R:39, icmp_recv:84
+2401084557:11:R:39, Leaf MODE: 0
+2401121220:2:R:39, DAG-VERSION:240
+2401123299:2:R:39, Imin:12, Idoubling:8
+2401124713:2:R:39, udp_sent:39
+2401126014:2:R:39, udp_recv:0
+2401127498:2:R:39, icmp_sent:92
+2401129095:2:R:39, icmp_recv:114
+2401130538:2:R:39, Leaf MODE: 2
+2401135795:6:R:39, DAG-VERSION:240
+2401137874:6:R:39, Imin:12, Idoubling:8
+2401139288:6:R:39, udp_sent:39
+2401140589:6:R:39, udp_recv:0
+2401142080:6:R:39, icmp_sent:86
+2401143564:6:R:39, icmp_recv:62
+2401145008:6:R:39, Leaf MODE: 2
+2401233478:4:R:39, DAG-VERSION:240
+2401235557:4:R:39, Imin:12, Idoubling:8
+2401236970:4:R:39, udp_sent:39
+2401238271:4:R:39, udp_recv:0
+2401239782:4:R:39, icmp_sent:63
+2401241379:4:R:39, icmp_recv:128
+2401242822:4:R:39, Leaf MODE: 2
+2401266320:1:R:39, DAG-VERSION:240
+2401268287:1:R:39, Imin:8, Idoubling:8
+2401269588:1:R:39, udp_sent:0
+2401271113:1:R:39, udp_recv:160
+2401272503:1:R:39, icmp_sent:1
+2401274100:1:R:39, icmp_recv:264
+2401275543:1:R:39, Leaf MODE: 0
+2401286877:7:R:39, DAG-VERSION:240
+2401288844:7:R:39, Imin:8, Idoubling:8
+2401290145:7:R:39, udp_sent:3
+2401291446:7:R:39, udp_recv:0
+2401292929:7:R:39, icmp_sent:40
+2401294414:7:R:39, icmp_recv:58
+2401295857:7:R:39, Leaf MODE: 0
+2401441597:10:R:39, DAG-VERSION:240
+2401443565:10:R:39, Imin:8, Idoubling:8
+2401444866:10:R:39, udp_sent:3
+2401446167:10:R:39, udp_recv:0
+2401447689:10:R:39, icmp_sent:44
+2401449174:10:R:39, icmp_recv:96
+2401450617:10:R:39, Leaf MODE: 0
+2401593593:9:R:39, DAG-VERSION:240
+2401595561:9:R:39, Imin:8, Idoubling:8
+2401596862:9:R:39, udp_sent:3
+2401598162:9:R:39, udp_recv:0
+2401599646:9:R:39, icmp_sent:47
+2401600231:5:R:39, DAG-VERSION:240
+2401601131:9:R:39, icmp_recv:69
+2401602310:5:R:39, Imin:12, Idoubling:8
+2401602574:9:R:39, Leaf MODE: 0
+2401603723:5:R:39, udp_sent:39
+2401605024:5:R:39, udp_recv:0
+2401606648:5:R:39, icmp_sent:114
+2401608244:5:R:39, icmp_recv:108
+2401609688:5:R:39, Leaf MODE: 2
+2401784440:3:R:39, DAG-VERSION:240
+2401786519:3:R:39, Imin:12, Idoubling:8
+2401787932:3:R:39, udp_sent:39
+2401789233:3:R:39, udp_recv:0
+2401790717:3:R:39, icmp_sent:46
+2401792314:3:R:39, icmp_recv:158
+2401793758:3:R:39, Leaf MODE: 2
+2410622963:1:Msg from Node: 5
+2412555476:1:Msg from Node: 6
+2414275700:1:Msg from Node: 3
+2416178034:1:Msg from Node: 4
+2423121065:1:Msg from Node: 2
+2460957816:8:R:40, DAG-VERSION:240
+2460959783:8:R:40, Imin:8, Idoubling:8
+2460961084:8:R:40, udp_sent:3
+2460962384:8:R:40, udp_recv:0
+2460963907:8:R:40, icmp_sent:50
+2460965503:8:R:40, icmp_recv:149
+2460966945:8:R:40, Leaf MODE: 0
+2461075507:11:R:40, DAG-VERSION:240
+2461077473:11:R:40, Imin:8, Idoubling:8
+2461078774:11:R:40, udp_sent:3
+2461080074:11:R:40, udp_recv:0
+2461081596:11:R:40, icmp_sent:40
+2461083080:11:R:40, icmp_recv:84
+2461084522:11:R:40, Leaf MODE: 0
+2461121554:2:R:40, DAG-VERSION:240
+2461123632:2:R:40, Imin:12, Idoubling:8
+2461125045:2:R:40, udp_sent:40
+2461126345:2:R:40, udp_recv:0
+2461127829:2:R:40, icmp_sent:92
+2461129425:2:R:40, icmp_recv:114
+2461130868:2:R:40, Leaf MODE: 2
+2461136109:6:R:40, DAG-VERSION:240
+2461138188:6:R:40, Imin:12, Idoubling:8
+2461139600:6:R:40, udp_sent:40
+2461140901:6:R:40, udp_recv:0
+2461142384:6:R:40, icmp_sent:87
+2461143868:6:R:40, icmp_recv:63
+2461145311:6:R:40, Leaf MODE: 2
+2461233792:4:R:40, DAG-VERSION:240
+2461235871:4:R:40, Imin:12, Idoubling:8
+2461237283:4:R:40, udp_sent:40
+2461238583:4:R:40, udp_recv:0
+2461240067:4:R:40, icmp_sent:63
+2461241663:4:R:40, icmp_recv:128
+2461243106:4:R:40, Leaf MODE: 2
+2461266301:1:R:40, DAG-VERSION:240
+2461268268:1:R:40, Imin:8, Idoubling:8
+2461269568:1:R:40, udp_sent:0
+2461271092:1:R:40, udp_recv:165
+2461272503:1:R:40, icmp_sent:1
+2461274099:1:R:40, icmp_recv:267
+2461275542:1:R:40, Leaf MODE: 0
+2461286817:7:R:40, DAG-VERSION:240
+2461288783:7:R:40, Imin:8, Idoubling:8
+2461290084:7:R:40, udp_sent:3
+2461291384:7:R:40, udp_recv:0
+2461292906:7:R:40, icmp_sent:41
+2461294390:7:R:40, icmp_recv:58
+2461295833:7:R:40, Leaf MODE: 0
+2461441518:10:R:40, DAG-VERSION:240
+2461443484:10:R:40, Imin:8, Idoubling:8
+2461444785:10:R:40, udp_sent:3
+2461446085:10:R:40, udp_recv:0
+2461447607:10:R:40, icmp_sent:44
+2461449091:10:R:40, icmp_recv:96
+2461450534:10:R:40, Leaf MODE: 0
+2461593515:9:R:40, DAG-VERSION:240
+2461595481:9:R:40, Imin:8, Idoubling:8
+2461596782:9:R:40, udp_sent:3
+2461598082:9:R:40, udp_recv:0
+2461599604:9:R:40, icmp_sent:47
+2461600545:5:R:40, DAG-VERSION:240
+2461601088:9:R:40, icmp_recv:69
+2461602531:9:R:40, Leaf MODE: 0
+2461602624:5:R:40, Imin:12, Idoubling:8
+2461604036:5:R:40, udp_sent:40
+2461605337:5:R:40, udp_recv:0
+2461606933:5:R:40, icmp_sent:114
+2461608529:5:R:40, icmp_recv:108
+2461609971:5:R:40, Leaf MODE: 2
+2461784772:3:R:40, DAG-VERSION:240
+2461786851:3:R:40, Imin:12, Idoubling:8
+2461788263:3:R:40, udp_sent:40
+2461789564:3:R:40, udp_recv:0
+2461791048:3:R:40, icmp_sent:48
+2461792645:3:R:40, icmp_recv:158
+2461794088:3:R:40, Leaf MODE: 2
+2475599354:1:Msg from Node: 5
+2485266229:1:Msg from Node: 6
+2493841998:1:Msg from Node: 4
+2508814784:1:Msg from Node: 3
+2509659817:1:Msg from Node: 2
+2520957789:8:R:41, DAG-VERSION:240
+2520959755:8:R:41, Imin:8, Idoubling:8
+2520961056:8:R:41, udp_sent:3
+2520962356:8:R:41, udp_recv:0
+2520963879:8:R:41, icmp_sent:50
+2520965475:8:R:41, icmp_recv:149
+2520966918:8:R:41, Leaf MODE: 0
+2521075489:11:R:41, DAG-VERSION:240
+2521077455:11:R:41, Imin:8, Idoubling:8
+2521078756:11:R:41, udp_sent:3
+2521080056:11:R:41, udp_recv:0
+2521081578:11:R:41, icmp_sent:41
+2521083062:11:R:41, icmp_recv:84
+2521084504:11:R:41, Leaf MODE: 0
+2521121202:2:R:41, DAG-VERSION:240
+2521123281:2:R:41, Imin:12, Idoubling:8
+2521124693:2:R:41, udp_sent:41
+2521125993:2:R:41, udp_recv:0
+2521127477:2:R:41, icmp_sent:93
+2521129073:2:R:41, icmp_recv:114
+2521130516:2:R:41, Leaf MODE: 2
+2521135719:6:R:41, DAG-VERSION:240
+2521137797:6:R:41, Imin:12, Idoubling:8
+2521139210:6:R:41, udp_sent:41
+2521140510:6:R:41, udp_recv:0
+2521142008:6:R:41, icmp_sent:87
+2521143492:6:R:41, icmp_recv:63
+2521144935:6:R:41, Leaf MODE: 2
+2521233440:4:R:41, DAG-VERSION:240
+2521235519:4:R:41, Imin:12, Idoubling:8
+2521236931:4:R:41, udp_sent:41
+2521238231:4:R:41, udp_recv:0
+2521239715:4:R:41, icmp_sent:65
+2521241311:4:R:41, icmp_recv:128
+2521242754:4:R:41, Leaf MODE: 2
+2521266301:1:R:41, DAG-VERSION:240
+2521268268:1:R:41, Imin:8, Idoubling:8
+2521269568:1:R:41, udp_sent:0
+2521271093:1:R:41, udp_recv:170
+2521272502:1:R:41, icmp_sent:1
+2521274099:1:R:41, icmp_recv:268
+2521275542:1:R:41, Leaf MODE: 0
+2521286789:7:R:41, DAG-VERSION:240
+2521288755:7:R:41, Imin:8, Idoubling:8
+2521290056:7:R:41, udp_sent:3
+2521291356:7:R:41, udp_recv:0
+2521292879:7:R:41, icmp_sent:41
+2521294363:7:R:41, icmp_recv:58
+2521295805:7:R:41, Leaf MODE: 0
+2521441509:10:R:41, DAG-VERSION:240
+2521443476:10:R:41, Imin:8, Idoubling:8
+2521444777:10:R:41, udp_sent:3
+2521446077:10:R:41, udp_recv:0
+2521447599:10:R:41, icmp_sent:45
+2521449083:10:R:41, icmp_recv:97
+2521450526:10:R:41, Leaf MODE: 0
+2521593506:9:R:41, DAG-VERSION:240
+2521595473:9:R:41, Imin:8, Idoubling:8
+2521596774:9:R:41, udp_sent:3
+2521598074:9:R:41, udp_recv:0
+2521599596:9:R:41, icmp_sent:48
+2521600193:5:R:41, DAG-VERSION:240
+2521601080:9:R:41, icmp_recv:69
+2521602272:5:R:41, Imin:12, Idoubling:8
+2521602523:9:R:41, Leaf MODE: 0
+2521603684:5:R:41, udp_sent:41
+2521604984:5:R:41, udp_recv:0
+2521606580:5:R:41, icmp_sent:115
+2521608176:5:R:41, icmp_recv:109
+2521609619:5:R:41, Leaf MODE: 2
+2521784402:3:R:41, DAG-VERSION:240
+2521786480:3:R:41, Imin:12, Idoubling:8
+2521787893:3:R:41, udp_sent:41
+2521789193:3:R:41, udp_recv:0
+2521790692:3:R:41, icmp_sent:48
+2521792289:3:R:41, icmp_recv:158
+2521793732:3:R:41, Leaf MODE: 2
+2527628120:1:Msg from Node: 10
+2543628680:1:Msg from Node: 2
+2545873294:1:Msg from Node: 4
+2566375661:1:Msg from Node: 6
+2567799285:1:Msg from Node: 3
+2576536822:1:Msg from Node: 5
+2580957789:8:R:42, DAG-VERSION:240
+2580959755:8:R:42, Imin:8, Idoubling:8
+2580961056:8:R:42, udp_sent:3
+2580962356:8:R:42, udp_recv:0
+2580963879:8:R:42, icmp_sent:51
+2580965476:8:R:42, icmp_recv:151
+2580966918:8:R:42, Leaf MODE: 0
+2581075480:11:R:42, DAG-VERSION:240
+2581077446:11:R:42, Imin:8, Idoubling:8
+2581078747:11:R:42, udp_sent:3
+2581080047:11:R:42, udp_recv:0
+2581081569:11:R:42, icmp_sent:41
+2581083053:11:R:42, icmp_recv:84
+2581084495:11:R:42, Leaf MODE: 0
+2581121554:2:R:42, DAG-VERSION:240
+2581123632:2:R:42, Imin:12, Idoubling:8
+2581125045:2:R:42, udp_sent:42
+2581126345:2:R:42, udp_recv:0
+2581127829:2:R:42, icmp_sent:94
+2581129425:2:R:42, icmp_recv:114
+2581130868:2:R:42, Leaf MODE: 2
+2581136071:6:R:42, DAG-VERSION:240
+2581138149:6:R:42, Imin:12, Idoubling:8
+2581139562:6:R:42, udp_sent:42
+2581140862:6:R:42, udp_recv:0
+2581142364:6:R:42, icmp_sent:87
+2581143848:6:R:42, icmp_recv:63
+2581145291:6:R:42, Leaf MODE: 2
+2581233772:4:R:42, DAG-VERSION:240
+2581235851:4:R:42, Imin:12, Idoubling:8
+2581237263:4:R:42, udp_sent:42
+2581238563:4:R:42, udp_recv:0
+2581240067:4:R:42, icmp_sent:65
+2581241662:4:R:42, icmp_recv:129
+2581243105:4:R:42, Leaf MODE: 2
+2581266311:1:R:42, DAG-VERSION:240
+2581268277:1:R:42, Imin:8, Idoubling:8
+2581269578:1:R:42, udp_sent:0
+2581271102:1:R:42, udp_recv:176
+2581272502:1:R:42, icmp_sent:1
+2581274099:1:R:42, icmp_recv:270
+2581275542:1:R:42, Leaf MODE: 0
+2581286799:7:R:42, DAG-VERSION:240
+2581288765:7:R:42, Imin:8, Idoubling:8
+2581290066:7:R:42, udp_sent:3
+2581291366:7:R:42, udp_recv:0
+2581292888:7:R:42, icmp_sent:42
+2581294372:7:R:42, icmp_recv:58
+2581295815:7:R:42, Leaf MODE: 0
+2581441493:10:R:42, DAG-VERSION:240
+2581443459:10:R:42, Imin:8, Idoubling:8
+2581444760:10:R:42, udp_sent:4
+2581446060:10:R:42, udp_recv:0
+2581447582:10:R:42, icmp_sent:46
+2581449066:10:R:42, icmp_recv:98
+2581450509:10:R:42, Leaf MODE: 0
+2581593497:9:R:42, DAG-VERSION:240
+2581595463:9:R:42, Imin:8, Idoubling:8
+2581596764:9:R:42, udp_sent:3
+2581598064:9:R:42, udp_recv:0
+2581599586:9:R:42, icmp_sent:48
+2581600525:5:R:42, DAG-VERSION:240
+2581601070:9:R:42, icmp_recv:69
+2581602513:9:R:42, Leaf MODE: 0
+2581602604:5:R:42, Imin:12, Idoubling:8
+2581604016:5:R:42, udp_sent:42
+2581605317:5:R:42, udp_recv:0
+2581606932:5:R:42, icmp_sent:115
+2581608529:5:R:42, icmp_recv:110
+2581609971:5:R:42, Leaf MODE: 2
+2581784773:3:R:42, DAG-VERSION:240
+2581786851:3:R:42, Imin:12, Idoubling:8
+2581788264:3:R:42, udp_sent:42
+2581789564:3:R:42, udp_recv:0
+2581791048:3:R:42, icmp_sent:49
+2581792645:3:R:42, icmp_recv:159
+2581794088:3:R:42, Leaf MODE: 2
+2581810732:1:Msg from Node: 4
+2603533782:1:Msg from Node: 3
+2622437990:1:Msg from Node: 6
+2640957799:8:R:43, DAG-VERSION:240
+2640959766:8:R:43, Imin:8, Idoubling:8
+2640961066:8:R:43, udp_sent:3
+2640962367:8:R:43, udp_recv:0
+2640963889:8:R:43, icmp_sent:53
+2640965486:8:R:43, icmp_recv:153
+2640966929:8:R:43, Leaf MODE: 0
+2641075490:11:R:43, DAG-VERSION:240
+2641077457:11:R:43, Imin:8, Idoubling:8
+2641078757:11:R:43, udp_sent:3
+2641080058:11:R:43, udp_recv:0
+2641081580:11:R:43, icmp_sent:42
+2641083063:11:R:43, icmp_recv:84
+2641084506:11:R:43, Leaf MODE: 0
+2641121222:2:R:43, DAG-VERSION:240
+2641123300:2:R:43, Imin:12, Idoubling:8
+2641124713:2:R:43, udp_sent:43
+2641126013:2:R:43, udp_recv:0
+2641127497:2:R:43, icmp_sent:96
+2641129093:2:R:43, icmp_recv:114
+2641130536:2:R:43, Leaf MODE: 2
+2641135738:6:R:43, DAG-VERSION:240
+2641137817:6:R:43, Imin:12, Idoubling:8
+2641139229:6:R:43, udp_sent:43
+2641140529:6:R:43, udp_recv:0
+2641142013:6:R:43, icmp_sent:88
+2641143497:6:R:43, icmp_recv:64
+2641144940:6:R:43, Leaf MODE: 2
+2641233440:4:R:43, DAG-VERSION:240
+2641235519:4:R:43, Imin:12, Idoubling:8
+2641236931:4:R:43, udp_sent:43
+2641238231:4:R:43, udp_recv:0
+2641239715:4:R:43, icmp_sent:66
+2641241311:4:R:43, icmp_recv:130
+2641242754:4:R:43, Leaf MODE: 2
+2641266302:1:R:43, DAG-VERSION:240
+2641268268:1:R:43, Imin:8, Idoubling:8
+2641269569:1:R:43, udp_sent:0
+2641271093:1:R:43, udp_recv:179
+2641272502:1:R:43, icmp_sent:1
+2641274099:1:R:43, icmp_recv:275
+2641275542:1:R:43, Leaf MODE: 0
+2641286809:7:R:43, DAG-VERSION:240
+2641288776:7:R:43, Imin:8, Idoubling:8
+2641290076:7:R:43, udp_sent:3
+2641291377:7:R:43, udp_recv:0
+2641292899:7:R:43, icmp_sent:44
+2641294383:7:R:43, icmp_recv:58
+2641295825:7:R:43, Leaf MODE: 0
+2641441493:10:R:43, DAG-VERSION:240
+2641443460:10:R:43, Imin:8, Idoubling:8
+2641444761:10:R:43, udp_sent:4
+2641446061:10:R:43, udp_recv:0
+2641447583:10:R:43, icmp_sent:47
+2641449067:10:R:43, icmp_recv:98
+2641450510:10:R:43, Leaf MODE: 0
+2641593517:9:R:43, DAG-VERSION:240
+2641595483:9:R:43, Imin:8, Idoubling:8
+2641596784:9:R:43, udp_sent:3
+2641598084:9:R:43, udp_recv:0
+2641599607:9:R:43, icmp_sent:50
+2641600193:5:R:43, DAG-VERSION:240
+2641601091:9:R:43, icmp_recv:69
+2641602272:5:R:43, Imin:12, Idoubling:8
+2641602534:9:R:43, Leaf MODE: 0
+2641603684:5:R:43, udp_sent:43
+2641604984:5:R:43, udp_recv:0
+2641606580:5:R:43, icmp_sent:116
+2641608177:5:R:43, icmp_recv:110
+2641609620:5:R:43, Leaf MODE: 2
+2641784403:3:R:43, DAG-VERSION:240
+2641786481:3:R:43, Imin:12, Idoubling:8
+2641787894:3:R:43, udp_sent:43
+2641789194:3:R:43, udp_recv:0
+2641790693:3:R:43, icmp_sent:51
+2641792288:3:R:43, icmp_recv:161
+2641793731:3:R:43, Leaf MODE: 2
+2648217108:1:Msg from Node: 4
+2648831732:1:Msg from Node: 2
+2652810397:1:Msg from Node: 5
+2662219350:1:Msg from Node: 6
+2664142850:1:Msg from Node: 3
+2676631245:1:Msg from Node: 9
+2691817308:1:Msg from Node: 7
+2700957799:8:R:44, DAG-VERSION:240
+2700959766:8:R:44, Imin:8, Idoubling:8
+2700961066:8:R:44, udp_sent:3
+2700962367:8:R:44, udp_recv:0
+2700963889:8:R:44, icmp_sent:54
+2700965486:8:R:44, icmp_recv:153
+2700966929:8:R:44, Leaf MODE: 0
+2701075480:11:R:44, DAG-VERSION:240
+2701077447:11:R:44, Imin:8, Idoubling:8
+2701078748:11:R:44, udp_sent:3
+2701080048:11:R:44, udp_recv:0
+2701081570:11:R:44, icmp_sent:42
+2701083054:11:R:44, icmp_recv:84
+2701084496:11:R:44, Leaf MODE: 0
+2701121534:2:R:44, DAG-VERSION:240
+2701123613:2:R:44, Imin:12, Idoubling:8
+2701125025:2:R:44, udp_sent:44
+2701126325:2:R:44, udp_recv:0
+2701127829:2:R:44, icmp_sent:96
+2701129425:2:R:44, icmp_recv:114
+2701130868:2:R:44, Leaf MODE: 2
+2701136070:6:R:44, DAG-VERSION:240
+2701138149:6:R:44, Imin:12, Idoubling:8
+2701139561:6:R:44, udp_sent:44
+2701140862:6:R:44, udp_recv:0
+2701142364:6:R:44, icmp_sent:88
+2701143848:6:R:44, icmp_recv:64
+2701145291:6:R:44, Leaf MODE: 2
+2701233792:4:R:44, DAG-VERSION:240
+2701235871:4:R:44, Imin:12, Idoubling:8
+2701237283:4:R:44, udp_sent:44
+2701238583:4:R:44, udp_recv:0
+2701240067:4:R:44, icmp_sent:67
+2701241663:4:R:44, icmp_recv:131
+2701243106:4:R:44, Leaf MODE: 2
+2701266312:1:R:44, DAG-VERSION:240
+2701268278:1:R:44, Imin:8, Idoubling:8
+2701269578:1:R:44, udp_sent:0
+2701271103:1:R:44, udp_recv:186
+2701272502:1:R:44, icmp_sent:1
+2701274099:1:R:44, icmp_recv:277
+2701275542:1:R:44, Leaf MODE: 0
+2701286773:7:R:44, DAG-VERSION:240
+2701288739:7:R:44, Imin:8, Idoubling:8
+2701290040:7:R:44, udp_sent:4
+2701291340:7:R:44, udp_recv:0
+2701292863:7:R:44, icmp_sent:44
+2701294347:7:R:44, icmp_recv:58
+2701295789:7:R:44, Leaf MODE: 0
+2701441493:10:R:44, DAG-VERSION:240
+2701443460:10:R:44, Imin:8, Idoubling:8
+2701444761:10:R:44, udp_sent:4
+2701446061:10:R:44, udp_recv:0
+2701447583:10:R:44, icmp_sent:48
+2701449067:10:R:44, icmp_recv:98
+2701450510:10:R:44, Leaf MODE: 0
+2701593481:9:R:44, DAG-VERSION:240
+2701595447:9:R:44, Imin:8, Idoubling:8
+2701596748:9:R:44, udp_sent:4
+2701598048:9:R:44, udp_recv:0
+2701599571:9:R:44, icmp_sent:50
+2701600545:5:R:44, DAG-VERSION:240
+2701601055:9:R:44, icmp_recv:69
+2701602497:9:R:44, Leaf MODE: 0
+2701602623:5:R:44, Imin:12, Idoubling:8
+2701604036:5:R:44, udp_sent:44
+2701605336:5:R:44, udp_recv:0
+2701606932:5:R:44, icmp_sent:117
+2701608529:5:R:44, icmp_recv:110
+2701609971:5:R:44, Leaf MODE: 2
+2701784774:3:R:44, DAG-VERSION:240
+2701786853:3:R:44, Imin:12, Idoubling:8
+2701788265:3:R:44, udp_sent:44
+2701789565:3:R:44, udp_recv:0
+2701791049:3:R:44, icmp_sent:52
+2701792644:3:R:44, icmp_recv:161
+2701794087:3:R:44, Leaf MODE: 2
+2725943495:1:Msg from Node: 4
+2727082255:1:Msg from Node: 8
+2727519045:1:Msg from Node: 2
+2733406782:1:Msg from Node: 6
+2737752113:1:Msg from Node: 3
+2749910434:1:Msg from Node: 11
+2758294602:1:Msg from Node: 5
+2760957782:8:R:45, DAG-VERSION:240
+2760959749:8:R:45, Imin:8, Idoubling:8
+2760961050:8:R:45, udp_sent:4
+2760962350:8:R:45, udp_recv:0
+2760963873:8:R:45, icmp_sent:55
+2760965469:8:R:45, icmp_recv:156
+2760966912:8:R:45, Leaf MODE: 0
+2761075464:11:R:45, DAG-VERSION:240
+2761077430:11:R:45, Imin:8, Idoubling:8
+2761078731:11:R:45, udp_sent:4
+2761080031:11:R:45, udp_recv:0
+2761081553:11:R:45, icmp_sent:42
+2761083037:11:R:45, icmp_recv:85
+2761084479:11:R:45, Leaf MODE: 0
+2761121202:2:R:45, DAG-VERSION:240
+2761123281:2:R:45, Imin:12, Idoubling:8
+2761124693:2:R:45, udp_sent:45
+2761125993:2:R:45, udp_recv:0
+2761127477:2:R:45, icmp_sent:97
+2761129073:2:R:45, icmp_recv:115
+2761130516:2:R:45, Leaf MODE: 2
+2761135738:6:R:45, DAG-VERSION:240
+2761137817:6:R:45, Imin:12, Idoubling:8
+2761139229:6:R:45, udp_sent:45
+2761140529:6:R:45, udp_recv:0
+2761142013:6:R:45, icmp_sent:89
+2761143497:6:R:45, icmp_recv:64
+2761144940:6:R:45, Leaf MODE: 2
+2761233440:4:R:45, DAG-VERSION:240
+2761235519:4:R:45, Imin:12, Idoubling:8
+2761236931:4:R:45, udp_sent:45
+2761238231:4:R:45, udp_recv:0
+2761239715:4:R:45, icmp_sent:68
+2761241311:4:R:45, icmp_recv:132
+2761242754:4:R:45, Leaf MODE: 2
+2761266312:1:R:45, DAG-VERSION:240
+2761268278:1:R:45, Imin:8, Idoubling:8
+2761269578:1:R:45, udp_sent:0
+2761271104:1:R:45, udp_recv:193
+2761272503:1:R:45, icmp_sent:1
+2761274100:1:R:45, icmp_recv:278
+2761275543:1:R:45, Leaf MODE: 0
+2761286783:7:R:45, DAG-VERSION:240
+2761288749:7:R:45, Imin:8, Idoubling:8
+2761290050:7:R:45, udp_sent:4
+2761291350:7:R:45, udp_recv:0
+2761292872:7:R:45, icmp_sent:45
+2761294356:7:R:45, icmp_recv:59
+2761295799:7:R:45, Leaf MODE: 0
+2761441484:10:R:45, DAG-VERSION:240
+2761443450:10:R:45, Imin:8, Idoubling:8
+2761444751:10:R:45, udp_sent:4
+2761446051:10:R:45, udp_recv:0
+2761447573:10:R:45, icmp_sent:48
+2761449057:10:R:45, icmp_recv:99
+2761450500:10:R:45, Leaf MODE: 0
+2761593481:9:R:45, DAG-VERSION:240
+2761595447:9:R:45, Imin:8, Idoubling:8
+2761596748:9:R:45, udp_sent:4
+2761598048:9:R:45, udp_recv:0
+2761599571:9:R:45, icmp_sent:50
+2761600193:5:R:45, DAG-VERSION:240
+2761601055:9:R:45, icmp_recv:69
+2761602272:5:R:45, Imin:12, Idoubling:8
+2761602497:9:R:45, Leaf MODE: 0
+2761603684:5:R:45, udp_sent:45
+2761604984:5:R:45, udp_recv:0
+2761606580:5:R:45, icmp_sent:118
+2761608177:5:R:45, icmp_recv:111
+2761609620:5:R:45, Leaf MODE: 2
+2761784422:3:R:45, DAG-VERSION:240
+2761786501:3:R:45, Imin:12, Idoubling:8
+2761787913:3:R:45, udp_sent:45
+2761789213:3:R:45, udp_recv:0
+2761790697:3:R:45, icmp_sent:53
+2761792292:3:R:45, icmp_recv:161
+2761793735:3:R:45, Leaf MODE: 2
+2780256171:1:Msg from Node: 4
+2789986640:1:Msg from Node: 3
+2816388395:1:Msg from Node: 5
+2820175739:1:Msg from Node: 2
+2820966154:8:R:46, DAG-VERSION:240
+2820968120:8:R:46, Imin:8, Idoubling:8
+2820969421:8:R:46, udp_sent:4
+2820970721:8:R:46, udp_recv:0
+2820972219:8:R:46, icmp_sent:55
+2820973816:8:R:46, icmp_recv:157
+2820975258:8:R:46, Leaf MODE: 0
+2821075483:11:R:46, DAG-VERSION:240
+2821077450:11:R:46, Imin:8, Idoubling:8
+2821078750:11:R:46, udp_sent:4
+2821080051:11:R:46, udp_recv:0
+2821081573:11:R:46, icmp_sent:44
+2821083056:11:R:46, icmp_recv:86
+2821084499:11:R:46, Leaf MODE: 0
+2821136064:2:R:46, DAG-VERSION:240
+2821136090:6:R:46, DAG-VERSION:240
+2821138142:2:R:46, Imin:12, Idoubling:8
+2821138168:6:R:46, Imin:12, Idoubling:8
+2821139555:2:R:46, udp_sent:46
+2821139581:6:R:46, udp_sent:46
+2821140855:2:R:46, udp_recv:0
+2821140881:6:R:46, udp_recv:0
+2821142339:2:R:46, icmp_sent:99
+2821142365:6:R:46, icmp_sent:90
+2821143849:6:R:46, icmp_recv:64
+2821143974:2:R:46, icmp_recv:116
+2821145292:6:R:46, Leaf MODE: 2
+2821145417:2:R:46, Leaf MODE: 2
+2821233772:4:R:46, DAG-VERSION:240
+2821235851:4:R:46, Imin:12, Idoubling:8
+2821237263:4:R:46, udp_sent:46
+2821238564:4:R:46, udp_recv:0
+2821240067:4:R:46, icmp_sent:68
+2821241663:4:R:46, icmp_recv:134
+2821243106:4:R:46, Leaf MODE: 2
+2821266302:1:R:46, DAG-VERSION:240
+2821268268:1:R:46, Imin:8, Idoubling:8
+2821269569:1:R:46, udp_sent:0
+2821271094:1:R:46, udp_recv:197
+2821272503:1:R:46, icmp_sent:1
+2821274099:1:R:46, icmp_recv:280
+2821275542:1:R:46, Leaf MODE: 0
+2821286773:7:R:46, DAG-VERSION:240
+2821288739:7:R:46, Imin:8, Idoubling:8
+2821290040:7:R:46, udp_sent:4
+2821291340:7:R:46, udp_recv:0
+2821292863:7:R:46, icmp_sent:45
+2821294347:7:R:46, icmp_recv:59
+2821295789:7:R:46, Leaf MODE: 0
+2821441493:10:R:46, DAG-VERSION:240
+2821443460:10:R:46, Imin:8, Idoubling:8
+2821444761:10:R:46, udp_sent:4
+2821446061:10:R:46, udp_recv:0
+2821447583:10:R:46, icmp_sent:49
+2821449179:10:R:46, icmp_recv:100
+2821450621:10:R:46, Leaf MODE: 0
+2821593490:9:R:46, DAG-VERSION:240
+2821595457:9:R:46, Imin:8, Idoubling:8
+2821596758:9:R:46, udp_sent:4
+2821598058:9:R:46, udp_recv:0
+2821599581:9:R:46, icmp_sent:51
+2821600525:5:R:46, DAG-VERSION:240
+2821601065:9:R:46, icmp_recv:69
+2821602507:9:R:46, Leaf MODE: 0
+2821602604:5:R:46, Imin:12, Idoubling:8
+2821604016:5:R:46, udp_sent:46
+2821605317:5:R:46, udp_recv:0
+2821606932:5:R:46, icmp_sent:118
+2821608529:5:R:46, icmp_recv:112
+2821609971:5:R:46, Leaf MODE: 2
+2821784755:3:R:46, DAG-VERSION:240
+2821786833:3:R:46, Imin:12, Idoubling:8
+2821788246:3:R:46, udp_sent:46
+2821789546:3:R:46, udp_recv:0
+2821791048:3:R:46, icmp_sent:53
+2821792644:3:R:46, icmp_recv:162
+2821794087:3:R:46, Leaf MODE: 2
+2823513366:1:Msg from Node: 5
+2826789904:1:Msg from Node: 6
+2830674172:1:Msg from Node: 3
+2857537564:1:Msg from Node: 4
+2880957792:8:R:47, DAG-VERSION:240
+2880959759:8:R:47, Imin:8, Idoubling:8
+2880961059:8:R:47, udp_sent:4
+2880962360:8:R:47, udp_recv:0
+2880963882:8:R:47, icmp_sent:57
+2880965479:8:R:47, icmp_recv:158
+2880966922:8:R:47, Leaf MODE: 0
+2881075464:11:R:47, DAG-VERSION:240
+2881077430:11:R:47, Imin:8, Idoubling:8
+2881078731:11:R:47, udp_sent:4
+2881080031:11:R:47, udp_recv:0
+2881081553:11:R:47, icmp_sent:44
+2881083037:11:R:47, icmp_recv:88
+2881084479:11:R:47, Leaf MODE: 0
+2881135547:2:R:47, DAG-VERSION:240
+2881135738:6:R:47, DAG-VERSION:240
+2881137626:2:R:47, Imin:12, Idoubling:8
+2881137817:6:R:47, Imin:12, Idoubling:8
+2881139038:2:R:47, udp_sent:47
+2881139229:6:R:47, udp_sent:47
+2881140338:2:R:47, udp_recv:0
+2881140529:6:R:47, udp_recv:0
+2881141934:2:R:47, icmp_sent:100
+2881142013:6:R:47, icmp_sent:91
+2881143497:6:R:47, icmp_recv:65
+2881143565:2:R:47, icmp_recv:121
+2881144940:6:R:47, Leaf MODE: 2
+2881145008:2:R:47, Leaf MODE: 2
+2881233440:4:R:47, DAG-VERSION:240
+2881235519:4:R:47, Imin:12, Idoubling:8
+2881236931:4:R:47, udp_sent:47
+2881238231:4:R:47, udp_recv:0
+2881239715:4:R:47, icmp_sent:69
+2881241311:4:R:47, icmp_recv:136
+2881242754:4:R:47, Leaf MODE: 2
+2881266312:1:R:47, DAG-VERSION:240
+2881268278:1:R:47, Imin:8, Idoubling:8
+2881269578:1:R:47, udp_sent:0
+2881271103:1:R:47, udp_recv:201
+2881272502:1:R:47, icmp_sent:1
+2881274099:1:R:47, icmp_recv:283
+2881275542:1:R:47, Leaf MODE: 0
+2881286773:7:R:47, DAG-VERSION:240
+2881288739:7:R:47, Imin:8, Idoubling:8
+2881290040:7:R:47, udp_sent:4
+2881291340:7:R:47, udp_recv:0
+2881292863:7:R:47, icmp_sent:45
+2881294347:7:R:47, icmp_recv:61
+2881295789:7:R:47, Leaf MODE: 0
+2881441493:10:R:47, DAG-VERSION:240
+2881443460:10:R:47, Imin:8, Idoubling:8
+2881444761:10:R:47, udp_sent:4
+2881446061:10:R:47, udp_recv:0
+2881447584:10:R:47, icmp_sent:50
+2881449179:10:R:47, icmp_recv:102
+2881450622:10:R:47, Leaf MODE: 0
+2881593490:9:R:47, DAG-VERSION:240
+2881595457:9:R:47, Imin:8, Idoubling:8
+2881596758:9:R:47, udp_sent:4
+2881598058:9:R:47, udp_recv:0
+2881599581:9:R:47, icmp_sent:52
+2881600213:5:R:47, DAG-VERSION:240
+2881601065:9:R:47, icmp_recv:70
+2881602291:5:R:47, Imin:12, Idoubling:8
+2881602508:9:R:47, Leaf MODE: 0
+2881603704:5:R:47, udp_sent:47
+2881605004:5:R:47, udp_recv:0
+2881606599:5:R:47, icmp_sent:120
+2881608196:5:R:47, icmp_recv:113
+2881609639:5:R:47, Leaf MODE: 2
+2881784442:3:R:47, DAG-VERSION:240
+2881786520:3:R:47, Imin:12, Idoubling:8
+2881787933:3:R:47, udp_sent:47
+2881789233:3:R:47, udp_recv:0
+2881790717:3:R:47, icmp_sent:55
+2881792312:3:R:47, icmp_recv:164
+2881793755:3:R:47, Leaf MODE: 2
+2889852137:1:Msg from Node: 6
+2892982168:1:Msg from Node: 5
+2898724792:1:Msg from Node: 4
+2906277032:1:Msg from Node: 2
+2927150662:1:Msg from Node: 3
+2940957773:8:R:48, DAG-VERSION:240
+2940959740:8:R:48, Imin:8, Idoubling:8
+2940961041:8:R:48, udp_sent:4
+2940962341:8:R:48, udp_recv:0
+2940963864:8:R:48, icmp_sent:58
+2940965459:8:R:48, icmp_recv:160
+2940966901:8:R:48, Leaf MODE: 0
+2941075474:11:R:48, DAG-VERSION:240
+2941077441:11:R:48, Imin:8, Idoubling:8
+2941078741:11:R:48, udp_sent:4
+2941080042:11:R:48, udp_recv:0
+2941081564:11:R:48, icmp_sent:45
+2941083047:11:R:48, icmp_recv:88
+2941084490:11:R:48, Leaf MODE: 0
+2941121554:2:R:48, DAG-VERSION:240
+2941123632:2:R:48, Imin:12, Idoubling:8
+2941125045:2:R:48, udp_sent:48
+2941126345:2:R:48, udp_recv:0
+2941127941:2:R:48, icmp_sent:101
+2941129537:2:R:48, icmp_recv:121
+2941130979:2:R:48, Leaf MODE: 2
+2941136090:6:R:48, DAG-VERSION:240
+2941138168:6:R:48, Imin:12, Idoubling:8
+2941139581:6:R:48, udp_sent:48
+2941140881:6:R:48, udp_recv:0
+2941142365:6:R:48, icmp_sent:92
+2941143849:6:R:48, icmp_recv:65
+2941145292:6:R:48, Leaf MODE: 2
+2941233772:4:R:48, DAG-VERSION:240
+2941235851:4:R:48, Imin:12, Idoubling:8
+2941237263:4:R:48, udp_sent:48
+2941238564:4:R:48, udp_recv:0
+2941240067:4:R:48, icmp_sent:69
+2941241663:4:R:48, icmp_recv:136
+2941243106:4:R:48, Leaf MODE: 2
+2941266302:1:R:48, DAG-VERSION:240
+2941268268:1:R:48, Imin:8, Idoubling:8
+2941269569:1:R:48, udp_sent:0
+2941271093:1:R:48, udp_recv:206
+2941272502:1:R:48, icmp_sent:1
+2941274099:1:R:48, icmp_recv:284
+2941275542:1:R:48, Leaf MODE: 0
+2941286783:7:R:48, DAG-VERSION:240
+2941288750:7:R:48, Imin:8, Idoubling:8
+2941290051:7:R:48, udp_sent:4
+2941291351:7:R:48, udp_recv:0
+2941292873:7:R:48, icmp_sent:46
+2941294357:7:R:48, icmp_recv:62
+2941295800:7:R:48, Leaf MODE: 0
+2941441494:10:R:48, DAG-VERSION:240
+2941443461:10:R:48, Imin:8, Idoubling:8
+2941444761:10:R:48, udp_sent:4
+2941446062:10:R:48, udp_recv:0
+2941447584:10:R:48, icmp_sent:51
+2941449180:10:R:48, icmp_recv:102
+2941450623:10:R:48, Leaf MODE: 0
+2941593481:9:R:48, DAG-VERSION:240
+2941595448:9:R:48, Imin:8, Idoubling:8
+2941596749:9:R:48, udp_sent:4
+2941598049:9:R:48, udp_recv:0
+2941599572:9:R:48, icmp_sent:52
+2941600545:5:R:48, DAG-VERSION:240
+2941601056:9:R:48, icmp_recv:70
+2941602499:9:R:48, Leaf MODE: 0
+2941602624:5:R:48, Imin:12, Idoubling:8
+2941604036:5:R:48, udp_sent:48
+2941605336:5:R:48, udp_recv:0
+2941606932:5:R:48, icmp_sent:121
+2941608528:5:R:48, icmp_recv:113
+2941609971:5:R:48, Leaf MODE: 2
+2941784755:3:R:48, DAG-VERSION:240
+2941786833:3:R:48, Imin:12, Idoubling:8
+2941788246:3:R:48, udp_sent:48
+2941789546:3:R:48, udp_recv:0
+2941791049:3:R:48, icmp_sent:55
+2941792644:3:R:48, icmp_recv:164
+2941794087:3:R:48, Leaf MODE: 2
+2945383404:1:Msg from Node: 6
+2947425530:1:Msg from Node: 2
+2950631117:1:Msg from Node: 4
+2969557055:1:Msg from Node: 3
+2989403915:1:Msg from Node: 5
+3000957870:8:R:49, DAG-VERSION:240
+3000959836:8:R:49, Imin:8, Idoubling:8
+3000961137:8:R:49, udp_sent:4
+3000962437:8:R:49, udp_recv:0
+3000963921:8:R:49, icmp_sent:59
+3000965516:8:R:49, icmp_recv:161
+3000966959:8:R:49, Leaf MODE: 0
+3001075541:11:R:49, DAG-VERSION:240
+3001077508:11:R:49, Imin:8, Idoubling:8
+3001078809:11:R:49, udp_sent:4
+3001080109:11:R:49, udp_recv:0
+3001081599:11:R:49, icmp_sent:45
+3001083082:11:R:49, icmp_recv:89
+3001084525:11:R:49, Leaf MODE: 0
+3001121183:2:R:49, DAG-VERSION:240
+3001123261:2:R:49, Imin:12, Idoubling:8
+3001124674:2:R:49, udp_sent:49
+3001125974:2:R:49, udp_recv:0
+3001127584:2:R:49, icmp_sent:101
+3001129180:2:R:49, icmp_recv:123
+3001130623:2:R:49, Leaf MODE: 2
+3001135754:6:R:49, DAG-VERSION:240
+3001137833:6:R:49, Imin:12, Idoubling:8
+3001139245:6:R:49, udp_sent:49
+3001140545:6:R:49, udp_recv:0
+3001142029:6:R:49, icmp_sent:93
+3001143513:6:R:49, icmp_recv:65
+3001144956:6:R:49, Leaf MODE: 2
+3001233456:4:R:49, DAG-VERSION:240
+3001235535:4:R:49, Imin:12, Idoubling:8
+3001236947:4:R:49, udp_sent:49
+3001238247:4:R:49, udp_recv:0
+3001239732:4:R:49, icmp_sent:71
+3001241328:4:R:49, icmp_recv:136
+3001242771:4:R:49, Leaf MODE: 2
+3001266312:1:R:49, DAG-VERSION:240
+3001268278:1:R:49, Imin:8, Idoubling:8
+3001269578:1:R:49, udp_sent:0
+3001271104:1:R:49, udp_recv:211
+3001272503:1:R:49, icmp_sent:1
+3001274099:1:R:49, icmp_recv:289
+3001275542:1:R:49, Leaf MODE: 0
+3001286850:7:R:49, DAG-VERSION:240
+3001288817:7:R:49, Imin:8, Idoubling:8
+3001290118:7:R:49, udp_sent:4
+3001291418:7:R:49, udp_recv:0
+3001292909:7:R:49, icmp_sent:47
+3001294393:7:R:49, icmp_recv:62
+3001295835:7:R:49, Leaf MODE: 0
+3001441581:10:R:49, DAG-VERSION:240
+3001443547:10:R:49, Imin:8, Idoubling:8
+3001444848:10:R:49, udp_sent:4
+3001446148:10:R:49, udp_recv:0
+3001447632:10:R:49, icmp_sent:52
+3001449228:10:R:49, icmp_recv:105
+3001450670:10:R:49, Leaf MODE: 0
+3001593597:9:R:49, DAG-VERSION:240
+3001595564:9:R:49, Imin:8, Idoubling:8
+3001596865:9:R:49, udp_sent:4
+3001598165:9:R:49, udp_recv:0
+3001599688:9:R:49, icmp_sent:55
+3001600229:5:R:49, DAG-VERSION:240
+3001601172:9:R:49, icmp_recv:70
+3001602307:5:R:49, Imin:12, Idoubling:8
+3001602615:9:R:49, Leaf MODE: 0
+3001603720:5:R:49, udp_sent:49
+3001605020:5:R:49, udp_recv:0
+3001606647:5:R:49, icmp_sent:123
+3001608243:5:R:49, icmp_recv:115
+3001609686:5:R:49, Leaf MODE: 2
+3001784422:3:R:49, DAG-VERSION:240
+3001786501:3:R:49, Imin:12, Idoubling:8
+3001787913:3:R:49, udp_sent:49
+3001789213:3:R:49, udp_recv:0
+3001790697:3:R:49, icmp_sent:57
+3001792292:3:R:49, icmp_recv:167
+3001793735:3:R:49, Leaf MODE: 2
+3009233528:1:Msg from Node: 4
+3035119537:1:Msg from Node: 3
+3058669645:1:Msg from Node: 5
+3060957818:8:R:50, DAG-VERSION:240
+3060959785:8:R:50, Imin:8, Idoubling:8
+3060961086:8:R:50, udp_sent:4
+3060962387:8:R:50, udp_recv:0
+3060963908:8:R:50, icmp_sent:60
+3060965504:8:R:50, icmp_recv:163
+3060966947:8:R:50, Leaf MODE: 0
+3061075518:11:R:50, DAG-VERSION:240
+3061077485:11:R:50, Imin:8, Idoubling:8
+3061078787:11:R:50, udp_sent:4
+3061080087:11:R:50, udp_recv:0
+3061081599:11:R:50, icmp_sent:47
+3061083083:11:R:50, icmp_recv:91
+3061084526:11:R:50, Leaf MODE: 0
+3061121574:2:R:50, DAG-VERSION:240
+3061123653:2:R:50, Imin:12, Idoubling:8
+3061125066:2:R:50, udp_sent:50
+3061126367:2:R:50, udp_recv:0
+3061127963:2:R:50, icmp_sent:106
+3061129559:2:R:50, icmp_recv:124
+3061131003:2:R:50, Leaf MODE: 2
+3061136068:6:R:50, DAG-VERSION:240
+3061138147:6:R:50, Imin:12, Idoubling:8
+3061139560:6:R:50, udp_sent:50
+3061140861:6:R:50, udp_recv:0
+3061142365:6:R:50, icmp_sent:93
+3061143849:6:R:50, icmp_recv:67
+3061145293:6:R:50, Leaf MODE: 2
+3061233789:4:R:50, DAG-VERSION:240
+3061235868:4:R:50, Imin:12, Idoubling:8
+3061237282:4:R:50, udp_sent:50
+3061238582:4:R:50, udp_recv:0
+3061240067:4:R:50, icmp_sent:72
+3061241664:4:R:50, icmp_recv:139
+3061243107:4:R:50, Leaf MODE: 2
+3061266302:1:R:50, DAG-VERSION:240
+3061268269:1:R:50, Imin:8, Idoubling:8
+3061269570:1:R:50, udp_sent:0
+3061271096:1:R:50, udp_recv:214
+3061272502:1:R:50, icmp_sent:1
+3061274100:1:R:50, icmp_recv:297
+3061275543:1:R:50, Leaf MODE: 0
+3061286818:7:R:50, DAG-VERSION:240
+3061288785:7:R:50, Imin:8, Idoubling:8
+3061290086:7:R:50, udp_sent:4
+3061291387:7:R:50, udp_recv:0
+3061292909:7:R:50, icmp_sent:48
+3061294393:7:R:50, icmp_recv:63
+3061295836:7:R:50, Leaf MODE: 0
+3061441529:10:R:50, DAG-VERSION:240
+3061443496:10:R:50, Imin:8, Idoubling:8
+3061444797:10:R:50, udp_sent:4
+3061446098:10:R:50, udp_recv:0
+3061447619:10:R:50, icmp_sent:53
+3061449216:10:R:50, icmp_recv:106
+3061450659:10:R:50, Leaf MODE: 0
+3061593516:9:R:50, DAG-VERSION:240
+3061595483:9:R:50, Imin:8, Idoubling:8
+3061596784:9:R:50, udp_sent:4
+3061598085:9:R:50, udp_recv:0
+3061599608:9:R:50, icmp_sent:55
+3061600523:5:R:50, DAG-VERSION:240
+3061601093:9:R:50, icmp_recv:71
+3061602536:9:R:50, Leaf MODE: 0
+3061602602:5:R:50, Imin:12, Idoubling:8
+3061604015:5:R:50, udp_sent:50
+3061605316:5:R:50, udp_recv:0
+3061606931:5:R:50, icmp_sent:123
+3061608528:5:R:50, icmp_recv:119
+3061609972:5:R:50, Leaf MODE: 2
+3061784755:3:R:50, DAG-VERSION:240
+3061786834:3:R:50, Imin:12, Idoubling:8
+3061788247:3:R:50, udp_sent:50
+3061789548:3:R:50, udp_recv:0
+3061791049:3:R:50, icmp_sent:57
+3061792645:3:R:50, icmp_recv:170
+3061794088:3:R:50, Leaf MODE: 2
+3072169683:1:Msg from Node: 5
+3110150616:1:Msg from Node: 3
+3120584246:1:Msg from Node: 4
+3120957791:8:R:51, DAG-VERSION:240
+3120959758:8:R:51, Imin:8, Idoubling:8
+3120961059:8:R:51, udp_sent:4
+3120962360:8:R:51, udp_recv:0
+3120963883:8:R:51, icmp_sent:60
+3120965479:8:R:51, icmp_recv:164
+3120966922:8:R:51, Leaf MODE: 0
+3121075491:11:R:51, DAG-VERSION:240
+3121077458:11:R:51, Imin:8, Idoubling:8
+3121078760:11:R:51, udp_sent:4
+3121080060:11:R:51, udp_recv:0
+3121081583:11:R:51, icmp_sent:48
+3121083068:11:R:51, icmp_recv:92
+3121084511:11:R:51, Leaf MODE: 0
+3121121204:2:R:51, DAG-VERSION:240
+3121123283:2:R:51, Imin:12, Idoubling:8
+3121124696:2:R:51, udp_sent:51
+3121125997:2:R:51, udp_recv:0
+3121127593:2:R:51, icmp_sent:108
+3121129189:2:R:51, icmp_recv:124
+3121130633:2:R:51, Leaf MODE: 2
+3121135718:6:R:51, DAG-VERSION:240
+3121137797:6:R:51, Imin:12, Idoubling:8
+3121139211:6:R:51, udp_sent:51
+3121140512:6:R:51, udp_recv:0
+3121142009:6:R:51, icmp_sent:93
+3121143493:6:R:51, icmp_recv:68
+3121144937:6:R:51, Leaf MODE: 2
+3121243532:4:R:51, DAG-VERSION:240
+3121245611:4:R:51, Imin:12, Idoubling:8
+3121247030:4:R:51, udp_sent:51
+3121248331:4:R:51, udp_recv:0
+3121249816:4:R:51, icmp_sent:73
+3121251412:4:R:51, icmp_recv:141
+3121252856:4:R:51, Leaf MODE: 2
+3121266314:1:R:51, DAG-VERSION:240
+3121268281:1:R:51, Imin:8, Idoubling:8
+3121269581:1:R:51, udp_sent:0
+3121271107:1:R:51, udp_recv:217
+3121272502:1:R:51, icmp_sent:1
+3121274100:1:R:51, icmp_recv:299
+3121275543:1:R:51, Leaf MODE: 0
+3121286801:7:R:51, DAG-VERSION:240
+3121288768:7:R:51, Imin:8, Idoubling:8
+3121290069:7:R:51, udp_sent:4
+3121291370:7:R:51, udp_recv:0
+3121292892:7:R:51, icmp_sent:49
+3121294377:7:R:51, icmp_recv:63
+3121295820:7:R:51, Leaf MODE: 0
+3121441502:10:R:51, DAG-VERSION:240
+3121443469:10:R:51, Imin:8, Idoubling:8
+3121444770:10:R:51, udp_sent:4
+3121446071:10:R:51, udp_recv:0
+3121447594:10:R:51, icmp_sent:53
+3121449190:10:R:51, icmp_recv:107
+3121450633:10:R:51, Leaf MODE: 0
+3121593508:9:R:51, DAG-VERSION:240
+3121595475:9:R:51, Imin:8, Idoubling:8
+3121596777:9:R:51, udp_sent:4
+3121598077:9:R:51, udp_recv:0
+3121599601:9:R:51, icmp_sent:56
+3121600193:5:R:51, DAG-VERSION:240
+3121601086:9:R:51, icmp_recv:72
+3121602272:5:R:51, Imin:12, Idoubling:8
+3121602529:9:R:51, Leaf MODE: 0
+3121603685:5:R:51, udp_sent:51
+3121604986:5:R:51, udp_recv:0
+3121606582:5:R:51, icmp_sent:124
+3121608178:5:R:51, icmp_recv:121
+3121609622:5:R:51, Leaf MODE: 2
+3121784424:3:R:51, DAG-VERSION:240
+3121786503:3:R:51, Imin:12, Idoubling:8
+3121787916:3:R:51, udp_sent:51
+3121789217:3:R:51, udp_recv:0
+3121790701:3:R:51, icmp_sent:58
+3121792298:3:R:51, icmp_recv:173
+3121793741:3:R:51, Leaf MODE: 2
+3138588163:1:Msg from Node: 3
+3142830927:1:Msg from Node: 2
+3146217043:1:Msg from Node: 4
+3150496243:1:Msg from Node: 11
+3164594431:1:Msg from Node: 6
+3171763898:1:Msg from Node: 5
+3180957808:8:R:52, DAG-VERSION:240
+3180959775:8:R:52, Imin:8, Idoubling:8
+3180961076:8:R:52, udp_sent:4
+3180962377:8:R:52, udp_recv:0
+3180963900:8:R:52, icmp_sent:61
+3180965496:8:R:52, icmp_recv:165
+3180966939:8:R:52, Leaf MODE: 0
+3181075483:11:R:52, DAG-VERSION:240
+3181077450:11:R:52, Imin:8, Idoubling:8
+3181078751:11:R:52, udp_sent:5
+3181080052:11:R:52, udp_recv:0
+3181081575:11:R:52, icmp_sent:49
+3181083059:11:R:52, icmp_recv:92
+3181084502:11:R:52, Leaf MODE: 0
+3181121557:2:R:52, DAG-VERSION:240
+3181123636:2:R:52, Imin:12, Idoubling:8
+3181125049:2:R:52, udp_sent:52
+3181126350:2:R:52, udp_recv:0
+3181127946:2:R:52, icmp_sent:109
+3181129542:2:R:52, icmp_recv:124
+3181130986:2:R:52, Leaf MODE: 2
+3181136089:6:R:52, DAG-VERSION:240
+3181138168:6:R:52, Imin:12, Idoubling:8
+3181139582:6:R:52, udp_sent:52
+3181140882:6:R:52, udp_recv:0
+3181142367:6:R:52, icmp_sent:94
+3181143851:6:R:52, icmp_recv:69
+3181145295:6:R:52, Leaf MODE: 2
+3181233772:4:R:52, DAG-VERSION:240
+3181235851:4:R:52, Imin:12, Idoubling:8
+3181237264:4:R:52, udp_sent:52
+3181238565:4:R:52, udp_recv:0
+3181240067:4:R:52, icmp_sent:73
+3181241664:4:R:52, icmp_recv:142
+3181243107:4:R:52, Leaf MODE: 2
+3181266311:1:R:52, DAG-VERSION:240
+3181268278:1:R:52, Imin:8, Idoubling:8
+3181269579:1:R:52, udp_sent:0
+3181271105:1:R:52, udp_recv:223
+3181272502:1:R:52, icmp_sent:1
+3181274100:1:R:52, icmp_recv:302
+3181275544:1:R:52, Leaf MODE: 0
+3181286799:7:R:52, DAG-VERSION:240
+3181288766:7:R:52, Imin:8, Idoubling:8
+3181290067:7:R:52, udp_sent:4
+3181291368:7:R:52, udp_recv:0
+3181292891:7:R:52, icmp_sent:50
+3181294376:7:R:52, icmp_recv:63
+3181295819:7:R:52, Leaf MODE: 0
+3181441519:10:R:52, DAG-VERSION:240
+3181443486:10:R:52, Imin:8, Idoubling:8
+3181444787:10:R:52, udp_sent:4
+3181446088:10:R:52, udp_recv:0
+3181447611:10:R:52, icmp_sent:54
+3181449207:10:R:52, icmp_recv:108
+3181450650:10:R:52, Leaf MODE: 0
+3181593516:9:R:52, DAG-VERSION:240
+3181595483:9:R:52, Imin:8, Idoubling:8
+3181596784:9:R:52, udp_sent:4
+3181598085:9:R:52, udp_recv:0
+3181599608:9:R:52, icmp_sent:57
+3181601093:9:R:52, icmp_recv:73
+3181602536:9:R:52, Leaf MODE: 0
+3181613026:5:R:52, DAG-VERSION:240
+3181615105:5:R:52, Imin:12, Idoubling:8
+3181616518:5:R:52, udp_sent:52
+3181617819:5:R:52, udp_recv:0
+3181619416:5:R:52, icmp_sent:125
+3181621012:5:R:52, icmp_recv:122
+3181622474:5:R:52, Leaf MODE: 2
+3181784771:3:R:52, DAG-VERSION:240
+3181786850:3:R:52, Imin:12, Idoubling:8
+3181788264:3:R:52, udp_sent:52
+3181789565:3:R:52, udp_recv:0
+3181791049:3:R:52, icmp_sent:58
+3181792645:3:R:52, icmp_recv:174
+3181794089:3:R:52, Leaf MODE: 2
+3196817985:1:Msg from Node: 5
+3202428054:1:Msg from Node: 4
+3209627426:1:Msg from Node: 3
+3232121417:1:Msg from Node: 2
+3240957799:8:R:53, DAG-VERSION:240
+3240959766:8:R:53, Imin:8, Idoubling:8
+3240961067:8:R:53, udp_sent:4
+3240962368:8:R:53, udp_recv:0
+3240963891:8:R:53, icmp_sent:64
+3240965487:8:R:53, icmp_recv:168
+3240966930:8:R:53, Leaf MODE: 0
+3241075474:11:R:53, DAG-VERSION:240
+3241077441:11:R:53, Imin:8, Idoubling:8
+3241078742:11:R:53, udp_sent:5
+3241080043:11:R:53, udp_recv:0
+3241081566:11:R:53, icmp_sent:50
+3241083051:11:R:53, icmp_recv:93
+3241084494:11:R:53, Leaf MODE: 0
+3241121204:2:R:53, DAG-VERSION:240
+3241123283:2:R:53, Imin:12, Idoubling:8
+3241124696:2:R:53, udp_sent:53
+3241125997:2:R:53, udp_recv:0
+3241127594:2:R:53, icmp_sent:110
+3241129190:2:R:53, icmp_recv:125
+3241130633:2:R:53, Leaf MODE: 2
+3241135759:6:R:53, DAG-VERSION:240
+3241137838:6:R:53, Imin:12, Idoubling:8
+3241139252:6:R:53, udp_sent:53
+3241140552:6:R:53, udp_recv:0
+3241142149:6:R:53, icmp_sent:100
+3241143634:6:R:53, icmp_recv:70
+3241145077:6:R:53, Leaf MODE: 2
+3241233441:4:R:53, DAG-VERSION:240
+3241235520:4:R:53, Imin:12, Idoubling:8
+3241236933:4:R:53, udp_sent:53
+3241238234:4:R:53, udp_recv:0
+3241239719:4:R:53, icmp_sent:74
+3241241316:4:R:53, icmp_recv:144
+3241242759:4:R:53, Leaf MODE: 2
+3241266312:1:R:53, DAG-VERSION:240
+3241268279:1:R:53, Imin:8, Idoubling:8
+3241269580:1:R:53, udp_sent:0
+3241271106:1:R:53, udp_recv:227
+3241272502:1:R:53, icmp_sent:1
+3241274100:1:R:53, icmp_recv:307
+3241275544:1:R:53, Leaf MODE: 0
+3241286790:7:R:53, DAG-VERSION:240
+3241288757:7:R:53, Imin:8, Idoubling:8
+3241290058:7:R:53, udp_sent:4
+3241291359:7:R:53, udp_recv:0
+3241292882:7:R:53, icmp_sent:50
+3241294367:7:R:53, icmp_recv:65
+3241295810:7:R:53, Leaf MODE: 0
+3241441510:10:R:53, DAG-VERSION:240
+3241443477:10:R:53, Imin:8, Idoubling:8
+3241444778:10:R:53, udp_sent:4
+3241446079:10:R:53, udp_recv:0
+3241447602:10:R:53, icmp_sent:55
+3241449198:10:R:53, icmp_recv:109
+3241450641:10:R:53, Leaf MODE: 0
+3241593497:9:R:53, DAG-VERSION:240
+3241595464:9:R:53, Imin:8, Idoubling:8
+3241596765:9:R:53, udp_sent:4
+3241598066:9:R:53, udp_recv:0
+3241599589:9:R:53, icmp_sent:57
+3241600173:5:R:53, DAG-VERSION:240
+3241601074:9:R:53, icmp_recv:74
+3241602252:5:R:53, Imin:12, Idoubling:8
+3241602517:9:R:53, Leaf MODE: 0
+3241603666:5:R:53, udp_sent:53
+3241604967:5:R:53, udp_recv:0
+3241606575:5:R:53, icmp_sent:125
+3241608172:5:R:53, icmp_recv:123
+3241609615:5:R:53, Leaf MODE: 2
+3241784422:3:R:53, DAG-VERSION:240
+3241786501:3:R:53, Imin:12, Idoubling:8
+3241787914:3:R:53, udp_sent:53
+3241789215:3:R:53, udp_recv:0
+3241790699:3:R:53, icmp_sent:59
+3241792296:3:R:53, icmp_recv:178
+3241793739:3:R:53, Leaf MODE: 2
+3255073065:1:Msg from Node: 10
+3258463925:1:Msg from Node: 2
+3261024646:1:Msg from Node: 6
+3277556982:1:Msg from Node: 3
+3283928044:1:Msg from Node: 4
+3300957789:8:R:54, DAG-VERSION:240
+3300959756:8:R:54, Imin:8, Idoubling:8
+3300961057:8:R:54, udp_sent:4
+3300962358:8:R:54, udp_recv:0
+3300963881:8:R:54, icmp_sent:65
+3300965478:8:R:54, icmp_recv:171
+3300966921:8:R:54, Leaf MODE: 0
+3301075474:11:R:54, DAG-VERSION:240
+3301077441:11:R:54, Imin:8, Idoubling:8
+3301078742:11:R:54, udp_sent:5
+3301080043:11:R:54, udp_recv:0
+3301081566:11:R:54, icmp_sent:51
+3301083051:11:R:54, icmp_recv:94
+3301084494:11:R:54, Leaf MODE: 0
+3301121557:2:R:54, DAG-VERSION:240
+3301123636:2:R:54, Imin:12, Idoubling:8
+3301125049:2:R:54, udp_sent:54
+3301126350:2:R:54, udp_recv:0
+3301127946:2:R:54, icmp_sent:111
+3301129543:2:R:54, icmp_recv:125
+3301130986:2:R:54, Leaf MODE: 2
+3301136093:6:R:54, DAG-VERSION:240
+3301138172:6:R:54, Imin:12, Idoubling:8
+3301139585:6:R:54, udp_sent:54
+3301140886:6:R:54, udp_recv:0
+3301142482:6:R:54, icmp_sent:101
+3301143967:6:R:54, icmp_recv:71
+3301145410:6:R:54, Leaf MODE: 2
+3301233773:4:R:54, DAG-VERSION:240
+3301235852:4:R:54, Imin:12, Idoubling:8
+3301237266:4:R:54, udp_sent:54
+3301238567:4:R:54, udp_recv:0
+3301240067:4:R:54, icmp_sent:74
+3301241664:4:R:54, icmp_recv:146
+3301243107:4:R:54, Leaf MODE: 2
+3301266313:1:R:54, DAG-VERSION:240
+3301268280:1:R:54, Imin:8, Idoubling:8
+3301269581:1:R:54, udp_sent:0
+3301271107:1:R:54, udp_recv:232
+3301272503:1:R:54, icmp_sent:1
+3301274101:1:R:54, icmp_recv:309
+3301275544:1:R:54, Leaf MODE: 0
+3301286800:7:R:54, DAG-VERSION:240
+3301288767:7:R:54, Imin:8, Idoubling:8
+3301290068:7:R:54, udp_sent:4
+3301291369:7:R:54, udp_recv:0
+3301292892:7:R:54, icmp_sent:51
+3301294377:7:R:54, icmp_recv:66
+3301295820:7:R:54, Leaf MODE: 0
+3301441493:10:R:54, DAG-VERSION:240
+3301443460:10:R:54, Imin:8, Idoubling:8
+3301444761:10:R:54, udp_sent:5
+3301446062:10:R:54, udp_recv:0
+3301447585:10:R:54, icmp_sent:56
+3301449182:10:R:54, icmp_recv:111
+3301450625:10:R:54, Leaf MODE: 0
+3301593497:9:R:54, DAG-VERSION:240
+3301595464:9:R:54, Imin:8, Idoubling:8
+3301596765:9:R:54, udp_sent:4
+3301598066:9:R:54, udp_recv:0
+3301599589:9:R:54, icmp_sent:57
+3301600543:5:R:54, DAG-VERSION:240
+3301601074:9:R:54, icmp_recv:74
+3301602517:9:R:54, Leaf MODE: 0
+3301602622:5:R:54, Imin:12, Idoubling:8
+3301604036:5:R:54, udp_sent:54
+3301605337:5:R:54, udp_recv:0
+3301606933:5:R:54, icmp_sent:126
+3301608529:5:R:54, icmp_recv:124
+3301609972:5:R:54, Leaf MODE: 2
+3301784773:3:R:54, DAG-VERSION:240
+3301786852:3:R:54, Imin:12, Idoubling:8
+3301788265:3:R:54, udp_sent:54
+3301789566:3:R:54, udp_recv:0
+3301791050:3:R:54, icmp_sent:60
+3301792647:3:R:54, icmp_recv:179
+3301794090:3:R:54, Leaf MODE: 2
+3309863692:1:Msg from Node: 8
+3312188638:1:Msg from Node: 6
+3333697673:1:Msg from Node: 3
+3334338885:1:Msg from Node: 2
+3341771756:1:Msg from Node: 4
+3360957792:8:R:55, DAG-VERSION:240
+3360959759:8:R:55, Imin:8, Idoubling:8
+3360961060:8:R:55, udp_sent:5
+3360962361:8:R:55, udp_recv:0
+3360963884:8:R:55, icmp_sent:67
+3360965480:8:R:55, icmp_recv:172
+3360966923:8:R:55, Leaf MODE: 0
+3361075464:11:R:55, DAG-VERSION:240
+3361077431:11:R:55, Imin:8, Idoubling:8
+3361078732:11:R:55, udp_sent:5
+3361080033:11:R:55, udp_recv:0
+3361081556:11:R:55, icmp_sent:51
+3361083041:11:R:55, icmp_recv:94
+3361084484:11:R:55, Leaf MODE: 0
+3361121204:2:R:55, DAG-VERSION:240
+3361123283:2:R:55, Imin:12, Idoubling:8
+3361124696:2:R:55, udp_sent:55
+3361125997:2:R:55, udp_recv:0
+3361127594:2:R:55, icmp_sent:111
+3361129190:2:R:55, icmp_recv:126
+3361130633:2:R:55, Leaf MODE: 2
+3361135759:6:R:55, DAG-VERSION:240
+3361137838:6:R:55, Imin:12, Idoubling:8
+3361139252:6:R:55, udp_sent:55
+3361140552:6:R:55, udp_recv:0
+3361142149:6:R:55, icmp_sent:103
+3361143634:6:R:55, icmp_recv:71
+3361145077:6:R:55, Leaf MODE: 2
+3361233461:4:R:55, DAG-VERSION:240
+3361235540:4:R:55, Imin:12, Idoubling:8
+3361236953:4:R:55, udp_sent:55
+3361238254:4:R:55, udp_recv:0
+3361239739:4:R:55, icmp_sent:76
+3361241335:4:R:55, icmp_recv:147
+3361242779:4:R:55, Leaf MODE: 2
+3361266303:1:R:55, DAG-VERSION:240
+3361268270:1:R:55, Imin:8, Idoubling:8
+3361269571:1:R:55, udp_sent:0
+3361271097:1:R:55, udp_recv:237
+3361272503:1:R:55, icmp_sent:1
+3361274101:1:R:55, icmp_recv:313
+3361275545:1:R:55, Leaf MODE: 0
+3361286790:7:R:55, DAG-VERSION:240
+3361288757:7:R:55, Imin:8, Idoubling:8
+3361290058:7:R:55, udp_sent:4
+3361291359:7:R:55, udp_recv:0
+3361292882:7:R:55, icmp_sent:51
+3361294367:7:R:55, icmp_recv:67
+3361295810:7:R:55, Leaf MODE: 0
+3361441493:10:R:55, DAG-VERSION:240
+3361443460:10:R:55, Imin:8, Idoubling:8
+3361444761:10:R:55, udp_sent:5
+3361446062:10:R:55, udp_recv:0
+3361447585:10:R:55, icmp_sent:57
+3361449182:10:R:55, icmp_recv:111
+3361450625:10:R:55, Leaf MODE: 0
+3361593517:9:R:55, DAG-VERSION:240
+3361595484:9:R:55, Imin:8, Idoubling:8
+3361596785:9:R:55, udp_sent:4
+3361598086:9:R:55, udp_recv:0
+3361599609:9:R:55, icmp_sent:59
+3361600173:5:R:55, DAG-VERSION:240
+3361601094:9:R:55, icmp_recv:74
+3361602252:5:R:55, Imin:12, Idoubling:8
+3361602537:9:R:55, Leaf MODE: 0
+3361603666:5:R:55, udp_sent:55
+3361604967:5:R:55, udp_recv:0
+3361606575:5:R:55, icmp_sent:126
+3361608172:5:R:55, icmp_recv:124
+3361609615:5:R:55, Leaf MODE: 2
+3361784402:3:R:55, DAG-VERSION:240
+3361786481:3:R:55, Imin:12, Idoubling:8
+3361787895:3:R:55, udp_sent:55
+3361789196:3:R:55, udp_recv:0
+3361790693:3:R:55, icmp_sent:60
+3361792289:3:R:55, icmp_recv:180
+3361793732:3:R:55, Leaf MODE: 2
+3377139059:1:Msg from Node: 9
+3377268376:1:Msg from Node: 2
+3388025659:1:Msg from Node: 3
+3394623358:1:Msg from Node: 4
+3403165459:1:Msg from Node: 6
+3420957782:8:R:56, DAG-VERSION:240
+3420959749:8:R:56, Imin:8, Idoubling:8
+3420961050:8:R:56, udp_sent:5
+3420962351:8:R:56, udp_recv:0
+3420963874:8:R:56, icmp_sent:68
+3420965471:8:R:56, icmp_recv:172
+3420966914:8:R:56, Leaf MODE: 0
+3421075474:11:R:56, DAG-VERSION:240
+3421077441:11:R:56, Imin:8, Idoubling:8
+3421078742:11:R:56, udp_sent:5
+3421080043:11:R:56, udp_recv:0
+3421081566:11:R:56, icmp_sent:52
+3421083051:11:R:56, icmp_recv:94
+3421084494:11:R:56, Leaf MODE: 0
+3421121576:2:R:56, DAG-VERSION:240
+3421123655:2:R:56, Imin:12, Idoubling:8
+3421125068:2:R:56, udp_sent:56
+3421126369:2:R:56, udp_recv:0
+3421127965:2:R:56, icmp_sent:113
+3421129562:2:R:56, icmp_recv:126
+3421131005:2:R:56, Leaf MODE: 2
+3421136093:6:R:56, DAG-VERSION:240
+3421138172:6:R:56, Imin:12, Idoubling:8
+3421139585:6:R:56, udp_sent:56
+3421140886:6:R:56, udp_recv:0
+3421142482:6:R:56, icmp_sent:104
+3421143967:6:R:56, icmp_recv:71
+3421145410:6:R:56, Leaf MODE: 2
+3421233774:4:R:56, DAG-VERSION:240
+3421235853:4:R:56, Imin:12, Idoubling:8
+3421237266:4:R:56, udp_sent:56
+3421238567:4:R:56, udp_recv:0
+3421240067:4:R:56, icmp_sent:76
+3421241664:4:R:56, icmp_recv:148
+3421243108:4:R:56, Leaf MODE: 2
+3421266303:1:R:56, DAG-VERSION:240
+3421268270:1:R:56, Imin:8, Idoubling:8
+3421269571:1:R:56, udp_sent:0
+3421271096:1:R:56, udp_recv:242
+3421272503:1:R:56, icmp_sent:1
+3421274101:1:R:56, icmp_recv:316
+3421275544:1:R:56, Leaf MODE: 0
+3421286810:7:R:56, DAG-VERSION:240
+3421288777:7:R:56, Imin:8, Idoubling:8
+3421290078:7:R:56, udp_sent:4
+3421291379:7:R:56, udp_recv:0
+3421292902:7:R:56, icmp_sent:53
+3421294386:7:R:56, icmp_recv:67
+3421295829:7:R:56, Leaf MODE: 0
+3421441483:10:R:56, DAG-VERSION:240
+3421443450:10:R:56, Imin:8, Idoubling:8
+3421444752:10:R:56, udp_sent:5
+3421446052:10:R:56, udp_recv:0
+3421447576:10:R:56, icmp_sent:57
+3421449172:10:R:56, icmp_recv:112
+3421450615:10:R:56, Leaf MODE: 0
+3421593480:9:R:56, DAG-VERSION:240
+3421595447:9:R:56, Imin:8, Idoubling:8
+3421596749:9:R:56, udp_sent:5
+3421598049:9:R:56, udp_recv:0
+3421599573:9:R:56, icmp_sent:59
+3421600546:5:R:56, DAG-VERSION:240
+3421601058:9:R:56, icmp_recv:74
+3421602501:9:R:56, Leaf MODE: 0
+3421602625:5:R:56, Imin:12, Idoubling:8
+3421604039:5:R:56, udp_sent:56
+3421605339:5:R:56, udp_recv:0
+3421606935:5:R:56, icmp_sent:127
+3421608532:5:R:56, icmp_recv:125
+3421609975:5:R:56, Leaf MODE: 2
+3421784773:3:R:56, DAG-VERSION:240
+3421786852:3:R:56, Imin:12, Idoubling:8
+3421788265:3:R:56, udp_sent:56
+3421789566:3:R:56, udp_recv:0
+3421791050:3:R:56, icmp_sent:62
+3421792647:3:R:56, icmp_recv:181
+3421794090:3:R:56, Leaf MODE: 2
+3429729503:1:Msg from Node: 2
+3432305898:1:Msg from Node: 6
+3457552883:1:Msg from Node: 5
+3475560939:1:Msg from Node: 4
+3480957773:8:R:57, DAG-VERSION:240
+3480959740:8:R:57, Imin:8, Idoubling:8
+3480961041:8:R:57, udp_sent:5
+3480962342:8:R:57, udp_recv:0
+3480963865:8:R:57, icmp_sent:68
+3480965462:8:R:57, icmp_recv:174
+3480966905:8:R:57, Leaf MODE: 0
+3481075465:11:R:57, DAG-VERSION:240
+3481077432:11:R:57, Imin:8, Idoubling:8
+3481078733:11:R:57, udp_sent:5
+3481080034:11:R:57, udp_recv:0
+3481081557:11:R:57, icmp_sent:52
+3481083042:11:R:57, icmp_recv:97
+3481084485:11:R:57, Leaf MODE: 0
+3481121224:2:R:57, DAG-VERSION:240
+3481123303:2:R:57, Imin:12, Idoubling:8
+3481124716:2:R:57, udp_sent:57
+3481126017:2:R:57, udp_recv:0
+3481127614:2:R:57, icmp_sent:115
+3481129210:2:R:57, icmp_recv:127
+3481130654:2:R:57, Leaf MODE: 2
+3481135741:6:R:57, DAG-VERSION:240
+3481137820:6:R:57, Imin:12, Idoubling:8
+3481139233:6:R:57, udp_sent:57
+3481140534:6:R:57, udp_recv:0
+3481142130:6:R:57, icmp_sent:105
+3481143615:6:R:57, icmp_recv:71
+3481145058:6:R:57, Leaf MODE: 2
+3481233442:4:R:57, DAG-VERSION:240
+3481235521:4:R:57, Imin:12, Idoubling:8
+3481236934:4:R:57, udp_sent:57
+3481238235:4:R:57, udp_recv:0
+3481239720:4:R:57, icmp_sent:77
+3481241317:4:R:57, icmp_recv:150
+3481242761:4:R:57, Leaf MODE: 2
+3481266314:1:R:57, DAG-VERSION:240
+3481268281:1:R:57, Imin:8, Idoubling:8
+3481269581:1:R:57, udp_sent:0
+3481271107:1:R:57, udp_recv:246
+3481272503:1:R:57, icmp_sent:1
+3481274101:1:R:57, icmp_recv:318
+3481275544:1:R:57, Leaf MODE: 0
+3481286791:7:R:57, DAG-VERSION:240
+3481288758:7:R:57, Imin:8, Idoubling:8
+3481290059:7:R:57, udp_sent:4
+3481291360:7:R:57, udp_recv:0
+3481292883:7:R:57, icmp_sent:53
+3481294368:7:R:57, icmp_recv:67
+3481295811:7:R:57, Leaf MODE: 0
+3481441494:10:R:57, DAG-VERSION:240
+3481443461:10:R:57, Imin:8, Idoubling:8
+3481444762:10:R:57, udp_sent:5
+3481446063:10:R:57, udp_recv:0
+3481447586:10:R:57, icmp_sent:58
+3481449183:10:R:57, icmp_recv:114
+3481450626:10:R:57, Leaf MODE: 0
+3481593491:9:R:57, DAG-VERSION:240
+3481595458:9:R:57, Imin:8, Idoubling:8
+3481596759:9:R:57, udp_sent:5
+3481598060:9:R:57, udp_recv:0
+3481599583:9:R:57, icmp_sent:60
+3481600195:5:R:57, DAG-VERSION:240
+3481601068:9:R:57, icmp_recv:74
+3481602274:5:R:57, Imin:12, Idoubling:8
+3481602511:9:R:57, Leaf MODE: 0
+3481603687:5:R:57, udp_sent:57
+3481604988:5:R:57, udp_recv:0
+3481606584:5:R:57, icmp_sent:128
+3481608180:5:R:57, icmp_recv:127
+3481609624:5:R:57, Leaf MODE: 2
+3481784424:3:R:57, DAG-VERSION:240
+3481786503:3:R:57, Imin:12, Idoubling:8
+3481787916:3:R:57, udp_sent:57
+3481789217:3:R:57, udp_recv:0
+3481790701:3:R:57, icmp_sent:63
+3481792298:3:R:57, icmp_recv:185
+3481793741:3:R:57, Leaf MODE: 2
+3486098394:1:Msg from Node: 7
+3501760616:1:Msg from Node: 2
+3502052676:1:Msg from Node: 5
+3503291180:1:Msg from Node: 3
+3525548320:1:Msg from Node: 6
+3540957784:8:R:58, DAG-VERSION:240
+3540959751:8:R:58, Imin:8, Idoubling:8
+3540961052:8:R:58, udp_sent:5
+3540962353:8:R:58, udp_recv:0
+3540963876:8:R:58, icmp_sent:69
+3540965472:8:R:58, icmp_recv:175
+3540966915:8:R:58, Leaf MODE: 0
+3541075485:11:R:58, DAG-VERSION:240
+3541077452:11:R:58, Imin:8, Idoubling:8
+3541078753:11:R:58, udp_sent:5
+3541080054:11:R:58, udp_recv:0
+3541081577:11:R:58, icmp_sent:54
+3541083062:11:R:58, icmp_recv:97
+3541084505:11:R:58, Leaf MODE: 0
+3541121539:2:R:58, DAG-VERSION:240
+3541123618:2:R:58, Imin:12, Idoubling:8
+3541125031:2:R:58, udp_sent:58
+3541126332:2:R:58, udp_recv:0
+3541127941:2:R:58, icmp_sent:115
+3541129537:2:R:58, icmp_recv:127
+3541130981:2:R:58, Leaf MODE: 2
+3541136075:6:R:58, DAG-VERSION:240
+3541138154:6:R:58, Imin:12, Idoubling:8
+3541139567:6:R:58, udp_sent:58
+3541140868:6:R:58, udp_recv:0
+3541142477:6:R:58, icmp_sent:105
+3541143962:6:R:58, icmp_recv:71
+3541145405:6:R:58, Leaf MODE: 2
+3541233776:4:R:58, DAG-VERSION:240
+3541235855:4:R:58, Imin:12, Idoubling:8
+3541237269:4:R:58, udp_sent:58
+3541238570:4:R:58, udp_recv:0
+3541240067:4:R:58, icmp_sent:77
+3541241664:4:R:58, icmp_recv:150
+3541243108:4:R:58, Leaf MODE: 2
+3541266304:1:R:58, DAG-VERSION:240
+3541268271:1:R:58, Imin:8, Idoubling:8
+3541269572:1:R:58, udp_sent:0
+3541271097:1:R:58, udp_recv:251
+3541272502:1:R:58, icmp_sent:1
+3541274101:1:R:58, icmp_recv:319
+3541275544:1:R:58, Leaf MODE: 0
+3541286785:7:R:58, DAG-VERSION:240
+3541288752:7:R:58, Imin:8, Idoubling:8
+3541290053:7:R:58, udp_sent:5
+3541291354:7:R:58, udp_recv:0
+3541292877:7:R:58, icmp_sent:54
+3541294361:7:R:58, icmp_recv:68
+3541295804:7:R:58, Leaf MODE: 0
+3541441485:10:R:58, DAG-VERSION:240
+3541443452:10:R:58, Imin:8, Idoubling:8
+3541444753:10:R:58, udp_sent:5
+3541446054:10:R:58, udp_recv:0
+3541447577:10:R:58, icmp_sent:58
+3541449174:10:R:58, icmp_recv:114
+3541450617:10:R:58, Leaf MODE: 0
+3541593482:9:R:58, DAG-VERSION:240
+3541595449:9:R:58, Imin:8, Idoubling:8
+3541596750:9:R:58, udp_sent:5
+3541598051:9:R:58, udp_recv:0
+3541599574:9:R:58, icmp_sent:60
+3541600529:5:R:58, DAG-VERSION:240
+3541601059:9:R:58, icmp_recv:74
+3541602502:9:R:58, Leaf MODE: 0
+3541602608:5:R:58, Imin:12, Idoubling:8
+3541604022:5:R:58, udp_sent:58
+3541605323:5:R:58, udp_recv:0
+3541606931:5:R:58, icmp_sent:128
+3541608528:5:R:58, icmp_recv:127
+3541609971:5:R:58, Leaf MODE: 2
+3541784757:3:R:58, DAG-VERSION:240
+3541786836:3:R:58, Imin:12, Idoubling:8
+3541788249:3:R:58, udp_sent:58
+3541789550:3:R:58, udp_recv:0
+3541791049:3:R:58, icmp_sent:63
+3541792645:3:R:58, icmp_recv:185
+3541794088:3:R:58, Leaf MODE: 2
+3545698126:1:Msg from Node: 2
+3556885048:1:Msg from Node: 3
+3572896159:1:Msg from Node: 5
+3576173148:1:Msg from Node: 6
+3591029685:1:Msg from Node: 4
+3600957876:8:R:59, DAG-VERSION:240
+3600959843:8:R:59, Imin:8, Idoubling:8
+3600961144:8:R:59, udp_sent:5
+3600962445:8:R:59, udp_recv:0
+3600963929:8:R:59, icmp_sent:70
+3600965526:8:R:59, icmp_recv:176
+3600966969:8:R:59, Leaf MODE: 0
+3601075568:11:R:59, DAG-VERSION:240
+3601077535:11:R:59, Imin:8, Idoubling:8
+3601078836:11:R:59, udp_sent:5
+3601080137:11:R:59, udp_recv:0
+3601081621:11:R:59, icmp_sent:54
+3601083106:11:R:59, icmp_recv:97
+3601084549:11:R:59, Leaf MODE: 0
+3601121220:2:R:59, DAG-VERSION:240
+3601123299:2:R:59, Imin:12, Idoubling:8
+3601124713:2:R:59, udp_sent:59
+3601126014:2:R:59, udp_recv:0
+3601127610:2:R:59, icmp_sent:115
+3601129206:2:R:59, icmp_recv:128
+3601130650:2:R:59, Leaf MODE: 2
+3601145820:6:R:59, DAG-VERSION:240
+3601147899:6:R:59, Imin:12, Idoubling:8
+3601149328:6:R:59, udp_sent:59
+3601150629:6:R:59, udp_recv:0
+3601152225:6:R:59, icmp_sent:107
+3601153710:6:R:59, icmp_recv:71
+3601155154:6:R:59, Leaf MODE: 2
+3601233458:4:R:59, DAG-VERSION:240
+3601235537:4:R:59, Imin:12, Idoubling:8
+3601236951:4:R:59, udp_sent:59
+3601238252:4:R:59, udp_recv:0
+3601239736:4:R:59, icmp_sent:78
+3601241334:4:R:59, icmp_recv:150
+3601242777:4:R:59, Leaf MODE: 2
+3601266321:1:R:59, DAG-VERSION:240
+3601268288:1:R:59, Imin:8, Idoubling:8
+3601269589:1:R:59, udp_sent:0
+3601271115:1:R:59, udp_recv:256
+3601272502:1:R:59, icmp_sent:1
+3601274099:1:R:59, icmp_recv:320
+3601275542:1:R:59, Leaf MODE: 0
+3601286878:7:R:59, DAG-VERSION:240
+3601288845:7:R:59, Imin:8, Idoubling:8
+3601290146:7:R:59, udp_sent:5
+3601291447:7:R:59, udp_recv:0
+3601292931:7:R:59, icmp_sent:54
+3601294416:7:R:59, icmp_recv:68
+3601295859:7:R:59, Leaf MODE: 0
+3601441607:10:R:59, DAG-VERSION:240
+3601443574:10:R:59, Imin:8, Idoubling:8
+3601444876:10:R:59, udp_sent:5
+3601446176:10:R:59, udp_recv:0
+3601447691:10:R:59, icmp_sent:60
+3601449287:10:R:59, icmp_recv:114
+3601450731:10:R:59, Leaf MODE: 0
+3601593593:9:R:59, DAG-VERSION:240
+3601595561:9:R:59, Imin:8, Idoubling:8
+3601596862:9:R:59, udp_sent:5
+3601598162:9:R:59, udp_recv:0
+3601599647:9:R:59, icmp_sent:61
+3601600211:5:R:59, DAG-VERSION:240
+3601601132:9:R:59, icmp_recv:75
+3601602290:5:R:59, Imin:12, Idoubling:8
+3601602575:9:R:59, Leaf MODE: 0
+3601603704:5:R:59, udp_sent:59
+3601605005:5:R:59, udp_recv:0
+3601606601:5:R:59, icmp_sent:129
+3601608197:5:R:59, icmp_recv:128
+3601609641:5:R:59, Leaf MODE: 2
+3601784420:3:R:59, DAG-VERSION:240
+3601786499:3:R:59, Imin:12, Idoubling:8
+3601787913:3:R:59, udp_sent:59
+3601789213:3:R:59, udp_recv:0
+3601790698:3:R:59, icmp_sent:63
+3601792294:3:R:59, icmp_recv:185
+3601793738:3:R:59, Leaf MODE: 2
+3607463159:1:Msg from Node: 3
+3612810668:1:Msg from Node: 4
+3633365783:1:Msg from Node: 9
+3639271145:1:Msg from Node: 5
+3658002873:1:Msg from Node: 2
+3660957818:8:R:60, DAG-VERSION:240
+3660959785:8:R:60, Imin:8, Idoubling:8
+3660961086:8:R:60, udp_sent:5
+3660962387:8:R:60, udp_recv:0
+3660963909:8:R:60, icmp_sent:71
+3660965505:8:R:60, icmp_recv:176
+3660966948:8:R:60, Leaf MODE: 0
+3661075509:11:R:60, DAG-VERSION:240
+3661077476:11:R:60, Imin:8, Idoubling:8
+3661078777:11:R:60, udp_sent:5
+3661080078:11:R:60, udp_recv:0
+3661081599:11:R:60, icmp_sent:55
+3661083084:11:R:60, icmp_recv:97
+3661084527:11:R:60, Leaf MODE: 0
+3661121555:2:R:60, DAG-VERSION:240
+3661123634:2:R:60, Imin:12, Idoubling:8
+3661125047:2:R:60, udp_sent:60
+3661126348:2:R:60, udp_recv:0
+3661127945:2:R:60, icmp_sent:116
+3661129541:2:R:60, icmp_recv:128
+3661130984:2:R:60, Leaf MODE: 2
+3661136090:6:R:60, DAG-VERSION:240
+3661138169:6:R:60, Imin:12, Idoubling:8
+3661139583:6:R:60, udp_sent:60
+3661140884:6:R:60, udp_recv:0
+3661142480:6:R:60, icmp_sent:108
+3661143965:6:R:60, icmp_recv:71
+3661145408:6:R:60, Leaf MODE: 2
+3661233792:4:R:60, DAG-VERSION:240
+3661235871:4:R:60, Imin:12, Idoubling:8
+3661237285:4:R:60, udp_sent:60
+3661238585:4:R:60, udp_recv:0
+3661240070:4:R:60, icmp_sent:79
+3661241668:4:R:60, icmp_recv:150
+3661243111:4:R:60, Leaf MODE: 2
+3661266303:1:R:60, DAG-VERSION:240
+3661268270:1:R:60, Imin:8, Idoubling:8
+3661269571:1:R:60, udp_sent:0
+3661271097:1:R:60, udp_recv:261
+3661272502:1:R:60, icmp_sent:1
+3661274099:1:R:60, icmp_recv:323
+3661275542:1:R:60, Leaf MODE: 0
+3661286809:7:R:60, DAG-VERSION:240
+3661288776:7:R:60, Imin:8, Idoubling:8
+3661290077:7:R:60, udp_sent:5
+3661291378:7:R:60, udp_recv:0
+3661292901:7:R:60, icmp_sent:54
+3661294386:7:R:60, icmp_recv:69
+3661295829:7:R:60, Leaf MODE: 0
+3661441518:10:R:60, DAG-VERSION:240
+3661443485:10:R:60, Imin:8, Idoubling:8
+3661444786:10:R:60, udp_sent:5
+3661446087:10:R:60, udp_recv:0
+3661447610:10:R:60, icmp_sent:60
+3661449207:10:R:60, icmp_recv:114
+3661450650:10:R:60, Leaf MODE: 0
+3661593499:9:R:60, DAG-VERSION:240
+3661595466:9:R:60, Imin:8, Idoubling:8
+3661596767:9:R:60, udp_sent:6
+3661598068:9:R:60, udp_recv:0
+3661599591:9:R:60, icmp_sent:62
+3661600526:5:R:60, DAG-VERSION:240
+3661601076:9:R:60, icmp_recv:75
+3661602519:9:R:60, Leaf MODE: 0
+3661602605:5:R:60, Imin:12, Idoubling:8
+3661604018:5:R:60, udp_sent:60
+3661605319:5:R:60, udp_recv:0
+3661606932:5:R:60, icmp_sent:129
+3661608528:5:R:60, icmp_recv:129
+3661609971:5:R:60, Leaf MODE: 2
+3661784794:3:R:60, DAG-VERSION:240
+3661786873:3:R:60, Imin:12, Idoubling:8
+3661788287:3:R:60, udp_sent:60
+3661789588:3:R:60, udp_recv:0
+3661791072:3:R:60, icmp_sent:65
+3661792668:3:R:60, icmp_recv:185
+3661794112:3:R:60, Leaf MODE: 2
+3672227913:1:Msg from Node: 6
+3673740117:1:Msg from Node: 5
+3689830753:1:Msg from Node: 2
+3700287496:1:Msg from Node: 4
+3708424173:1:Msg from Node: 3
+3712449410:1:Msg from Node: 10
+TEST TIMEOUT
+TEST FAILED
+Test ended at simulation time: 3720000000

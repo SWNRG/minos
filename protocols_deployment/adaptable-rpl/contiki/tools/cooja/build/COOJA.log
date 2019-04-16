@@ -1,0 +1,6 @@
+[17:11:33 - AWT-EventQueue-0] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[17:11:33 - AWT-EventQueue-0] [Cooja.java:2886] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[17:11:46 - Thread-0] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[17:11:49 - AWT-EventQueue-0] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[17:12:16 - AWT-EventQueue-0] [CompileContiki.java:140] [INFO] - > make udp-server-A.z1 TARGET=z1 
+[17:12:22 - Thread-0] [Simulation.java:709] [FATAL] - Mote type was not created: org.contikios.cooja.mspmote.Z1MoteType

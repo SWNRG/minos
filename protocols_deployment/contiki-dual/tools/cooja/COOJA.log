@@ -1,0 +1,41 @@
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux.config
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:2886] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:4260] [WARN] - Replaced [APPS_DIR]/mrm with /home/user/tools/cooja/apps/mrm (default: ../../../tools/cooja/apps), but could not find it. This does not have to be an error, as the file might be created later.
+[14:36:01 - AWT-EventQueue-0] [ProjectConfig.java:240] [WARN] - Trying to import non-existant project configuration: /home/user/tools/cooja/apps/mrm/cooja.config
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:4260] [WARN] - Replaced [APPS_DIR]/mspsim with /home/user/tools/cooja/apps/mspsim (default: ../../../tools/cooja/apps), but could not find it. This does not have to be an error, as the file might be created later.
+[14:36:01 - AWT-EventQueue-0] [ProjectConfig.java:240] [WARN] - Trying to import non-existant project configuration: /home/user/tools/cooja/apps/mspsim/cooja.config
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:4260] [WARN] - Replaced [APPS_DIR]/avrora with /home/user/tools/cooja/apps/avrora (default: ../../../tools/cooja/apps), but could not find it. This does not have to be an error, as the file might be created later.
+[14:36:01 - AWT-EventQueue-0] [ProjectConfig.java:240] [WARN] - Trying to import non-existant project configuration: /home/user/tools/cooja/apps/avrora/cooja.config
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:4260] [WARN] - Replaced [APPS_DIR]/serial_socket with /home/user/tools/cooja/apps/serial_socket (default: ../../../tools/cooja/apps), but could not find it. This does not have to be an error, as the file might be created later.
+[14:36:01 - AWT-EventQueue-0] [ProjectConfig.java:240] [WARN] - Trying to import non-existant project configuration: /home/user/tools/cooja/apps/serial_socket/cooja.config
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:4260] [WARN] - Replaced [APPS_DIR]/collect-view with /home/user/tools/cooja/apps/collect-view (default: ../../../tools/cooja/apps), but could not find it. This does not have to be an error, as the file might be created later.
+[14:36:01 - AWT-EventQueue-0] [ProjectConfig.java:240] [WARN] - Trying to import non-existant project configuration: /home/user/tools/cooja/apps/collect-view/cooja.config
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:4260] [WARN] - Replaced [APPS_DIR]/powertracker with /home/user/tools/cooja/apps/powertracker (default: ../../../tools/cooja/apps), but could not find it. This does not have to be an error, as the file might be created later.
+[14:36:01 - AWT-EventQueue-0] [ProjectConfig.java:240] [WARN] - Trying to import non-existant project configuration: /home/user/tools/cooja/apps/powertracker/cooja.config
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:4260] [WARN] - Replaced [APPS_DIR]/serial2pty with /home/user/tools/cooja/apps/serial2pty (default: ../../../tools/cooja/apps), but could not find it. This does not have to be an error, as the file might be created later.
+[14:36:01 - AWT-EventQueue-0] [ProjectConfig.java:240] [WARN] - Trying to import non-existant project configuration: /home/user/tools/cooja/apps/serial2pty/cooja.config
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:4260] [WARN] - Replaced [APPS_DIR]/mobility with /home/user/tools/cooja/apps/mobility (default: ../../../tools/cooja/apps), but could not find it. This does not have to be an error, as the file might be created later.
+[14:36:01 - AWT-EventQueue-0] [ProjectConfig.java:240] [WARN] - Trying to import non-existant project configuration: /home/user/tools/cooja/apps/mobility/cooja.config
+[14:36:01 - AWT-EventQueue-0] [Cooja.java:436] [FATAL] - Error when loading extensions: Error when loading extension: Project directory does not exist: /home/user/tools/cooja/apps/mrm
+org.contikios.cooja.Cooja$ParseProjectsException: Error when loading extension: Project directory does not exist: /home/user/tools/cooja/apps/mrm
+	at org.contikios.cooja.Cooja.reparseProjectConfig(Cooja.java:1528)
+	at org.contikios.cooja.Cooja.<init>(Cooja.java:434)
+	at org.contikios.cooja.Cooja$30.run(Cooja.java:3322)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.FileNotFoundException: Project directory does not exist: /home/user/tools/cooja/apps/mrm
+	at org.contikios.cooja.ProjectConfig.appendProjectDir(ProjectConfig.java:142)
+	at org.contikios.cooja.Cooja.reparseProjectConfig(Cooja.java:1525)
+	... 16 more

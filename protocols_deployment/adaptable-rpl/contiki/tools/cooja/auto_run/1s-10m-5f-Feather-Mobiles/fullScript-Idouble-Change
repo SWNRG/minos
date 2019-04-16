@@ -1,0 +1,49 @@
+#!/bin/bash
+
+mobPer=60 #mobile Period
+fixPer=60 # fixed station Period
+mobId=8 # mobile station Idouble - Usually unchanged
+
+
+#delete old log files if any
+rm COOJA.testlog
+rm COOJA.log
+
+#start running ALL avaliable csc files
+for fid in {8..8}
+   do
+      initDir='initLogs-''-MobP='"$mobPer"'-FixP='"$fixPer"'FixId='"$fid"
+      logDir='logs-''-MobP='"$mobPer"'-FixP='"$fixPer"'FixId='"$fid"
+      mkdir $initDir
+      mkdir $logDir
+            
+      for filename in *.csc ;
+         do
+            echo "Passing Idouble in fixed parameter: " $fid
+            (cd ../../../../examples/ipv6/coral-rpl-upd && exec python ./changeParams.py -mp $mobPer -fp $fixPer -fi $fid -mi $mobId) # be careful, we need the parentheses 
+              
+            echo "running scenario: " $filename
+				java -Xmx4096m -jar ../../../../tools/cooja/dist/cooja.jar -nogui="$filename" -contiki='../../../..'
+				cp COOJA.testlog "$initDir"'/'"$filename"'.log' 
+				
+				./createALLlogs-new.py -r $initDir -w $logDir
+				rm COOJA.testlog
+				rm COOJA.log
+			done	
+
+			echo "creating graphs"
+
+         cp ./auto-PDR.plt "$logDir"
+         cp ./auto-OVERHEAD.plt "$logDir"
+
+         # in case you want to re-create graphs, run this inside each folder
+         cp ./createGraphsAgain $logDir
+
+         #go into the folder ./logs and create the above graphs
+         cd $logDir
+         ./createGraphsAgain
+         cd ..
+   done
+   
+#copy all PDR graphs inside folder 1.allGraphsFolder
+./getAllGraphs.py

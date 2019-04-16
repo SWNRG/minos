@@ -1,0 +1,18 @@
+All scripts related to automating extraction of data from cooja running simulations of WSNs with fixed and mobile nodes
+
+
+Adaptable: All static nodes (sink also) change Imin from the beggining
+Dynamic: Control Mechanism. All statics change Imin at second 30
+Default: Nothing changes
+
+fullScript-Idouble-Change : Plays with Idouble ONLY
+fullScript-various-Periods: plays with Period AND Idouble
+Note: Imin is not part of this since it is different for statics/mobile nodes
+
+File fullScript-various-Periods-ONLY-4-RECREATE has comments on ALL Executables.
+It only needs:
+1. Input folder (iL*)
+2. periods of both mobile & static nodes
+It will create all graphs and folders
+Good for testing
+

@@ -1,0 +1,1415 @@
+# Position data for simulation of WSN nodes
+# Automatically generated
+# Version: 0.10, 2012-may-02
+# Author: Marcus Lundén, SICS
+# email: marcus.lunden@gmail.com
+#
+# Model used: Random Waypoint model
+# Number of nodes: 5
+# Time [s]: 7200.0 seconds
+# Min speed [m/s]: 1.0
+# Max speed [m/s]: 4.0
+# Min pause time [s]: 2.0
+# Max pause time [s]: 10.0
+# Currently disregarding the first 10.0 seconds
+# Resolution [s]: 0.2
+# Maximum X-size [m]: 175.0
+# Maximum Y-size [m]: 150.0
+#
+#==========================================
+
+
+ Connectivity matrix at simulation start.
+Node with lowest index is in the top left corner.
+Legend: 2 means IN range, 1 means Interference range, 0 means out of range.
+Eg. [1][3]==2 means that nodes 1 and 3 are in range of eachother.
+
+#NONODES: 5
+
+#CONNSTART
+[[0 0 0 2 0]
+ [0 0 2 0 0]
+ [0 0 0 0 0]
+ [0 0 0 0 0]
+ [0 0 0 0 0]]
+#CONNEND
+
+
+#STATSTART
+6.2		3	4   IN range
+10.6		1	4   OUT OF range
+11.8		1	5   IN range
+17.6		2	3   OUT OF range
+27.4		2	4   IN range
+33.8		1	3   IN range
+36.4		3	4   OUT OF range
+51.0		1	2   IN range
+52.4		1	3   OUT OF range
+54.2		2	4   OUT OF range
+82.6		1	2   OUT OF range
+83.0		2	4   IN range
+85.6		2	5   IN range
+89.8		1	3   IN range
+90.2		2	5   OUT OF range
+98.2		3	5   IN range
+108.8		1	5   OUT OF range
+116.0		2	4   OUT OF range
+116.2		1	3   OUT OF range
+124.6		3	4   IN range
+134.0		2	3   IN range
+135.8		3	4   OUT OF range
+141.4		3	5   OUT OF range
+145.4		2	4   IN range
+145.6		3	5   IN range
+146.8		1	4   IN range
+148.2		1	5   IN range
+149.0		2	5   IN range
+151.4		1	2   IN range
+156.6		2	3   OUT OF range
+158.6		3	5   OUT OF range
+161.4		1	3   IN range
+163.4		1	4   OUT OF range
+164.4		4	5   IN range
+168.8		1	2   OUT OF range
+175.2		1	5   OUT OF range
+180.0		2	5   OUT OF range
+190.6		4	5   OUT OF range
+198.4		1	3   OUT OF range
+215.2		2	4   OUT OF range
+241.0		3	4   IN range
+249.4		1	2   IN range
+252.6		2	5   IN range
+258.0		1	5   IN range
+259.8		1	5   OUT OF range
+260.6		3	4   OUT OF range
+272.8		1	4   IN range
+278.0		3	4   IN range
+283.4		1	4   OUT OF range
+285.6		2	3   IN range
+287.2		3	4   OUT OF range
+293.8		3	5   IN range
+301.4		2	3   OUT OF range
+306.8		1	5   IN range
+310.0		3	5   OUT OF range
+313.4		2	5   OUT OF range
+313.6		2	5   IN range
+336.0		1	3   IN range
+338.2		1	5   OUT OF range
+341.4		1	2   OUT OF range
+365.6		4	5   IN range
+373.4		1	3   OUT OF range
+374.6		1	4   IN range
+375.6		1	5   IN range
+375.8		2	5   OUT OF range
+381.8		2	4   IN range
+388.0		2	4   OUT OF range
+388.8		1	4   OUT OF range
+389.0		4	5   OUT OF range
+401.6		3	4   IN range
+408.4		1	5   OUT OF range
+413.0		2	4   IN range
+414.8		1	3   IN range
+423.8		3	4   OUT OF range
+442.2		1	5   IN range
+444.2		1	2   IN range
+445.8		2	4   OUT OF range
+447.0		3	5   IN range
+449.6		2	3   IN range
+454.4		1	5   OUT OF range
+459.0		3	5   OUT OF range
+459.2		2	5   IN range
+469.2		2	3   OUT OF range
+475.8		1	3   OUT OF range
+478.0		2	5   OUT OF range
+480.4		4	5   IN range
+481.4		1	5   IN range
+482.4		1	2   OUT OF range
+483.6		1	4   IN range
+493.8		3	4   IN range
+494.4		1	3   IN range
+502.4		3	5   IN range
+519.4		4	5   OUT OF range
+533.0		3	5   OUT OF range
+541.0		2	4   IN range
+545.8		1	4   OUT OF range
+546.2		1	5   OUT OF range
+548.8		2	3   IN range
+565.6		2	3   OUT OF range
+575.2		3	5   IN range
+581.4		2	5   IN range
+583.4		2	4   OUT OF range
+588.6		1	4   IN range
+590.0		1	3   OUT OF range
+590.0		3	4   OUT OF range
+603.6		2	5   OUT OF range
+609.4		1	4   OUT OF range
+610.2		4	5   IN range
+610.6		3	5   OUT OF range
+635.4		2	3   IN range
+642.0		1	4   IN range
+642.6		1	5   IN range
+654.8		1	5   OUT OF range
+655.2		2	3   OUT OF range
+659.2		3	4   IN range
+662.4		1	3   IN range
+663.0		3	5   IN range
+667.8		4	5   OUT OF range
+676.8		3	5   OUT OF range
+677.6		1	3   OUT OF range
+679.6		3	4   OUT OF range
+683.2		1	2   IN range
+695.4		1	4   OUT OF range
+701.0		1	2   OUT OF range
+703.0		1	5   IN range
+703.2		2	4   IN range
+711.0		1	3   IN range
+713.0		3	5   IN range
+718.2		1	3   OUT OF range
+722.6		1	3   IN range
+729.4		1	5   OUT OF range
+731.6		4	5   IN range
+733.4		1	3   OUT OF range
+734.4		3	5   OUT OF range
+735.6		2	5   IN range
+739.4		2	4   OUT OF range
+742.0		1	4   IN range
+749.2		1	5   IN range
+758.0		1	3   IN range
+759.0		3	5   IN range
+760.0		1	2   IN range
+761.4		2	4   IN range
+761.6		3	4   IN range
+761.8		2	3   IN range
+770.0		1	4   OUT OF range
+770.8		1	2   OUT OF range
+773.0		1	3   OUT OF range
+773.6		3	4   OUT OF range
+773.6		4	5   OUT OF range
+774.2		4	5   IN range
+778.0		1	4   IN range
+781.4		1	2   IN range
+788.6		3	5   OUT OF range
+790.0		2	4   OUT OF range
+790.6		3	5   IN range
+795.8		1	3   IN range
+796.8		4	5   OUT OF range
+798.0		1	4   OUT OF range
+810.8		2	3   OUT OF range
+811.8		2	5   OUT OF range
+814.0		1	3   OUT OF range
+817.2		1	5   OUT OF range
+824.2		1	4   IN range
+826.8		1	2   OUT OF range
+840.0		3	5   OUT OF range
+841.6		4	5   IN range
+847.4		1	5   IN range
+855.0		3	5   IN range
+859.8		3	4   IN range
+860.0		1	3   IN range
+876.0		3	5   OUT OF range
+878.8		1	3   OUT OF range
+879.8		1	5   OUT OF range
+880.4		3	4   OUT OF range
+882.2		1	5   IN range
+898.4		2	3   IN range
+912.0		4	5   OUT OF range
+917.6		2	3   OUT OF range
+920.2		1	4   OUT OF range
+928.4		1	4   IN range
+947.6		1	4   OUT OF range
+948.2		4	5   IN range
+949.0		1	5   OUT OF range
+959.8		1	3   IN range
+977.6		4	5   OUT OF range
+982.8		1	5   IN range
+983.6		3	5   IN range
+987.0		1	3   OUT OF range
+992.6		1	2   IN range
+996.0		1	5   OUT OF range
+1008.4		2	3   IN range
+1015.2		1	2   OUT OF range
+1016.0		2	5   IN range
+1035.8		2	3   OUT OF range
+1037.6		1	4   IN range
+1040.4		2	5   OUT OF range
+1046.6		3	5   OUT OF range
+1054.4		1	4   OUT OF range
+1055.0		2	5   IN range
+1060.2		1	3   IN range
+1079.8		4	5   IN range
+1082.8		2	3   IN range
+1082.8		4	5   OUT OF range
+1088.6		2	5   OUT OF range
+1089.0		2	4   IN range
+1091.2		2	4   OUT OF range
+1098.2		2	3   OUT OF range
+1103.0		2	5   IN range
+1108.0		2	4   IN range
+1109.8		2	4   OUT OF range
+1111.2		3	4   IN range
+1111.6		2	4   IN range
+1117.8		1	3   OUT OF range
+1119.6		4	5   IN range
+1126.6		1	3   IN range
+1129.8		3	4   OUT OF range
+1138.4		2	5   OUT OF range
+1141.0		2	4   OUT OF range
+1144.2		1	5   IN range
+1150.8		4	5   OUT OF range
+1153.2		1	3   OUT OF range
+1162.2		1	5   OUT OF range
+1179.6		1	4   IN range
+1199.6		1	4   OUT OF range
+1206.8		2	4   IN range
+1215.6		3	5   IN range
+1222.8		1	2   IN range
+1253.4		1	4   IN range
+1259.2		1	5   IN range
+1261.4		2	5   IN range
+1269.2		3	5   OUT OF range
+1274.2		2	4   OUT OF range
+1274.4		4	5   IN range
+1276.6		4	5   OUT OF range
+1277.6		1	4   OUT OF range
+1291.0		1	5   OUT OF range
+1296.8		1	5   IN range
+1305.2		1	3   IN range
+1306.8		2	4   IN range
+1309.0		4	5   IN range
+1312.4		1	5   OUT OF range
+1317.8		2	5   OUT OF range
+1318.6		1	4   IN range
+1322.4		2	5   IN range
+1323.4		1	4   OUT OF range
+1324.8		3	4   IN range
+1326.0		2	3   IN range
+1328.0		1	2   OUT OF range
+1334.4		1	3   OUT OF range
+1340.6		3	4   OUT OF range
+1342.2		1	3   IN range
+1345.0		2	3   OUT OF range
+1346.6		4	5   OUT OF range
+1353.4		3	5   IN range
+1355.6		2	4   OUT OF range
+1363.2		2	5   OUT OF range
+1363.8		1	5   IN range
+1388.8		1	3   OUT OF range
+1389.0		1	3   IN range
+1391.0		1	4   IN range
+1396.4		1	2   IN range
+1396.6		2	3   IN range
+1398.0		3	4   IN range
+1398.2		3	5   OUT OF range
+1400.8		1	2   OUT OF range
+1401.2		1	5   OUT OF range
+1402.4		2	4   IN range
+1406.2		2	4   OUT OF range
+1408.0		2	3   OUT OF range
+1410.2		4	5   IN range
+1413.8		1	5   IN range
+1415.4		2	4   IN range
+1416.6		3	4   OUT OF range
+1422.2		1	3   OUT OF range
+1422.8		1	2   IN range
+1428.4		2	5   IN range
+1444.8		2	4   OUT OF range
+1446.6		2	3   IN range
+1449.6		3	5   IN range
+1455.0		2	4   IN range
+1455.6		1	3   IN range
+1459.2		4	5   OUT OF range
+1459.8		3	4   IN range
+1461.8		2	5   OUT OF range
+1464.0		2	4   OUT OF range
+1464.0		4	5   IN range
+1467.8		2	3   OUT OF range
+1472.8		1	2   OUT OF range
+1482.8		1	3   OUT OF range
+1485.2		1	4   OUT OF range
+1486.6		1	5   OUT OF range
+1502.6		1	4   IN range
+1513.6		3	5   OUT OF range
+1513.8		1	5   IN range
+1515.8		3	4   OUT OF range
+1525.6		2	4   IN range
+1526.8		1	5   OUT OF range
+1528.2		1	4   OUT OF range
+1530.6		1	3   IN range
+1537.8		1	2   IN range
+1541.4		2	4   OUT OF range
+1543.0		2	3   IN range
+1543.6		4	5   OUT OF range
+1560.8		3	5   IN range
+1561.4		2	5   IN range
+1568.4		1	5   IN range
+1577.2		2	3   OUT OF range
+1578.4		1	2   OUT OF range
+1578.4		3	5   OUT OF range
+1580.4		1	5   OUT OF range
+1590.0		3	4   IN range
+1595.8		1	4   IN range
+1622.8		1	4   OUT OF range
+1625.4		1	3   OUT OF range
+1628.2		3	4   OUT OF range
+1634.0		3	5   IN range
+1635.6		2	5   OUT OF range
+1653.6		2	3   IN range
+1658.6		3	5   OUT OF range
+1660.4		2	3   OUT OF range
+1662.6		2	4   IN range
+1676.6		1	5   IN range
+1688.0		2	4   OUT OF range
+1696.8		4	5   IN range
+1697.4		1	4   IN range
+1698.2		3	4   IN range
+1699.4		1	5   OUT OF range
+1702.2		2	5   IN range
+1705.8		3	4   OUT OF range
+1716.0		3	5   IN range
+1716.2		4	5   OUT OF range
+1718.6		2	5   OUT OF range
+1722.0		1	4   OUT OF range
+1723.6		2	4   IN range
+1737.8		3	5   OUT OF range
+1766.4		1	2   IN range
+1769.4		2	3   IN range
+1771.6		2	4   OUT OF range
+1783.4		2	3   OUT OF range
+1784.6		1	4   IN range
+1802.0		1	4   OUT OF range
+1807.2		1	2   OUT OF range
+1811.4		4	5   IN range
+1863.8		1	2   IN range
+1865.4		1	3   IN range
+1872.2		1	2   OUT OF range
+1873.8		4	5   OUT OF range
+1875.8		3	4   IN range
+1883.8		1	4   IN range
+1888.2		1	3   OUT OF range
+1895.8		1	4   OUT OF range
+1901.0		3	4   OUT OF range
+1907.6		2	4   IN range
+1919.6		1	2   IN range
+1919.6		2	4   OUT OF range
+1922.2		1	3   IN range
+1922.8		2	3   IN range
+1935.6		3	4   IN range
+1937.2		2	4   IN range
+1939.4		1	2   OUT OF range
+1944.6		1	4   IN range
+1948.8		2	3   OUT OF range
+1948.8		4	5   IN range
+1951.2		1	5   IN range
+1952.0		2	4   OUT OF range
+1952.0		3	5   IN range
+1960.4		2	5   IN range
+1964.8		3	5   OUT OF range
+1965.4		1	5   OUT OF range
+1966.6		4	5   OUT OF range
+1979.6		2	3   IN range
+1980.2		3	4   OUT OF range
+1986.4		1	2   IN range
+1987.6		3	5   IN range
+1989.6		2	4   IN range
+1992.6		2	5   OUT OF range
+1998.0		3	5   OUT OF range
+1998.2		2	3   OUT OF range
+2003.2		1	3   OUT OF range
+2012.0		1	5   IN range
+2012.6		4	5   IN range
+2021.8		2	4   OUT OF range
+2028.4		1	2   OUT OF range
+2029.4		2	5   IN range
+2035.4		4	5   OUT OF range
+2037.6		2	5   OUT OF range
+2038.6		1	5   OUT OF range
+2044.8		2	5   IN range
+2046.0		3	4   IN range
+2051.8		1	3   IN range
+2055.0		1	2   IN range
+2055.0		1	5   IN range
+2056.8		1	3   OUT OF range
+2056.8		1	4   OUT OF range
+2071.4		3	4   OUT OF range
+2085.6		2	5   OUT OF range
+2089.8		1	2   OUT OF range
+2090.4		2	4   IN range
+2119.0		2	3   IN range
+2121.0		3	4   IN range
+2124.0		1	5   OUT OF range
+2128.2		2	3   OUT OF range
+2135.4		3	5   IN range
+2138.2		4	5   IN range
+2144.4		2	4   OUT OF range
+2145.4		1	5   IN range
+2147.4		1	3   IN range
+2153.2		2	5   IN range
+2153.4		3	4   OUT OF range
+2154.0		3	5   OUT OF range
+2157.8		1	5   OUT OF range
+2159.0		1	3   OUT OF range
+2159.2		4	5   OUT OF range
+2172.0		1	3   IN range
+2172.4		1	4   IN range
+2177.8		3	4   IN range
+2179.8		1	3   OUT OF range
+2190.2		2	5   OUT OF range
+2194.4		2	4   IN range
+2197.4		1	3   IN range
+2197.6		2	3   IN range
+2212.2		3	4   OUT OF range
+2213.6		1	3   OUT OF range
+2216.6		1	2   IN range
+2219.6		4	5   IN range
+2222.2		1	5   IN range
+2226.4		4	5   OUT OF range
+2227.8		2	4   OUT OF range
+2233.0		1	3   IN range
+2233.4		2	5   IN range
+2236.2		1	4   OUT OF range
+2237.8		1	5   OUT OF range
+2246.0		3	5   IN range
+2249.6		2	5   OUT OF range
+2252.8		2	5   IN range
+2254.8		1	4   IN range
+2258.8		2	4   IN range
+2263.2		1	3   OUT OF range
+2265.4		1	5   IN range
+2266.2		3	5   OUT OF range
+2266.2		4	5   IN range
+2270.0		3	4   IN range
+2272.8		1	3   IN range
+2275.2		1	3   OUT OF range
+2278.8		1	4   OUT OF range
+2279.4		4	5   OUT OF range
+2280.8		1	5   OUT OF range
+2284.2		2	5   OUT OF range
+2287.8		2	4   OUT OF range
+2288.2		3	5   IN range
+2288.8		2	5   IN range
+2290.0		1	5   IN range
+2290.6		1	3   IN range
+2290.8		3	4   OUT OF range
+2293.0		1	5   OUT OF range
+2293.6		1	5   IN range
+2295.6		1	3   OUT OF range
+2299.2		1	3   IN range
+2301.2		1	3   OUT OF range
+2303.8		1	3   IN range
+2305.2		1	2   OUT OF range
+2305.6		1	5   OUT OF range
+2315.4		1	4   IN range
+2315.8		1	3   OUT OF range
+2317.2		2	3   OUT OF range
+2326.8		1	3   IN range
+2328.0		2	5   OUT OF range
+2333.8		1	4   OUT OF range
+2340.2		1	2   IN range
+2340.4		2	3   IN range
+2346.2		3	5   OUT OF range
+2368.2		1	4   IN range
+2376.4		1	5   IN range
+2377.8		2	4   IN range
+2380.2		2	5   IN range
+2380.8		1	3   OUT OF range
+2382.8		4	5   IN range
+2386.2		2	3   OUT OF range
+2408.4		1	5   OUT OF range
+2409.6		2	5   OUT OF range
+2414.0		3	5   IN range
+2416.0		1	2   OUT OF range
+2418.2		1	4   OUT OF range
+2421.4		4	5   OUT OF range
+2424.2		2	4   OUT OF range
+2442.6		1	4   IN range
+2446.6		1	2   IN range
+2451.2		3	4   IN range
+2453.4		4	5   IN range
+2459.6		1	3   IN range
+2462.6		2	4   IN range
+2464.2		1	5   IN range
+2466.2		2	3   IN range
+2471.8		2	5   IN range
+2478.8		3	4   OUT OF range
+2481.8		1	3   OUT OF range
+2484.0		4	5   OUT OF range
+2486.6		2	3   OUT OF range
+2487.0		2	4   OUT OF range
+2487.4		3	5   OUT OF range
+2490.0		1	5   OUT OF range
+2502.2		2	5   OUT OF range
+2503.2		3	5   IN range
+2510.0		1	4   OUT OF range
+2511.8		1	5   IN range
+2519.2		1	3   IN range
+2521.2		2	3   IN range
+2522.4		1	5   OUT OF range
+2530.0		3	5   OUT OF range
+2535.6		1	2   OUT OF range
+2550.6		1	3   OUT OF range
+2555.8		4	5   IN range
+2563.4		1	2   IN range
+2569.6		1	3   IN range
+2573.2		2	3   OUT OF range
+2578.4		1	2   OUT OF range
+2584.0		2	5   IN range
+2587.0		2	4   IN range
+2601.2		1	3   OUT OF range
+2604.4		4	5   OUT OF range
+2608.4		2	4   OUT OF range
+2622.0		4	5   IN range
+2628.8		2	5   OUT OF range
+2629.4		3	5   IN range
+2637.0		3	4   IN range
+2641.0		1	2   IN range
+2643.8		2	3   IN range
+2644.8		2	4   IN range
+2655.6		2	3   OUT OF range
+2665.6		3	4   OUT OF range
+2666.4		2	5   IN range
+2667.2		1	2   OUT OF range
+2671.6		1	2   IN range
+2676.6		4	5   OUT OF range
+2679.2		1	2   OUT OF range
+2681.0		1	5   IN range
+2685.2		3	5   OUT OF range
+2686.0		2	4   OUT OF range
+2689.6		1	2   IN range
+2724.6		2	3   IN range
+2725.0		1	3   IN range
+2725.8		1	4   IN range
+2725.8		3	5   IN range
+2730.2		3	4   IN range
+2732.8		4	5   IN range
+2733.4		2	4   IN range
+2740.8		1	3   OUT OF range
+2742.8		3	5   OUT OF range
+2744.0		2	3   OUT OF range
+2747.6		3	4   OUT OF range
+2752.2		1	5   OUT OF range
+2756.4		2	5   OUT OF range
+2766.4		4	5   OUT OF range
+2779.4		1	3   IN range
+2783.6		1	5   IN range
+2784.6		3	5   IN range
+2785.4		2	3   IN range
+2786.2		1	4   OUT OF range
+2788.2		2	5   IN range
+2794.6		2	4   OUT OF range
+2805.6		1	5   OUT OF range
+2810.8		2	5   OUT OF range
+2812.0		3	5   OUT OF range
+2819.2		3	4   IN range
+2821.0		1	4   IN range
+2821.2		1	2   OUT OF range
+2827.4		2	4   IN range
+2829.0		1	3   OUT OF range
+2833.8		2	3   OUT OF range
+2834.4		1	2   IN range
+2836.0		4	5   IN range
+2837.0		2	5   IN range
+2837.4		1	3   IN range
+2844.6		3	4   OUT OF range
+2846.0		1	5   IN range
+2847.0		3	4   IN range
+2854.2		4	5   OUT OF range
+2855.8		1	5   OUT OF range
+2866.4		2	5   OUT OF range
+2866.8		2	3   IN range
+2877.8		1	2   OUT OF range
+2878.0		2	3   OUT OF range
+2885.8		3	5   IN range
+2889.2		2	3   IN range
+2889.6		1	4   OUT OF range
+2889.6		1	5   IN range
+2899.4		4	5   IN range
+2901.4		1	3   OUT OF range
+2902.2		3	4   OUT OF range
+2904.0		3	5   OUT OF range
+2908.4		2	3   OUT OF range
+2910.6		2	4   OUT OF range
+2922.0		1	2   IN range
+2925.4		2	5   IN range
+2932.4		4	5   OUT OF range
+2934.8		4	5   IN range
+2941.8		4	5   OUT OF range
+2949.0		2	4   IN range
+2951.2		4	5   IN range
+2955.0		1	3   IN range
+2956.8		1	4   IN range
+2957.4		2	3   IN range
+2960.6		3	5   IN range
+2965.4		3	4   IN range
+2976.8		1	3   OUT OF range
+2979.2		3	5   OUT OF range
+2979.6		2	3   OUT OF range
+2989.6		4	5   OUT OF range
+2990.8		1	4   OUT OF range
+2995.2		1	2   OUT OF range
+2995.4		3	4   OUT OF range
+3003.8		1	5   OUT OF range
+3018.4		2	5   OUT OF range
+3022.4		1	5   IN range
+3030.8		3	4   IN range
+3041.2		1	2   IN range
+3041.2		2	4   OUT OF range
+3043.6		2	4   IN range
+3048.0		1	2   OUT OF range
+3049.6		2	5   IN range
+3054.4		3	4   OUT OF range
+3056.8		4	5   IN range
+3057.8		1	5   OUT OF range
+3066.4		1	3   IN range
+3078.0		1	3   OUT OF range
+3086.6		3	5   IN range
+3089.6		4	5   OUT OF range
+3089.8		2	5   OUT OF range
+3094.6		2	4   OUT OF range
+3108.8		3	5   OUT OF range
+3113.6		1	5   IN range
+3128.0		1	3   IN range
+3130.8		2	4   IN range
+3141.6		1	3   OUT OF range
+3142.4		1	4   IN range
+3148.0		1	2   IN range
+3155.8		1	5   OUT OF range
+3157.8		4	5   IN range
+3158.6		2	5   IN range
+3164.8		1	2   OUT OF range
+3174.8		2	4   OUT OF range
+3174.8		4	5   OUT OF range
+3179.6		1	5   IN range
+3192.6		4	5   IN range
+3197.0		2	5   OUT OF range
+3201.8		4	5   OUT OF range
+3203.0		1	4   OUT OF range
+3218.4		2	3   IN range
+3234.0		2	5   IN range
+3243.6		2	3   OUT OF range
+3245.0		1	5   OUT OF range
+3252.2		4	5   IN range
+3256.6		1	2   IN range
+3260.0		1	5   IN range
+3261.8		4	5   OUT OF range
+3272.0		3	4   IN range
+3273.8		2	5   OUT OF range
+3274.2		1	2   OUT OF range
+3275.4		1	3   IN range
+3275.6		1	5   OUT OF range
+3284.4		3	4   OUT OF range
+3284.6		1	4   IN range
+3290.2		1	4   OUT OF range
+3296.8		1	3   OUT OF range
+3300.6		2	3   IN range
+3309.2		3	5   IN range
+3314.2		2	5   IN range
+3325.8		3	5   OUT OF range
+3339.0		1	5   IN range
+3339.6		2	5   OUT OF range
+3344.4		2	4   IN range
+3350.8		3	4   IN range
+3359.4		2	3   OUT OF range
+3361.2		2	4   OUT OF range
+3402.8		2	3   IN range
+3403.6		2	4   IN range
+3443.8		2	3   OUT OF range
+3459.6		1	5   OUT OF range
+3463.8		2	4   OUT OF range
+3464.6		3	4   OUT OF range
+3478.0		3	4   IN range
+3478.2		1	5   IN range
+3488.2		1	4   IN range
+3492.8		1	3   IN range
+3496.2		1	5   OUT OF range
+3497.4		4	5   IN range
+3508.4		1	4   OUT OF range
+3509.0		1	3   OUT OF range
+3509.6		1	3   IN range
+3509.6		1	4   IN range
+3510.6		2	3   IN range
+3515.4		1	3   OUT OF range
+3521.8		4	5   OUT OF range
+3527.6		3	4   OUT OF range
+3528.6		1	2   IN range
+3530.4		1	3   IN range
+3534.4		1	4   OUT OF range
+3535.2		2	3   OUT OF range
+3539.0		2	3   IN range
+3544.8		2	3   OUT OF range
+3553.6		2	4   IN range
+3557.6		1	4   IN range
+3559.4		1	3   OUT OF range
+3571.4		1	3   IN range
+3575.8		1	2   OUT OF range
+3578.6		4	5   IN range
+3579.8		1	4   OUT OF range
+3586.2		2	5   IN range
+3591.6		1	3   OUT OF range
+3600.0		4	5   OUT OF range
+3606.0		3	5   IN range
+3611.0		2	5   OUT OF range
+3637.6		3	4   IN range
+3642.0		1	3   IN range
+3647.2		3	5   OUT OF range
+3647.6		1	4   IN range
+3652.0		2	4   OUT OF range
+3657.4		4	5   IN range
+3664.2		1	4   OUT OF range
+3664.2		3	4   OUT OF range
+3679.8		1	2   IN range
+3686.4		1	3   OUT OF range
+3688.0		2	4   IN range
+3692.8		1	4   IN range
+3695.2		4	5   OUT OF range
+3705.0		1	2   OUT OF range
+3708.0		2	5   IN range
+3711.4		2	4   OUT OF range
+3741.6		3	5   IN range
+3742.4		1	4   OUT OF range
+3745.4		2	3   IN range
+3777.2		1	3   IN range
+3783.2		1	2   IN range
+3785.8		3	5   OUT OF range
+3786.2		2	5   OUT OF range
+3794.4		3	5   IN range
+3802.6		3	4   IN range
+3804.8		4	5   IN range
+3807.6		1	3   OUT OF range
+3820.6		2	3   OUT OF range
+3821.2		1	2   OUT OF range
+3833.8		2	5   IN range
+3838.2		3	4   OUT OF range
+3840.8		3	5   OUT OF range
+3842.0		1	4   IN range
+3842.0		4	5   OUT OF range
+3853.0		4	5   IN range
+3860.2		2	4   IN range
+3864.6		3	5   IN range
+3865.6		2	5   OUT OF range
+3870.4		1	4   OUT OF range
+3878.2		3	5   OUT OF range
+3881.0		2	5   IN range
+3887.4		3	5   IN range
+3894.2		3	4   IN range
+3896.4		2	4   OUT OF range
+3899.8		2	3   IN range
+3900.4		3	4   OUT OF range
+3909.4		4	5   OUT OF range
+3912.2		2	3   OUT OF range
+3914.2		3	5   OUT OF range
+3927.8		1	3   IN range
+3955.8		1	5   IN range
+3956.6		3	5   IN range
+3959.0		2	5   OUT OF range
+3975.2		1	3   OUT OF range
+3981.4		1	3   IN range
+3989.6		1	5   OUT OF range
+3993.0		1	3   OUT OF range
+3994.2		1	2   IN range
+4001.4		1	2   OUT OF range
+4002.0		3	5   OUT OF range
+4009.6		1	3   IN range
+4012.2		2	4   IN range
+4032.0		3	5   IN range
+4035.2		1	4   IN range
+4036.0		1	5   IN range
+4042.4		2	4   OUT OF range
+4044.0		1	5   OUT OF range
+4053.0		3	4   IN range
+4066.4		1	4   OUT OF range
+4067.2		3	5   OUT OF range
+4069.0		1	3   OUT OF range
+4077.2		1	5   IN range
+4081.2		2	5   IN range
+4083.6		1	3   IN range
+4084.0		1	5   OUT OF range
+4099.0		3	4   OUT OF range
+4099.6		2	5   OUT OF range
+4109.4		1	4   IN range
+4116.8		1	3   OUT OF range
+4118.0		1	2   IN range
+4122.4		1	4   OUT OF range
+4127.6		1	4   IN range
+4130.2		2	5   IN range
+4133.4		1	2   OUT OF range
+4138.6		1	3   IN range
+4139.8		1	4   OUT OF range
+4153.4		2	5   OUT OF range
+4155.2		1	3   OUT OF range
+4163.2		4	5   IN range
+4198.8		2	5   IN range
+4207.2		1	3   IN range
+4214.2		2	4   IN range
+4234.8		1	3   OUT OF range
+4239.8		2	5   OUT OF range
+4240.4		1	4   IN range
+4251.2		2	4   OUT OF range
+4262.8		1	4   OUT OF range
+4267.8		1	2   IN range
+4277.8		1	4   IN range
+4281.4		2	3   IN range
+4284.6		1	4   OUT OF range
+4291.0		1	3   IN range
+4293.0		4	5   OUT OF range
+4294.0		1	2   OUT OF range
+4298.8		1	3   OUT OF range
+4310.6		2	3   OUT OF range
+4315.6		3	5   IN range
+4320.0		1	4   IN range
+4329.8		2	3   IN range
+4334.8		3	5   OUT OF range
+4353.2		3	5   IN range
+4354.6		2	5   IN range
+4358.2		1	5   IN range
+4359.4		3	4   IN range
+4359.8		2	4   IN range
+4362.0		1	3   IN range
+4362.2		4	5   IN range
+4366.2		1	5   OUT OF range
+4372.4		1	3   OUT OF range
+4372.8		1	4   OUT OF range
+4382.2		2	5   OUT OF range
+4382.6		4	5   OUT OF range
+4384.0		3	5   OUT OF range
+4389.4		3	5   IN range
+4390.0		4	5   IN range
+4393.8		2	4   OUT OF range
+4397.8		3	4   OUT OF range
+4404.0		3	5   OUT OF range
+4414.0		2	3   OUT OF range
+4423.4		2	3   IN range
+4423.8		4	5   OUT OF range
+4438.6		1	2   IN range
+4439.2		1	4   IN range
+4443.6		2	4   IN range
+4458.6		2	3   OUT OF range
+4468.2		3	4   IN range
+4474.6		2	4   OUT OF range
+4477.4		1	4   OUT OF range
+4480.8		1	3   IN range
+4480.8		2	5   IN range
+4483.4		1	5   IN range
+4484.8		1	4   IN range
+4492.0		1	4   OUT OF range
+4495.8		1	3   OUT OF range
+4501.6		1	2   OUT OF range
+4501.6		3	5   IN range
+4504.8		3	5   OUT OF range
+4508.2		2	5   OUT OF range
+4516.8		4	5   IN range
+4522.4		1	5   OUT OF range
+4524.4		3	5   IN range
+4536.2		2	5   IN range
+4539.0		4	5   OUT OF range
+4540.2		2	3   IN range
+4549.0		2	4   IN range
+4551.8		2	5   OUT OF range
+4555.4		3	5   OUT OF range
+4556.0		2	3   OUT OF range
+4556.0		3	5   IN range
+4568.0		3	4   OUT OF range
+4571.6		2	5   IN range
+4573.4		4	5   IN range
+4575.8		2	3   IN range
+4589.8		3	5   OUT OF range
+4592.6		3	4   IN range
+4597.2		2	3   OUT OF range
+4604.0		3	4   OUT OF range
+4608.0		4	5   OUT OF range
+4609.8		1	3   IN range
+4612.8		2	4   OUT OF range
+4634.4		1	4   IN range
+4641.0		3	4   IN range
+4645.6		2	5   OUT OF range
+4650.6		2	3   IN range
+4658.4		3	4   OUT OF range
+4663.0		1	3   OUT OF range
+4675.6		2	3   OUT OF range
+4678.8		1	2   IN range
+4680.6		2	5   IN range
+4681.8		1	5   IN range
+4688.6		1	4   OUT OF range
+4712.0		1	2   OUT OF range
+4713.6		1	5   OUT OF range
+4719.0		1	2   IN range
+4719.4		4	5   IN range
+4721.2		2	5   OUT OF range
+4725.8		3	4   IN range
+4727.4		1	2   OUT OF range
+4728.8		1	3   IN range
+4736.2		4	5   OUT OF range
+4738.0		1	4   IN range
+4748.4		1	4   OUT OF range
+4750.4		1	3   OUT OF range
+4773.2		1	3   IN range
+4777.2		3	4   OUT OF range
+4787.0		1	4   IN range
+4787.6		3	4   IN range
+4797.4		2	5   IN range
+4806.6		1	2   IN range
+4809.6		1	4   OUT OF range
+4812.6		1	3   OUT OF range
+4818.8		3	4   OUT OF range
+4820.4		2	5   OUT OF range
+4852.4		1	3   IN range
+4855.6		2	3   IN range
+4864.0		1	5   IN range
+4865.2		4	5   IN range
+4874.4		3	5   IN range
+4876.4		1	4   IN range
+4880.8		3	4   IN range
+4891.8		1	2   OUT OF range
+4895.0		1	4   OUT OF range
+4895.2		2	3   OUT OF range
+4903.8		3	4   OUT OF range
+4904.4		4	5   OUT OF range
+4923.2		1	3   OUT OF range
+4925.8		2	4   IN range
+4926.6		1	4   IN range
+4932.0		1	2   IN range
+4940.0		1	4   OUT OF range
+4942.0		1	3   IN range
+4944.6		2	5   IN range
+4945.6		2	3   IN range
+4948.2		2	4   OUT OF range
+4949.0		1	3   OUT OF range
+4950.6		2	3   OUT OF range
+4951.0		3	5   OUT OF range
+4959.4		3	4   IN range
+4982.0		1	2   OUT OF range
+4991.2		1	5   OUT OF range
+4993.8		2	5   OUT OF range
+5004.8		3	5   IN range
+5016.4		1	3   IN range
+5016.8		4	5   IN range
+5032.2		3	4   OUT OF range
+5034.8		1	5   IN range
+5037.8		1	4   IN range
+5046.2		2	3   IN range
+5047.0		1	3   OUT OF range
+5047.0		3	4   IN range
+5047.2		2	4   IN range
+5051.2		1	5   OUT OF range
+5052.0		4	5   OUT OF range
+5054.0		3	5   OUT OF range
+5056.0		1	4   OUT OF range
+5071.4		1	2   IN range
+5075.2		1	4   IN range
+5076.4		1	3   IN range
+5084.2		2	4   OUT OF range
+5093.2		1	2   OUT OF range
+5099.4		1	3   OUT OF range
+5101.4		3	4   OUT OF range
+5105.4		2	4   IN range
+5107.4		1	4   OUT OF range
+5107.8		3	5   IN range
+5112.2		3	5   OUT OF range
+5114.8		2	4   OUT OF range
+5128.6		2	5   IN range
+5134.8		3	5   IN range
+5135.0		2	3   OUT OF range
+5146.0		1	4   IN range
+5148.2		2	5   OUT OF range
+5162.2		1	4   OUT OF range
+5167.6		3	5   OUT OF range
+5170.0		1	2   IN range
+5186.2		4	5   IN range
+5205.6		1	4   IN range
+5207.4		3	4   IN range
+5208.6		4	5   OUT OF range
+5218.4		1	3   IN range
+5221.2		1	4   OUT OF range
+5222.6		1	5   IN range
+5233.8		1	2   OUT OF range
+5234.2		3	4   OUT OF range
+5234.6		1	3   OUT OF range
+5250.2		1	5   OUT OF range
+5255.0		1	2   IN range
+5258.0		3	5   IN range
+5258.0		4	5   IN range
+5266.2		3	4   IN range
+5275.0		3	4   OUT OF range
+5280.0		3	5   OUT OF range
+5281.6		1	3   IN range
+5284.8		1	2   OUT OF range
+5314.4		1	3   OUT OF range
+5319.4		2	3   IN range
+5337.0		1	2   IN range
+5339.2		1	3   IN range
+5345.2		4	5   OUT OF range
+5358.6		1	3   OUT OF range
+5361.6		1	2   OUT OF range
+5362.2		1	5   IN range
+5384.2		4	5   IN range
+5391.6		1	4   IN range
+5397.8		2	3   OUT OF range
+5401.2		3	4   IN range
+5402.4		1	3   IN range
+5407.2		3	5   IN range
+5414.0		4	5   OUT OF range
+5416.0		1	4   OUT OF range
+5417.0		2	4   IN range
+5418.8		3	4   OUT OF range
+5419.4		1	3   OUT OF range
+5422.0		3	5   OUT OF range
+5428.0		3	5   IN range
+5433.6		1	3   IN range
+5435.6		2	4   OUT OF range
+5457.0		2	4   IN range
+5457.8		3	5   OUT OF range
+5474.2		1	5   OUT OF range
+5477.6		2	4   OUT OF range
+5478.4		1	4   IN range
+5482.2		3	4   IN range
+5493.4		2	3   IN range
+5496.2		1	2   IN range
+5499.0		3	4   OUT OF range
+5503.8		1	4   OUT OF range
+5509.0		2	5   IN range
+5513.2		2	3   OUT OF range
+5514.6		1	3   OUT OF range
+5519.2		2	4   IN range
+5519.8		1	5   IN range
+5522.8		1	2   OUT OF range
+5525.8		2	5   OUT OF range
+5540.2		1	3   IN range
+5541.8		1	5   OUT OF range
+5550.0		1	4   IN range
+5554.0		3	4   IN range
+5560.2		2	4   OUT OF range
+5565.8		2	3   IN range
+5571.0		2	3   OUT OF range
+5582.0		1	3   OUT OF range
+5582.4		3	5   IN range
+5589.6		1	4   OUT OF range
+5591.0		4	5   IN range
+5593.4		1	2   IN range
+5609.0		3	5   OUT OF range
+5612.8		2	5   IN range
+5614.0		3	4   OUT OF range
+5617.0		2	4   IN range
+5617.8		1	2   OUT OF range
+5624.0		3	4   IN range
+5629.6		2	3   IN range
+5632.4		4	5   OUT OF range
+5639.4		1	5   IN range
+5639.4		2	5   OUT OF range
+5647.0		2	4   OUT OF range
+5656.8		2	3   OUT OF range
+5662.4		1	3   IN range
+5663.4		1	5   OUT OF range
+5670.8		1	4   IN range
+5696.2		1	3   OUT OF range
+5708.8		3	4   OUT OF range
+5710.8		2	4   IN range
+5712.4		1	2   IN range
+5719.8		1	4   OUT OF range
+5731.6		1	2   OUT OF range
+5743.2		2	4   OUT OF range
+5749.4		4	5   IN range
+5764.8		1	4   IN range
+5779.4		4	5   OUT OF range
+5780.6		1	5   IN range
+5792.4		1	4   OUT OF range
+5807.6		1	3   IN range
+5810.4		1	5   OUT OF range
+5822.8		3	5   IN range
+5827.4		1	3   OUT OF range
+5830.4		2	5   IN range
+5837.6		3	5   OUT OF range
+5848.4		4	5   IN range
+5849.4		2	5   OUT OF range
+5854.6		2	3   IN range
+5859.8		1	4   IN range
+5863.4		1	5   IN range
+5868.0		2	3   OUT OF range
+5869.4		3	4   IN range
+5873.0		4	5   OUT OF range
+5875.0		1	3   IN range
+5879.0		2	4   IN range
+5881.8		1	4   OUT OF range
+5885.0		3	4   OUT OF range
+5885.0		3	5   IN range
+5898.2		2	4   OUT OF range
+5907.6		3	5   OUT OF range
+5914.2		1	5   OUT OF range
+5928.6		2	4   IN range
+5937.4		1	3   OUT OF range
+5938.4		1	4   IN range
+5952.6		1	2   IN range
+5958.4		1	4   OUT OF range
+5959.0		3	4   IN range
+5960.4		2	4   OUT OF range
+5987.0		1	2   OUT OF range
+5988.6		2	4   IN range
+5994.2		2	3   IN range
+6009.6		2	4   OUT OF range
+6010.4		3	4   OUT OF range
+6016.4		2	3   OUT OF range
+6018.4		2	3   IN range
+6018.8		1	5   IN range
+6022.0		2	3   OUT OF range
+6030.6		3	4   IN range
+6031.0		3	5   IN range
+6032.2		1	3   IN range
+6039.2		3	5   OUT OF range
+6041.6		1	3   OUT OF range
+6042.4		1	5   OUT OF range
+6074.4		1	5   IN range
+6082.0		3	4   OUT OF range
+6086.4		1	2   IN range
+6093.8		3	5   IN range
+6101.6		1	2   OUT OF range
+6102.0		1	3   IN range
+6111.6		2	5   IN range
+6121.0		1	5   OUT OF range
+6121.8		3	5   OUT OF range
+6124.2		3	5   IN range
+6137.6		1	5   IN range
+6142.8		2	5   OUT OF range
+6144.4		2	3   IN range
+6151.8		1	3   OUT OF range
+6154.6		1	5   OUT OF range
+6156.6		3	5   OUT OF range
+6160.0		1	4   IN range
+6168.2		2	3   OUT OF range
+6190.4		2	4   IN range
+6200.4		2	4   OUT OF range
+6202.2		2	4   IN range
+6209.2		1	2   IN range
+6213.4		2	3   IN range
+6220.4		2	5   IN range
+6221.0		1	2   OUT OF range
+6224.0		2	3   OUT OF range
+6224.0		3	5   IN range
+6227.0		4	5   IN range
+6229.8		1	4   OUT OF range
+6232.8		1	4   IN range
+6237.6		2	5   OUT OF range
+6239.2		3	5   OUT OF range
+6240.2		2	4   OUT OF range
+6243.6		4	5   OUT OF range
+6244.4		4	5   IN range
+6244.8		2	4   IN range
+6246.2		4	5   OUT OF range
+6246.8		1	5   IN range
+6253.6		1	2   IN range
+6256.2		2	5   IN range
+6258.2		3	4   IN range
+6262.6		1	5   OUT OF range
+6264.0		2	4   OUT OF range
+6264.0		3	5   IN range
+6269.6		2	5   OUT OF range
+6272.8		1	2   OUT OF range
+6272.8		1	3   IN range
+6276.4		1	2   IN range
+6276.4		3	5   OUT OF range
+6280.4		1	2   OUT OF range
+6297.4		1	5   IN range
+6298.0		3	5   IN range
+6299.0		1	4   OUT OF range
+6301.6		3	4   OUT OF range
+6314.0		3	5   OUT OF range
+6323.6		1	5   OUT OF range
+6328.4		1	5   IN range
+6332.2		3	5   IN range
+6335.2		3	4   IN range
+6342.4		4	5   IN range
+6344.8		1	4   IN range
+6348.0		1	3   OUT OF range
+6353.6		1	5   OUT OF range
+6355.6		1	5   IN range
+6358.8		3	4   OUT OF range
+6361.6		1	2   IN range
+6364.6		2	4   IN range
+6368.4		2	5   IN range
+6370.8		4	5   OUT OF range
+6378.2		1	5   OUT OF range
+6381.4		3	5   OUT OF range
+6381.6		2	3   IN range
+6382.8		2	5   OUT OF range
+6385.4		2	4   OUT OF range
+6388.8		1	2   OUT OF range
+6426.6		2	3   OUT OF range
+6443.6		3	5   IN range
+6444.2		1	4   OUT OF range
+6452.8		4	5   IN range
+6455.6		3	4   IN range
+6460.6		2	5   IN range
+6465.0		3	5   OUT OF range
+6466.2		4	5   OUT OF range
+6468.4		2	5   OUT OF range
+6483.0		1	3   IN range
+6491.8		3	4   OUT OF range
+6494.8		2	5   IN range
+6497.6		1	3   OUT OF range
+6499.8		1	2   IN range
+6502.2		1	5   IN range
+6518.8		3	5   IN range
+6519.4		2	3   IN range
+6527.6		1	5   OUT OF range
+6528.4		2	5   OUT OF range
+6531.6		3	5   OUT OF range
+6532.6		1	3   IN range
+6538.2		1	3   OUT OF range
+6538.8		4	5   IN range
+6539.2		1	3   IN range
+6550.6		2	3   OUT OF range
+6552.6		2	3   IN range
+6558.6		2	3   OUT OF range
+6563.0		1	2   OUT OF range
+6566.4		2	4   IN range
+6568.6		4	5   OUT OF range
+6570.8		1	2   IN range
+6571.0		1	4   IN range
+6571.6		2	3   IN range
+6574.4		3	4   IN range
+6577.2		3	4   OUT OF range
+6582.0		1	5   IN range
+6583.0		3	5   IN range
+6584.6		1	2   OUT OF range
+6586.2		2	3   OUT OF range
+6587.0		2	4   OUT OF range
+6588.6		1	4   OUT OF range
+6591.4		1	3   OUT OF range
+6593.4		2	4   IN range
+6596.2		1	5   OUT OF range
+6597.2		2	5   IN range
+6598.2		4	5   IN range
+6598.4		3	5   OUT OF range
+6630.6		4	5   OUT OF range
+6639.2		2	5   OUT OF range
+6645.2		2	4   OUT OF range
+6649.8		2	3   IN range
+6650.8		1	3   IN range
+6653.8		4	5   IN range
+6663.6		1	4   IN range
+6664.8		2	3   OUT OF range
+6670.4		3	4   IN range
+6671.6		4	5   OUT OF range
+6673.6		3	4   OUT OF range
+6680.8		1	3   OUT OF range
+6688.4		1	5   IN range
+6691.4		4	5   IN range
+6727.4		4	5   OUT OF range
+6733.6		1	5   OUT OF range
+6734.6		2	4   IN range
+6741.6		1	4   OUT OF range
+6752.4		1	2   IN range
+6762.8		2	4   OUT OF range
+6765.0		2	4   IN range
+6779.8		1	5   IN range
+6780.0		1	2   OUT OF range
+6787.2		2	4   OUT OF range
+6799.2		2	3   IN range
+6799.2		4	5   IN range
+6799.8		1	5   OUT OF range
+6811.0		1	3   IN range
+6813.6		2	3   OUT OF range
+6819.8		4	5   OUT OF range
+6827.2		1	2   IN range
+6830.4		2	5   IN range
+6830.6		1	2   OUT OF range
+6837.2		3	4   IN range
+6837.6		1	3   OUT OF range
+6839.8		2	5   OUT OF range
+6850.0		2	4   IN range
+6852.8		2	3   IN range
+6866.0		4	5   IN range
+6869.0		2	4   OUT OF range
+6869.8		3	4   OUT OF range
+6878.8		3	5   IN range
+6882.8		2	3   OUT OF range
+6883.6		4	5   OUT OF range
+6899.4		2	3   IN range
+6907.2		2	5   IN range
+6910.0		3	4   IN range
+6913.0		4	5   IN range
+6916.4		2	3   OUT OF range
+6918.4		2	4   IN range
+6920.2		3	5   OUT OF range
+6924.4		3	4   OUT OF range
+6937.0		1	4   IN range
+6937.8		4	5   OUT OF range
+6941.4		2	4   OUT OF range
+6952.8		1	3   IN range
+6958.2		1	4   OUT OF range
+6965.2		3	5   IN range
+6969.6		1	5   IN range
+6970.8		2	3   IN range
+6976.8		1	4   IN range
+6977.0		2	3   OUT OF range
+6980.4		2	5   OUT OF range
+6981.2		1	4   OUT OF range
+6981.2		3	4   IN range
+6989.8		1	2   IN range
+6991.4		1	3   OUT OF range
+6996.2		1	5   OUT OF range
+7007.2		1	2   OUT OF range
+7010.4		3	4   OUT OF range
+7012.2		4	5   IN range
+7014.0		1	5   IN range
+7017.4		1	4   IN range
+7018.4		1	3   IN range
+7027.0		3	5   OUT OF range
+7030.6		2	5   IN range
+7032.6		2	5   OUT OF range
+7039.4		1	5   OUT OF range
+7041.0		1	4   OUT OF range
+7045.2		2	4   IN range
+7052.0		2	3   IN range
+7058.4		3	4   IN range
+7060.2		1	2   IN range
+7062.0		1	3   OUT OF range
+7062.0		3	5   IN range
+7070.8		2	3   OUT OF range
+7071.8		2	4   OUT OF range
+7079.8		2	4   IN range
+7080.2		1	2   OUT OF range
+7085.6		2	5   IN range
+7098.0		2	4   OUT OF range
+7103.0		3	5   OUT OF range
+7110.8		3	4   OUT OF range
+7113.4		2	5   OUT OF range
+7121.0		1	4   IN range
+7130.4		3	5   IN range
+7131.6		1	5   IN range
+7134.8		1	3   IN range
+7142.6		4	5   OUT OF range
+7151.8		1	4   OUT OF range
+7159.2		1	2   IN range
+7163.6		1	3   OUT OF range
+7166.2		2	5   IN range
+7167.8		3	5   OUT OF range
+7176.6		3	4   IN range
+7179.6		1	2   OUT OF range
+7184.0		2	4   IN range
+7184.8		2	5   OUT OF range
+7189.2		1	5   OUT OF range
+7192.4		3	4   OUT OF range
+7193.2		2	5   IN range
+7195.0		4	5   IN range
+#STATEND
+
+ Connectivity matrix at simulation end.
+[[0 0 0 0 0]
+ [0 0 0 2 2]
+ [0 0 0 0 0]
+ [0 0 0 0 2]
+ [0 0 0 0 0]]
+
+  
+
+Node		 Avg speed [m/s]	 Max speed[m/s]		 Travel[m]
+====================================================================
+	1		 1.96				 4.00 				 14129.47 
+	2		 1.88				 3.99 				 13564.14 
+	3		 1.92				 3.99 				 13836.22 
+	4		 1.86				 4.00 				 13443.26 
+	5		 1.79				 3.99 				 12894.41 
+
+
+Maximum travel by node: 1
+Distance: 14129.47 [m]. AvgSpeed: 1.96 [m/s].
+Minimum travel by node: 5
+Distance: 12894.41 [m]. AvgSpeed: 1.79 [m/s].

@@ -1,0 +1,55 @@
+#!/bin/bash
+
+# recreate all possible graphs, AND  COPY TO FOLDER allgraphs (1.allGraphFolder)
+# deletes ALL folders starting with "logs-P"
+
+# PERIOD 60 means 60 packets per hour
+# PERIOD 6 means 600 packets per hour
+
+mobPer=50 #mobile Period
+fixPer=30 # fixed station Period
+mobId=8 # mobile station Idouble - Usually unchanged
+fid=8 # fixed station Idouble - Can play with it
+
+# Pm = Period mobile (stations) 
+# Pf = Period fixed (stations)
+
+# remove ALL old log dirs
+rm -rf ./logs-Pm* 
+            
+            
+#create all possible combinations
+for mobPer in {40..60..5}
+   do
+      for fixPer in {30..50..5}
+         do
+            initDir='iL-mP='"$mobPer"'-fP='"$fixPer"'-fId='"$fid"
+            logDir='oL-mP='"$mobPer"'-fP='"$fixPer"'-fId='"$fid"
+            #mkdir $initDir  # Already created. For those existing we want to create log files again
+                
+            # create again the log dir
+            mkdir $logDir
+                  
+            for filename in *.csc ;
+               do
+                  echo "Inside folder:" $initDir
+				  ./createALLlogs-new.py -r $initDir -w $logDir
+			   done
+
+			   echo "creating graphs"
+
+               cp ./auto-PDR.plt "$logDir"
+               cp ./auto-OVERHEAD.plt "$logDir"
+
+               # in case you want to re-create graphs, run this inside each folder
+               cp ./createGraphsAgain $logDir
+
+               #go into the folder ./logs and create the above graphs
+               cd $logDir
+               ./createGraphsAgain
+               cd ..
+         done
+   done
+
+echo "copy all PDR graphs inside folder 1.allGraphsFolder"     
+./getAllGraphs.py

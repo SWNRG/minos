@@ -1,0 +1,1 @@
+In the old MONROE *.csc many of the fixed nodes were not communicating with the sink. They only had to send the messages via the mobile nodes, hence because MONROE nodes spend too much time far away, I GUESS that the communication was really problematic
