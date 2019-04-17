@@ -1,7 +1,7 @@
-## Adaptable RPL contiki
+# Adaptable RPL contiki
 Abstract: Contiki and code to automatic and unattended running different experiments with cooja. There are 3 basic experiments, one all RPL default, one that starts with default parameters, and can change them during the time of the experiment, and one that starts with parameters altered from the beginning. After the experiments are finished (without need for cooja to run the GUI) there are scripts to create all graphs of Packet Delivery Ratio and Overhead. 
 
-# PREREQUISITES:
+## PREREQUISITES:
 Install ant: sudo apt-get ant
 Make sure you have Java JDK 8 (not jre) as default java
  
@@ -36,6 +36,7 @@ Static node: Again, usually small Imin.
 Mobile node: Usually Imin remains unchanged. Be advised: Mobility plugin wants the mobile nodes first! So, create the mobile nodes, e.g., from 1-5, and then the statics from 6-11. Be careful with mobility traces, you SHOULD NOT include node 0, if you don’t want the sink to be a mobile (usually the case).
 All nodes have 3 versions: De, nothing changes (Default RPL). A(daptable) parameters change from the beginning. Dy(namic) parameters change at given time intervals (e.g. 20min, 40min)
 The code to change the parameters is in
+'''
   //change this number to anything. You can use this code twice or more  
   if(counter == 30){ 
        printf("R:%d, Changing Imin from 12 to 8\n",counter);
@@ -43,7 +44,7 @@ The code to change the parameters is in
 		  printf("R:%d, Changing Idouble from 8 to 0\n",counter);
 		  d->instance->dio_intdoubl = 0;
     }
-
+'''
 
 
 
