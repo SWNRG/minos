@@ -1,7 +1,7 @@
 # Adaptable RPL contiki
 Abstract: Contiki and code to automatic and unattended running different experiments with cooja. There are 3 basic experiments, one all RPL default, one that starts with default parameters, and can change them during the time of the experiment, and one that starts with parameters altered from the beginning. After the experiments are finished (without need for cooja to run the GUI) there are scripts to create all graphs of Packet Delivery Ratio and Overhead. 
 
-![cooja](/cooja-screenshot.png)
+![cooja](cooja-screenshot.png)
 Notice the messages in the motes' output are (much) more detailed than the standard contiki-RPL. They show detailed paths for each UDP packet traversing the network.
 
 ## PREREQUISITES:
