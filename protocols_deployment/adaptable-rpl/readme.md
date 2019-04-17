@@ -12,8 +12,8 @@ Notice the messages in the motes' output are (much) more detailed than the stand
 ## DESCRIPTION
 This Contiki version is modified only for specific message outputs in Cooja.
 It was tested on a clean machine, Ubuntu 16.0 working fine, but it should run in Ubuntu 14.0 as well. It was not tested in Ubuntu 18.0, but you should have no issues running it. 
-All alterations are in the folder core/net/rpl/*.* and they all have the comment //George at the beginning.
-The easiest way to track them all is to open the Terminal, navigate to Contiki folder, and then type “grep -r “//George”.
+All alterations are in the folder core/net/rpl/*.* and they all have the comment ```//George``` at the beginning.
+The easiest way to track them all is to open the Terminal, navigate to Contiki folder, and then type ```“grep -r “//George”```.
 
 Experiments were fully automated.
 Python code can run all three different scenarios according to the paper presented in Globecom.
