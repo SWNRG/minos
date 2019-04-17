@@ -8,6 +8,7 @@ Notice the messages in the motes' output are (much) more detailed than the stand
 ## PREREQUISITES:
 * #### Install ant: sudo apt-get ant
 * #### Make sure you have Java JDK 8 (not jre) as default java. Instructions [here](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04).
+* ### IMPORTANT: move the /contiki folder to the Ubuntu root.
  
 ## DESCRIPTION
 This Contiki version is modified only for specific message outputs in Cooja.
