@@ -2,8 +2,8 @@
 Abstract: Contiki and code to automatic and unattended running different experiments with cooja. There are 3 basic experiments, one all RPL default, one that starts with default parameters, and can change them during the time of the experiment, and one that starts with parameters altered from the beginning. After the experiments are finished (without need for cooja to run the GUI) there are scripts to create all graphs of Packet Delivery Ratio and Overhead. 
 
 ## PREREQUISITES:
-Install ant: sudo apt-get ant
-Make sure you have Java JDK 8 (not jre) as default java
+### Install ant: sudo apt-get ant
+### Make sure you have Java JDK 8 (not jre) as default java
  
 
 This Contiki version is modified only for specific message outputs in Cooja.
