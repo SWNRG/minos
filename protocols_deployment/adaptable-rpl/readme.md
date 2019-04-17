@@ -1,6 +1,7 @@
 # Adaptable RPL contiki
 Abstract: Contiki and code to automatic and unattended running different experiments with cooja. There are 3 basic experiments, one all RPL default, one that starts with default parameters, and can change them during the time of the experiment, and one that starts with parameters altered from the beginning. After the experiments are finished (without need for cooja to run the GUI) there are scripts to create all graphs of Packet Delivery Ratio and Overhead. 
 
+
 ## PREREQUISITES:
 * #### Install ant: sudo apt-get ant
 * #### Make sure you have Java JDK 8 (not jre) as default java
@@ -31,11 +32,12 @@ Many different experiments exist in file Contiki/tools/cooja/auto_run/* . In eac
 ### Cooja run
 To run cooja, go to Contiki/tools/cooja, and run “ant run big_mem”.
 From cooja go to file-open simulation-open and reconfigure (so you can see what will go wrong if any), and navigate to folder(s) inside /contiki/tools/cooja/auto_run/* and choose any *.csc . 
-Cooja is compiling z1 (zolertia) devices with the code found in /Contiki/examples/ipv6/coral-rpl-udp/* . There are 3 basic categories of nodes:
+Cooja is compiling z1 (zolertia) devices with the code found in /Contiki/examples/ipv6/coral-rpl-udp/* . 
+#### There are 3 basic categories of nodes:
 * Server node (sink): As a static node it is a good idea to keep the Imin low (feel free to experiment)
 * Static node: Again, usually small Imin.
 * Mobile node: Usually Imin remains unchanged. Be advised: Mobility plugin wants the mobile nodes first! So, create the mobile nodes, e.g., from 1-5, and then the statics from 6-11. Be careful with mobility traces, you SHOULD NOT include node 0, if you don’t want the sink to be a mobile (usually the case).
-All nodes have 3 versions: 
+#### All nodes have 3 versions: 
 * De, nothing changes (Default RPL)
 * A(daptable) parameters change from the beginning
 * Dy(namic) parameters change at given time intervals (e.g. 20min, 40min)
