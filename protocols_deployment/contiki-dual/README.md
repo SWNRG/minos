@@ -24,17 +24,17 @@ In the experiment we implement two network nodes that exchange messages using dy
 * [https://github.com/contiki-os/contiki/wiki/The-dynamic-loader] (dynamic loader wiki)
 
 #### ELF loading example
-*[https://github.com/contiki-os/contiki/blob/master/examples/sky-shell-exec/README.md](sky example)
-*[http://courses.cs.tau.ac.il/embedded/contiki-2.3/apps/shell/shell-exec.c](tau course)
-*[http://contiki-developers.narkive.com/ZSCNGOq4/the-dynamic-elfloader-problem](elf problem)
-*[http://contiki-developers.narkive.com/Fd5kIqrF/problem-with-loading-elfs-in-contiki](contiki elf problem)
-*[https://gitlab.ibr.cs.tu-bs.de/cm-thesis/2015-priedigk-ba-secure-wsn-udtn-code/blob/889a2bb0245ecb4168b800abc1c9243e730354b5/examples/sky/tcprudolph0.c](a thesis on the matter)
-*[https://sourceforge.net/p/contiki/mailman/message/32335474/] (blink elf example)
-*[http://osdir.com/ml/os.contiki.devel/2008-08/msg00034.html] (contiki message board)
+* [https://github.com/contiki-os/contiki/blob/master/examples/sky-shell-exec/README.md](sky example)
+* [http://courses.cs.tau.ac.il/embedded/contiki-2.3/apps/shell/shell-exec.c](tau course)
+* [http://contiki-developers.narkive.com/ZSCNGOq4/the-dynamic-elfloader-problem](elf problem)
+* [http://contiki-developers.narkive.com/Fd5kIqrF/problem-with-loading-elfs-in-contiki](contiki elf problem)
+* [https://gitlab.ibr.cs.tu-bs.de/cm-thesis/2015-priedigk-ba-secure-wsn-udtn-code/blob/889a2bb0245ecb4168b800abc1c9243e730354b5/examples/sky/tcprudolph0.c](a thesis on the matter)
+* [https://sourceforge.net/p/contiki/mailman/message/32335474/] (blink elf example)
+* [http://osdir.com/ml/os.contiki.devel/2008-08/msg00034.html] (contiki message board)
 
 #### Sending ELF to an other host
-*[https://gitlab.informatik.uni-bremen.de/bergmann/dcaf/commit/a9798651464e0992a687f00424b59865d11ee267](gitlab)
-*[https://github.com/contiki-os/contiki/blob/master/apps/codeprop/codeprop.c] (CODE PROPAGATION)
+* [https://gitlab.informatik.uni-bremen.de/bergmann/dcaf/commit/a9798651464e0992a687f00424b59865d11ee267](gitlab)
+* [https://github.com/contiki-os/contiki/blob/master/apps/codeprop/codeprop.c] (CODE PROPAGATION)
 
 #### Example source code (dload.c - hello.c)
 [elf.tar.gz]
