@@ -1,6 +1,6 @@
 Contiki dual
 ============================
-![Contiki dual](/contiki_dual.jpg)
+![Contiki dual](contiki_dual.jpg)
 This is a work in progress and one of our current goals, i.e., to enhance MINOS with the ability to operate "multi-stack" network protocols. In this attempt we have an adapted Contiki environment that supports a network stack with two routing algorithms: 
 * RIME and 
 * IPv6. 
@@ -37,7 +37,7 @@ In the experiment we implement two network nodes that exchange messages using dy
 * [https://github.com/contiki-os/contiki/blob/master/apps/codeprop/codeprop.c] (CODE PROPAGATION)
 
 #### Example source code (dload.c - hello.c)
-[elf.tar.gz](/elf.tar.gz)
+[elf.tar.gz](elf.tar.gz)
 make process
 * make TARGET=sky clean CLEAN=symbols.?
 * make dload.sky
