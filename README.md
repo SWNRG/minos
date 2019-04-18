@@ -5,7 +5,7 @@
 MINOS is suitable to accomodate many different protocols.
 Two of them are included, both in the relevalt folders inside protocols_deployment/. We also include a work in progress in dual-stack (contiki dual-stack) using a contiki version.
 
-* CORAL-SDN, Readme file [here]  (/protocols_deployment/coralSDN/readme.md)
+* CORAL-SDN, Readme file [eeeeeeeeeeeeeeeeee]  (/protocols_deployment/coral-sdn/readme.md)
 * Adaptable-RPL, Readme file [here](/protocols_deployment/adaptable-rpl/readme.md)
 * Dual Stack, Readme file [here] (/protocols_deployment/dual-stack/readme.md)
 
