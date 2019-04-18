@@ -2,8 +2,9 @@ Contiki dual
 ============================
 ![Contiki dual](contiki_dual.jpg)
 This is a work in progress and one of our current goals, i.e., to enhance MINOS with the ability to operate "multi-stack" network protocols. In this attempt we have an adapted Contiki environment that supports a network stack with two routing algorithms: 
-* RIME and 
-* IPv6. 
+* RIME 
+* IPv6
+
 In the experiment we implement two network nodes that exchange messages using dynamically and interchangeably RIME and IPv6 messages.
 
 ### The example requires a LINUX machine with Java and Contiki. 
