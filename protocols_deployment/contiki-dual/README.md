@@ -51,7 +51,7 @@ make process
 * #if DEBUG
 
 
-For more information contact Tryfon at tryfonthe@uom.gr
+For more information contact Tryfon at theodorou@uom.edu.gr
 
 For more information about Contiki, see the Contiki website:
 [http://contiki-os.org](http://contiki-os.org)
