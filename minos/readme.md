@@ -8,3 +8,4 @@ Some pics of previous versions and papers presenting its predecessor (CORAL) are
 * [Adaptable RPL protocol video](https://youtu.be/a8WM_Ql6tMo)
 
 ![BCP_Screen.png](BCP_Screen.png)
+![Screenshot 2017-09-12 20.54.13.png](Screenshot 2017-09-12 20.54.13.png)
