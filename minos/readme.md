@@ -9,7 +9,7 @@ Some pics of previous versions and papers presenting its predecessor (CORAL) are
 * [Adaptable RPL protocol video](https://youtu.be/a8WM_Ql6tMo)
 
 ### Real testbed in imec, Ghent, Belgium (WISHFUL Project)
-![iMec_testbed Experiments.png](iMec_testbed Experiments.png)
+![iMec_testbed_Experiments.png](iMec_testbed_Experiments.png)
 
 ### Realistic Visualization
 ![realView.png](realView.png)
