@@ -1,6 +1,6 @@
 # MINOS DASHBOARD - GUI
 
-![dashboardA](dashboardA.pdf)
+![dashboardA](dashboardA.pdf.png)
 The MINOS platform is designed to interact with the user through a highly flexible GUI, implemented in the Node-RED platform (https://nodered.org/).
 
 ![dashboardB](dashboardB.pdf)
