@@ -51,10 +51,10 @@ The code to change the parameters is at the bottom of the C code
 ```
   //change this number to anything. You can use this code twice or more  
   if(counter == 30){ 
-       printf("R:%d, Changing Imin from 12 to 8\n",counter);
-       d->instance->dio_intmin = 8;		  
-		  printf("R:%d, Changing Idouble from 8 to 0\n",counter);
-		  d->instance->dio_intdoubl = 0;
+        printf("R:%d, Changing Imin from 12 to 8\n",counter);
+        d->instance->dio_intmin = 8;		  
+	printf("R:%d, Changing Idouble from 8 to 0\n",counter);
+	d->instance->dio_intdoubl = 0;
     }
 ```
 
