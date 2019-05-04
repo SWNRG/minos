@@ -1,12 +1,12 @@
-### Contiki elfs - Dynamically Loading Linking Libraries to Contiki at run-time
+## Contiki elfs - Dynamically Loading Linking Libraries to Contiki at run-time
 [http://dunkels.com/adam/dunkels06runtime.pdf](classical Dunkels paper)
 
-#### Documentation of ELF
+### Documentation of ELF
 * [https://dak664.github.io/contiki-doxygen/a01562.html](doxygen)
 * [http://contiki.sourceforge.net/docs/2.6/a01749.html] (contiki 2.6)
 * [https://github.com/contiki-os/contiki/wiki/The-dynamic-loader] (dynamic loader wiki)
 
-#### ELF loading example
+### ELF loading example
 * [https://github.com/contiki-os/contiki/blob/master/examples/sky-shell-exec/README.md](sky example)
 * [http://courses.cs.tau.ac.il/embedded/contiki-2.3/apps/shell/shell-exec.c](tau course)
 * [http://contiki-developers.narkive.com/ZSCNGOq4/the-dynamic-elfloader-problem](elf problem)
@@ -15,11 +15,11 @@
 * [https://sourceforge.net/p/contiki/mailman/message/32335474/] (blink elf example)
 * [http://osdir.com/ml/os.contiki.devel/2008-08/msg00034.html] (contiki message board)
 
-#### Sending ELF to an other host
+### Sending ELF to an other host
 * [https://gitlab.informatik.uni-bremen.de/bergmann/dcaf/commit/a9798651464e0992a687f00424b59865d11ee267](gitlab)
 * [https://github.com/contiki-os/contiki/blob/master/apps/codeprop/codeprop.c] (CODE PROPAGATION)
 
-#### Example source code (dload.c - hello.c)
+### Example source code (dload.c - hello.c)
 [elf.tar.gz](elf.tar.gz)
 make process
 * make TARGET=sky clean CLEAN=symbols.?
@@ -27,7 +27,7 @@ make process
 * make CORE=dload.sky dload.sky
 * make CORE=dload.sky dload.sky
 * make TARGET=sky hello.ce
-#### Enable DEBUG info for elf
+### Enable DEBUG info for elf
 * core/loader/elfloader.c
 * #define DEBUG 1
 * #if DEBUG
