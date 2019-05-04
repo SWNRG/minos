@@ -1,4 +1,3 @@
-Contiki Dynamic Link Libraries
 ### Contiki elfs - Dynamically Loading Linking Libraries to Contiki at run-time
 [http://dunkels.com/adam/dunkels06runtime.pdf](classical Dunkels paper)
 
